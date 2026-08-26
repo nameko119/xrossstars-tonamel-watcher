@@ -1,0 +1,145 @@
+[
+  {
+    "name": "list",
+    "name_localizations": { "ja": "一覧" },
+    "description": "収集したXrossstars大会を一覧表示します",
+    "description_localizations": { "ja": "収集したXrossstars大会を一覧表示します" },
+    "options": [
+      {
+        "type": 3, "name": "format", "name_localizations": { "ja": "形式" },
+        "description": "オンライン / オフラインで絞る", "required": false,
+        "choices": [
+          { "name": "オンライン", "value": "online" },
+          { "name": "オフライン", "value": "offline" }
+        ]
+      },
+      {
+        "type": 3, "name": "period", "name_localizations": { "ja": "期間" },
+        "description": "開催時期で絞る", "required": false,
+        "choices": [
+          { "name": "今日", "value": "今日" },
+          { "name": "明日", "value": "明日" },
+          { "name": "今週末", "value": "今週末" },
+          { "name": "今週", "value": "今週" },
+          { "name": "来週", "value": "来週" },
+          { "name": "今月", "value": "今月" },
+          { "name": "来月", "value": "来月" },
+          { "name": "30日以内", "value": "30日以内" }
+        ]
+      },
+      {
+        "type": 3, "name": "region", "name_localizations": { "ja": "地方" },
+        "description": "地方で絞る", "required": false,
+        "choices": [
+          { "name": "北海道", "value": "北海道" },
+          { "name": "東北", "value": "東北" },
+          { "name": "関東", "value": "関東" },
+          { "name": "中部", "value": "中部" },
+          { "name": "関西", "value": "関西" },
+          { "name": "中国", "value": "中国" },
+          { "name": "四国", "value": "四国" },
+          { "name": "九州・沖縄", "value": "九州・沖縄" }
+        ]
+      },
+      {
+        "type": 5, "name": "include_past", "name_localizations": { "ja": "過去も表示" },
+        "description": "終了した大会も含める", "required": false
+      }
+    ]
+  },
+  {
+    "name": "search",
+    "name_localizations": { "ja": "検索" },
+    "description": "条件を組み合わせてXrossstars大会を検索します",
+    "description_localizations": { "ja": "条件を組み合わせてXrossstars大会を検索します" },
+    "options": [
+      {
+        "type": 3, "name": "keyword", "name_localizations": { "ja": "キーワード" },
+        "description": "大会名・会場・主催者に含まれる語（スペース区切りでAND検索）",
+        "required": false
+      },
+      {
+        "type": 3, "name": "prefecture", "name_localizations": { "ja": "都道府県" },
+        "description": "例: 東京 / 大阪 / 北海道", "required": false
+      },
+      {
+        "type": 3, "name": "format", "name_localizations": { "ja": "形式" },
+        "description": "オンライン / オフラインで絞る", "required": false,
+        "choices": [
+          { "name": "オンライン", "value": "online" },
+          { "name": "オフライン", "value": "offline" }
+        ]
+      },
+      {
+        "type": 3, "name": "period", "name_localizations": { "ja": "期間" },
+        "description": "開催時期で絞る", "required": false,
+        "choices": [
+          { "name": "今日", "value": "今日" },
+          { "name": "明日", "value": "明日" },
+          { "name": "今週末", "value": "今週末" },
+          { "name": "今週", "value": "今週" },
+          { "name": "来週", "value": "来週" },
+          { "name": "今月", "value": "今月" },
+          { "name": "来月", "value": "来月" },
+          { "name": "30日以内", "value": "30日以内" }
+        ]
+      },
+      {
+        "type": 3, "name": "region", "name_localizations": { "ja": "地方" },
+        "description": "地方で絞る", "required": false,
+        "choices": [
+          { "name": "北海道", "value": "北海道" },
+          { "name": "東北", "value": "東北" },
+          { "name": "関東", "value": "関東" },
+          { "name": "中部", "value": "中部" },
+          { "name": "関西", "value": "関西" },
+          { "name": "中国", "value": "中国" },
+          { "name": "四国", "value": "四国" },
+          { "name": "九州・沖縄", "value": "九州・沖縄" }
+        ]
+      },
+      {
+        "type": 4, "name": "min_capacity", "name_localizations": { "ja": "定員下限" },
+        "description": "定員がこの人数以上", "required": false, "min_value": 0
+      },
+      {
+        "type": 4, "name": "max_capacity", "name_localizations": { "ja": "定員上限" },
+        "description": "定員がこの人数以下", "required": false, "min_value": 0
+      },
+      {
+        "type": 4, "name": "max_fee", "name_localizations": { "ja": "参加費上限" },
+        "description": "参加費がこの金額（円）以下", "required": false, "min_value": 0
+      },
+      {
+        "type": 5, "name": "free", "name_localizations": { "ja": "無料のみ" },
+        "description": "参加費が無料の大会だけ", "required": false
+      },
+      {
+        "type": 3, "name": "organizer", "name_localizations": { "ja": "主催者" },
+        "description": "主催者名に含まれる語", "required": false
+      },
+      {
+        "type": 3, "name": "date_from", "name_localizations": { "ja": "開催日から" },
+        "description": "YYYY-MM-DD 形式", "required": false
+      },
+      {
+        "type": 3, "name": "date_to", "name_localizations": { "ja": "開催日まで" },
+        "description": "YYYY-MM-DD 形式", "required": false
+      },
+      {
+        "type": 5, "name": "include_past", "name_localizations": { "ja": "過去も表示" },
+        "description": "終了した大会も含める", "required": false
+      },
+      {
+        "type": 3, "name": "sort", "name_localizations": { "ja": "並び替え" },
+        "description": "並び順", "required": false,
+        "choices": [
+          { "name": "開催日が近い順", "value": "date" },
+          { "name": "開催日が遠い順", "value": "-date" },
+          { "name": "新しく見つけた順", "value": "added" },
+          { "name": "大会名順", "value": "title" }
+        ]
+      }
+    ]
+  }
+]

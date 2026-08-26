@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "schema_version": 1,
+    "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。"
+  },
+  "competitions": {}
+}

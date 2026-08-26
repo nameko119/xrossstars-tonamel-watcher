@@ -1,0 +1,93 @@
+{
+  "meta": { "schema_version": 1, "note": "テストとプレビュー用のダミーデータです。実在の大会ではありません。" },
+  "competitions": {
+    "smp001": {
+      "id": "smp001", "url": "https://tonamel.com/competition/smp001",
+      "title": "第3回 クロススターズ杯", "start_at": "2026-09-05T13:00:00+09:00",
+      "end_at": "2026-09-05T18:00:00+09:00", "start_date": "2026-09-05",
+      "format": "オフライン", "venue": "秋葉原ベルサール 3F", "organizer": "なめこ商会",
+      "entry_fee": "1000円", "capacity": "32名", "entry_period": "2026/08/01 〜 2026/09/04",
+      "first_seen": "2026-08-01T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp002": {
+      "id": "smp002", "url": "https://tonamel.com/competition/smp002",
+      "title": "オンライン交流会 vol.9 【初心者歓迎】", "start_at": "2026-09-06T20:00:00+09:00",
+      "start_date": "2026-09-06", "format": "オンライン", "venue": "",
+      "organizer": "XSオンライン部", "entry_fee": "無料", "capacity": "16名",
+      "first_seen": "2026-08-02T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp003": {
+      "id": "smp003", "url": "https://tonamel.com/competition/smp003",
+      "title": "大阪クロススターズフェス", "start_at": "2026-09-12T11:00:00+09:00",
+      "start_date": "2026-09-12", "format": "オフライン",
+      "venue": "大阪府大阪市 なんばカードスペース", "organizer": "関西XS会",
+      "entry_fee": "1,500円", "capacity": "64名",
+      "first_seen": "2026-08-03T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp004": {
+      "id": "smp004", "url": "https://tonamel.com/competition/smp004",
+      "title": "札幌ローカル杯", "start_date": "2026-09-20", "format": "オフライン",
+      "venue": "札幌市中央区 カードショップ北斗", "organizer": "北の大地XS",
+      "entry_fee": "500円", "capacity": "16名",
+      "first_seen": "2026-08-04T09:00:00+09:00", "seq": 0, "source": "list"
+    },
+    "smp005": {
+      "id": "smp005", "url": "https://tonamel.com/competition/smp005",
+      "title": "深夜のオンライン早指し", "start_at": "2026-09-08T23:00:00+09:00",
+      "start_date": "2026-09-08", "format": "オンライン", "organizer": "XSオンライン部",
+      "entry_fee": "無料", "capacity": "8名",
+      "first_seen": "2026-08-05T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp006": {
+      "id": "smp006", "url": "https://tonamel.com/competition/smp006",
+      "title": "名古屋 栄光カップ 2026", "start_at": "2026-10-03T10:00:00+09:00",
+      "start_date": "2026-10-03", "format": "オフライン",
+      "venue": "愛知県名古屋市 大須ホール", "organizer": "中部XS連合",
+      "entry_fee": "2000円", "capacity": "128名",
+      "first_seen": "2026-08-06T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp007": {
+      "id": "smp007", "url": "https://tonamel.com/competition/smp007",
+      "title": "横浜チーム戦（3人1組）", "start_at": "2026-10-10T12:00:00+09:00",
+      "start_date": "2026-10-10", "format": "オフライン",
+      "venue": "神奈川県横浜市 みなとみらいホール", "organizer": "ヨコハマXS",
+      "entry_fee": "1200円", "capacity": "24チーム",
+      "first_seen": "2026-08-07T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp008": {
+      "id": "smp008", "url": "https://tonamel.com/competition/smp008",
+      "title": "福岡 天神杯", "start_at": "2026-11-14T13:00:00+09:00",
+      "start_date": "2026-11-14", "format": "オフライン",
+      "venue": "天神ビル 会議室A", "organizer": "九州XS",
+      "entry_fee": "800円", "capacity": "32名",
+      "first_seen": "2026-08-08T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp009": {
+      "id": "smp009", "url": "https://tonamel.com/competition/smp009",
+      "title": "初心者限定オンライン練習会", "start_at": "2026-09-27T19:00:00+09:00",
+      "start_date": "2026-09-27", "format": "オンライン", "organizer": "なめこ商会",
+      "entry_fee": "無料", "capacity": "無制限",
+      "first_seen": "2026-08-09T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp010": {
+      "id": "smp010", "url": "https://tonamel.com/competition/smp010",
+      "title": "京都 洛中カップ", "start_date": "2026-12-06", "format": "オフライン",
+      "venue": "京都市中京区 四条烏丸スタジオ", "organizer": "洛中XS",
+      "entry_fee": "1000円", "capacity": "48名",
+      "first_seen": "2026-08-10T09:00:00+09:00", "seq": 0, "source": "list"
+    },
+    "smp011": {
+      "id": "smp011", "url": "https://tonamel.com/competition/smp011",
+      "title": "終了した過去大会（表示テスト用）", "start_at": "2026-07-01T13:00:00+09:00",
+      "start_date": "2026-07-01", "format": "オフライン", "venue": "東京都新宿区",
+      "organizer": "なめこ商会", "entry_fee": "1000円", "capacity": "32名",
+      "first_seen": "2026-06-01T09:00:00+09:00", "seq": 0, "source": "detail"
+    },
+    "smp012": {
+      "id": "smp012", "url": "https://tonamel.com/competition/smp012",
+      "title": "日程未定のエキシビション", "format": "", "venue": "調整中",
+      "organizer": "なめこ商会", "entry_fee": "", "capacity": "",
+      "first_seen": "2026-08-11T09:00:00+09:00", "seq": 0, "source": "list"
+    }
+  }
+}
