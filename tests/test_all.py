@@ -736,6 +736,114 @@ def test_pipeline_outputs() -> None:
             C.DB_PATH, C.ICS_PATH, build_site.SITE_PATH = orig
 
 
+# ------------------------------------------- 実データで見つかった不具合の再発防止
+def test_real_world_regressions() -> None:
+    """実際にTonamelから取れたデータで起きた誤りを、二度と起こさないための確認。"""
+    print("\n[14] 実データで見つかった不具合")
+    from src import config as C
+    from src.normalize import detect_by_address_shape, detect_prefecture, normalize
+    from src.scrape import _needs_detail, extract_address
+
+    # --- ① 会場の住所が「京都千代田区」と誤記されていた（東の字が抜けている）---
+    # 短縮形「京都」を先に見ていたため京都府と判定していた。
+    # 市区町村名を先に見ることで東京都と判定できる。
+    typo = "カードショップおうち秋葉原店\n京都千代田区外神田４丁目７−１ リバティ11号館 5階"
+    check("誤記された住所でも区名で判定できる", detect_prefecture(typo), "東京都")
+    check("正しい京都の住所は京都府のまま",
+          detect_prefecture("京都府京都市中京区四条烏丸"), "京都府")
+    check("東京都の住所はそのまま", detect_prefecture("東京都千代田区外神田"), "東京都")
+
+    # --- ② 大会結果に出てくるチーム名を地名と取り違えていた ---
+    # 「町田サイファー」というチーム名から東京都と判定してしまっていた。
+    results_page = (
+        "決勝トーナメント\n主催：\nnanacs\nイベント結果\n"
+        "3位 高大社\n予選1位　TNT愛好会\n2位　町田サイファー\nしらすぅ\n"
+        "開催形式\nオフライン\n"
+    )
+    c = normalize(Competition(id="r1", url="u", title="決勝トーナメント",
+                              format="オフライン", raw_text=results_page))
+    check("チーム名を地名と取り違えない", c.prefecture, "")
+
+    # --- ③ 一覧カードに住所がラベル無しで載っている ---
+    card = ("募集前\n第3回　強奪の宴杯　カートン争奪\n2026/11/07(土)\n"
+            "愛知県名古屋市中村区椿町13-4スパーク椿町6F\n¥ 2,500\n0/64\n")
+    check("ラベル無しの住所行を拾う",
+          extract_address(card), "愛知県名古屋市中村区椿町13-4スパーク椿町6F")
+    check("住所の形から判定できる", detect_by_address_shape(card), "愛知県")
+    c = normalize(Competition(id="r2", url="u", format="オフライン", raw_text=card))
+    check("一覧だけでも都道府県が入る", c.prefecture, "愛知県")
+
+    # --- ④ 説明文が長いと「開催場所」欄が1500字で切り捨てられていた ---
+    # 住所は切る前に取り出して address に持たせる。
+    long_page = (
+        "はっちcs 3人チーム戦 in 大さん橋ホール\n主催：\nはっちcs\n"
+        "開催形式\nオフライン\nイベント詳細\n"
+        + "本大会の注意事項がここに延々と書かれています。" * 90 + "\n"
+        + "続きを読む\n開催場所\n大さん橋ホール\n"
+          "神奈川県横浜市中区海岸通1-1-4\n連絡先\nx.com/example\n"
+    )
+    check_true("テスト文が1500字を超えている", len(long_page) > 1500)
+    addr = extract_address(long_page, "大さん橋ホール")
+    check("切り捨てより後ろにある住所を拾える", addr, "神奈川県横浜市中区海岸通1-1-4")
+    check("会場名そのものは住所に含めない", "大さん橋ホール" in addr, False)
+    check("次の項目（連絡先）を巻き込まない", "連絡先" in addr, False)
+
+    comp = Competition(id="r3", url="u", format="オフライン", venue="大さん橋ホール")
+    comp.address = addr
+    comp.raw_text = long_page[:1500]      # 保存されるのは切られたぶんだけ
+    normalize(comp)
+    check("住所から都道府県が入る", comp.prefecture, "神奈川県")
+    check("地方も入る", comp.region, "関東")
+
+    # --- ⑤ 郵便番号だけが手がかりの場合 ---
+    postal = "会場\nカードショップ例\n〒060-0061 北海道札幌市中央区南一条西\n"
+    check("郵便番号のある行を住所として拾う",
+          detect_prefecture(extract_address(postal, "カードショップ例")), "北海道")
+
+    # --- ⑥ 紛らわしい地名 ---
+    check("浜松町は東京（浜松＝静岡と混同しない）",
+          detect_prefecture("東京都立産業貿易センター浜松町館"), "東京都")
+    check("浜松町だけでも東京", detect_prefecture("浜松町館"), "東京都")
+    check("浜松は静岡のまま", detect_prefecture("浜松の会場"), "静岡県")
+    check("『栄光カップ』を名古屋の栄と誤認しない", detect_prefecture("栄光カップ"), None)
+    check("会場名だけで手がかりが無ければ空", detect_prefecture("サンモール店"), None)
+
+    # --- ⑦ 説明文の中の関係ない地名を拾わない ---
+    noisy = ("イベント詳細\n次回は大阪でも開催予定です。\n"
+             "過去の優勝者は福岡出身。\n開催場所\nカードショップ例\n東京都新宿区西新宿\n")
+    c = normalize(Competition(id="r4", url="u", format="オフライン", raw_text=noisy))
+    check("説明文の雑談ではなく開催場所を見る", c.prefecture, "東京都")
+
+    # --- ⑧ 詳細ページの取り直し ---
+    fresh = Competition(id="k1", url="u", title="既存の大会", start_date="2026-09-01")
+    old_ver = Competition.from_dict(fresh.to_dict())
+    old_ver.detail_version = C.DETAIL_VERSION
+    old_ver.source = "detail"
+    known = {"k1": old_ver}
+    check("情報が揃っていれば詳細を開き直さない",
+          _needs_detail(fresh, {"k1"}, known), False)
+
+    outdated = Competition.from_dict(old_ver.to_dict())
+    outdated.detail_version = 1
+    check("抽出ロジックが新しくなったら取り直す",
+          _needs_detail(fresh, {"k1"}, {"k1": outdated}), True)
+
+    api_only = Competition.from_dict(old_ver.to_dict())
+    api_only.source = "api"
+    check("取得上限で詳細が取れなかったものは取り直す",
+          _needs_detail(fresh, {"k1"}, {"k1": api_only}), True)
+    check("未知の大会は当然取りにいく",
+          _needs_detail(Competition(id="new", url="u", title="新", start_date="2026-09-01"),
+                        {"k1"}, known), True)
+
+    # --- ⑨ 住所は差分検知に含めない（付け直しで通知が飛ばない） ---
+    before = Competition(id="s1", url="u", title="大会", venue="会場")
+    sig = before.signature()
+    before.address = "東京都新宿区西新宿1-1-1"
+    normalize(before)
+    check("住所が入っても『変更あり』にならない", before.signature(), sig)
+
+
 def main_() -> int:
     print("Xrossstars 大会ウォッチャー 自己テスト")
     test_dates()
@@ -751,6 +859,7 @@ def main_() -> int:
     test_search()
     test_build_site()
     test_pipeline_outputs()
+    test_real_world_regressions()
     print("\n" + "=" * 60)
     if failures:
         print(f"❌ {len(failures)}件 失敗:")

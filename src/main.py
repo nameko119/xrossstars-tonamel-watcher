@@ -83,7 +83,7 @@ def main(argv: list[str] | None = None) -> int:
 
         scraped, meta = scrape(
             fetch_detail=not args.no_detail,
-            known_ids=set(store.competitions),
+            known=store.competitions,
         )
 
     if not scraped:

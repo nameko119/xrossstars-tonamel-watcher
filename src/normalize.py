@@ -45,9 +45,37 @@ for _p in PREFECTURES:
     if _p != "北海道":
         SHORT_TO_PREF[re.sub(r"[都道府県]$", "", _p)] = _p
 
-# よく会場名に出る地名 → 都道府県。
-# 取り違えが起きやすい地名（「日本橋」は東京にも大阪にもある）は意図的に入れていない。
+# 市区町村・地名 → 都道府県。
+#
+# ここに入れてよいのは「日本にひとつしか無い」名前だけ。
+# 「中央区」「北区」「港区」「府中市」のように複数の都道府県にある名前や、
+# 「栄」「柏」のような1文字の地名は、取り違えるので入れない。
+# （「日本橋」も東京・大阪の両方にあるため入れていない）
 CITY_TO_PREF: dict[str, str] = {
+    # --- 東京23区のうち、他県と重複しないもの ---
+    # 港区・中央区・北区は名古屋/大阪/京都などにもあるため除外している
+    "千代田区": "東京都", "新宿区": "東京都", "文京区": "東京都", "台東区": "東京都",
+    "墨田区": "東京都", "江東区": "東京都", "品川区": "東京都", "目黒区": "東京都",
+    "大田区": "東京都", "世田谷区": "東京都", "渋谷区": "東京都", "中野区": "東京都",
+    "杉並区": "東京都", "豊島区": "東京都", "荒川区": "東京都", "板橋区": "東京都",
+    "練馬区": "東京都", "足立区": "東京都", "葛飾区": "東京都", "江戸川区": "東京都",
+    # --- 政令指定都市（「市」まで含めれば一意） ---
+    "札幌市": "北海道", "仙台市": "宮城県", "さいたま市": "埼玉県", "千葉市": "千葉県",
+    "横浜市": "神奈川県", "川崎市": "神奈川県", "相模原市": "神奈川県",
+    "新潟市": "新潟県", "静岡市": "静岡県", "浜松市": "静岡県", "名古屋市": "愛知県",
+    "京都市": "京都府", "大阪市": "大阪府", "堺市": "大阪府", "神戸市": "兵庫県",
+    "岡山市": "岡山県", "広島市": "広島県", "北九州市": "福岡県", "福岡市": "福岡県",
+    "熊本市": "熊本県",
+    # --- 県庁所在地など（「市」まで含めれば一意なものだけ） ---
+    "青森市": "青森県", "盛岡市": "岩手県", "秋田市": "秋田県", "山形市": "山形県",
+    "福島市": "福島県", "水戸市": "茨城県", "宇都宮市": "栃木県", "前橋市": "群馬県",
+    "甲府市": "山梨県", "長野市": "長野県", "岐阜市": "岐阜県", "富山市": "富山県",
+    "金沢市": "石川県", "福井市": "福井県", "大津市": "滋賀県", "奈良市": "奈良県",
+    "和歌山市": "和歌山県", "鳥取市": "鳥取県", "松江市": "島根県", "山口市": "山口県",
+    "徳島市": "徳島県", "高松市": "香川県", "松山市": "愛媛県", "高知市": "高知県",
+    "佐賀市": "佐賀県", "長崎市": "長崎県", "大分市": "大分県", "宮崎市": "宮崎県",
+    "鹿児島市": "鹿児島県", "那覇市": "沖縄県",
+    # --- 会場名によく出る地名・繁華街 ---
     "札幌": "北海道", "すすきの": "北海道",
     "仙台": "宮城県", "青葉区": "宮城県",
     "秋葉原": "東京都", "アキバ": "東京都", "新宿": "東京都", "池袋": "東京都",
@@ -64,9 +92,13 @@ CITY_TO_PREF: dict[str, str] = {
     "河原町": "京都府", "四条": "京都府",
     "博多": "福岡県", "天神": "福岡県", "小倉": "福岡県",
     "那覇": "沖縄県", "国際通り": "沖縄県",
-    "広島市": "広島県", "岡山市": "岡山県", "松山市": "愛媛県", "高松": "香川県",
-    "新潟市": "新潟県", "静岡市": "静岡県", "浜松": "静岡県", "宇都宮": "栃木県",
-    "高崎": "群馬県", "水戸": "茨城県", "鹿児島市": "鹿児島県", "熊本市": "熊本県",
+    "高松": "香川県", "高崎": "群馬県", "宇都宮": "栃木県", "水戸": "茨城県",
+    "浜松": "静岡県",   # 「浜松町」(東京)は長い名前が先に判定されるので誤爆しない
+    # 実際の大会でよく出てくる会場・地名
+    "越谷": "埼玉県", "川越駅": "埼玉県", "所沢": "埼玉県",
+    "名取": "宮城県", "糸島": "福岡県", "大さん橋": "神奈川県",
+    "浜松町": "東京都",   # 「浜松」(静岡)より先に判定されるよう長い名前にしてある
+    "上大岡": "神奈川県", "本厚木": "神奈川県",
 }
 
 ONLINE_WORDS = ("オンライン", "online", "リモート", "web開催", "ウェブ開催", "配信")
@@ -120,24 +152,83 @@ def parse_fee(text: str) -> int | None:
     return None
 
 
-def detect_prefecture(*texts: str) -> str | None:
-    """会場名などから都道府県を推定する。"""
-    blob = " ".join(_han(t) for t in texts if t)
-    if not blob:
+# 「住所らしい場所」を見つけるための手がかり。
+# 説明文全体を都道府県名で検索すると、関係のない土地の話を拾ってしまうので、
+# 説明文から探すときはこの近くだけを見る。
+_ADDRESS_ANCHOR = re.compile(
+    r"〒\s*\d{3}[-−]?\d{4}|(?:開催場所|開催地|会場|住所|所在地|アクセス)\s*[:：]?"
+)
+
+
+def address_windows(text: str, width: int = 90) -> list[str]:
+    """説明文の中から「住所が書かれていそうな部分」だけを切り出す。"""
+    if not text:
+        return []
+    out = []
+    for m in _ADDRESS_ANCHOR.finditer(_han(text)):
+        out.append(text[m.start(): m.start() + width])
+    return out
+
+
+# 「愛知県名古屋市…」のように、都道府県名のすぐ後ろに市区郡町村が続く形。
+# 住所としての形をしているので、説明文の中から拾っても取り違えにくい。
+# 逆に「京都千代田区」のような誤記（都道府県名が正しく書かれていない）には
+# 反応しないので、そちらは市区町村名の辞書のほうで拾う。
+ADDRESS_SHAPE = re.compile(
+    r"(" + "|".join(PREFECTURES) + r")[^\s　]{0,8}?[市区郡町村]"
+)
+
+
+def detect_by_address_shape(text: str) -> str | None:
+    """文章の中から「住所の形をしている部分」を見つけて都道府県を返す。"""
+    if not text:
         return None
-    # 「〜県」「〜都」まで書かれていれば確実なので最優先
+    m = ADDRESS_SHAPE.search(_han(text))
+    return m.group(1) if m else None
+
+
+def _by_full_name(blob: str) -> str | None:
+    """「東京都」「京都府」のように接尾辞まで書かれているもの。いちばん確実。"""
     for pref in PREFECTURES:
         if pref in blob:
             return pref
-    # 次に「東京」「大阪」など接尾辞なしの表記
-    for short, pref in sorted(SHORT_TO_PREF.items(), key=lambda kv: -len(kv[0])):
-        if len(short) >= 2 and short in blob:
-            return pref
-    # 最後に地名から推定。1文字の地名は誤爆する（「栄光杯」の「栄」など）ので使わない
+    return None
+
+
+def _by_city(blob: str) -> str | None:
+    """市区町村・地名から。都道府県名が省略・誤記されていても効く。"""
     for city, pref in sorted(CITY_TO_PREF.items(), key=lambda kv: -len(kv[0])):
         if len(city) >= 2 and city in blob:
             return pref
     return None
+
+
+def _by_short_name(blob: str) -> str | None:
+    """「東京」「大阪」など接尾辞なしの表記。いちばん当てにならない。"""
+    for short, pref in sorted(SHORT_TO_PREF.items(), key=lambda kv: -len(kv[0])):
+        if len(short) >= 2 and short in blob:
+            return pref
+    return None
+
+
+def detect_prefecture(*texts: str, allow_short: bool = True) -> str | None:
+    """会場名・住所などから都道府県を推定する。
+
+    確実な手がかりから順に見る。市区町村名を短縮形より先に見るのが重要で、
+    たとえば住所が「京都千代田区…」と誤記されていても
+    （実際にTonamel上でこう登録されている会場がある）、
+    「千代田区」を先に拾うので東京都と判定できる。
+
+    allow_short=False にすると「東京」「大阪」のような接尾辞なしの表記を
+    使わなくなる。説明文のように関係ない地名が混ざる文章に対して使う。
+    """
+    blob = " ".join(_han(t) for t in texts if t)
+    if not blob:
+        return None
+    found = _by_full_name(blob) or _by_city(blob)
+    if found or not allow_short:
+        return found
+    return _by_short_name(blob)
 
 
 def detect_online(*texts: str, existing: str = "") -> bool | None:
@@ -173,7 +264,16 @@ def normalize(comp: Competition) -> Competition:
         comp.prefecture = ""
         comp.region = ""
     else:
-        pref = detect_prefecture(comp.venue, comp.title, comp.raw_text)
+        # 手がかりの確かさが高い順に見る。説明文(raw_text)を丸ごと検索すると
+        # 関係のない土地の話を拾うので、住所らしい部分だけに限定する。
+        pref = (
+            detect_prefecture(comp.address, comp.venue)      # 住所・会場名
+            or detect_prefecture(comp.title)                 # 大会名（「大阪〜杯」など）
+            or detect_by_address_shape(comp.raw_text)        # 説明文中の住所らしい並び
+            # 最後に「開催場所」欄や郵便番号のまわりだけを見る。
+            # ここでは短縮形を使わない（説明文には他所の地名が混ざるため）
+            or detect_prefecture(*address_windows(comp.raw_text), allow_short=False)
+        )
         comp.prefecture = pref or ""
         comp.region = PREF_TO_REGION.get(pref or "", "")
     return comp

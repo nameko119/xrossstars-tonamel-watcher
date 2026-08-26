@@ -45,8 +45,8 @@ const XSSearch = (() => {
   }
 
   function searchableText(c) {
-    return fold([c.title, c.venue, c.organizer, c.prefecture, c.region, c.format, c.id]
-      .filter(Boolean).join(" "));
+    return fold([c.title, c.venue, c.address, c.organizer, c.prefecture, c.region,
+      c.format, c.id].filter(Boolean).join(" "));
   }
 
   function resolvePrefecture(name) {

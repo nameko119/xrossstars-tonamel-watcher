@@ -64,7 +64,7 @@ def event_date(comp: Competition) -> date | None:
 
 def searchable_text(comp: Competition) -> str:
     return fold(" ".join([
-        comp.title, comp.venue, comp.organizer, comp.prefecture,
+        comp.title, comp.venue, comp.address, comp.organizer, comp.prefecture,
         comp.region, comp.format, comp.id,
     ]))
 

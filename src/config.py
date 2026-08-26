@@ -30,7 +30,11 @@ DETAIL_TIMEOUT_MS = int(os.environ.get("DETAIL_TIMEOUT_MS", "45000"))
 # 「もっと見る」クリック / 無限スクロールの最大試行回数
 MAX_SCROLL_ROUNDS = int(os.environ.get("MAX_SCROLL_ROUNDS", "12"))
 # 1回の実行で詳細ページを開く最大件数（初回シード時の暴走防止）
-MAX_DETAIL_FETCH = int(os.environ.get("MAX_DETAIL_FETCH", "40"))
+MAX_DETAIL_FETCH = int(os.environ.get("MAX_DETAIL_FETCH", "80"))
+# 詳細ページの抽出ロジックの版。ここを上げると、既存の大会も1回だけ取り直す。
+#   1 … 初版
+#   2 … 会場の住所を address として保存するようにした
+DETAIL_VERSION = int(os.environ.get("DETAIL_VERSION", "2"))
 # 詳細ページを取得するか
 FETCH_DETAIL = os.environ.get("FETCH_DETAIL", "1") not in ("0", "false", "False")
 # 詳細ページ間の待ち（秒）: 相手サーバへの配慮

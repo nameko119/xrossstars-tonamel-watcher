@@ -20,7 +20,10 @@ class Competition:
     start_date: str | None = None
     # "オンライン" / "オフライン" / "" （不明）
     format: str = ""
-    venue: str = ""  # 会場名・都道府県など
+    venue: str = ""  # 会場名（例: "カードショップおうち秋葉原店"）
+    # 会場の住所。詳細ページの「開催場所」欄から取る。
+    # raw_text は途中で切るので、住所だけは別に持っておかないと失われる。
+    address: str = ""
     organizer: str = ""
     entry_fee: str = ""
     capacity: str = ""
@@ -37,6 +40,9 @@ class Competition:
 
     # 取得元と生テキスト（デバッグ・後からの再パース用）
     source: str = "list"
+    # 詳細ページを取ったときの抽出ロジックの版。
+    # config.DETAIL_VERSION より古い大会は、次の実行で詳細を取り直す。
+    detail_version: int = 0
     raw_text: str = ""
     raw_json: dict[str, Any] = field(default_factory=dict)
     # 内部管理用
@@ -77,6 +83,7 @@ class Competition:
             "start_date",
             "format",
             "venue",
+            "address",
             "organizer",
             "entry_fee",
             "capacity",
@@ -91,4 +98,6 @@ class Competition:
             merged.raw_json = other.raw_json
         if other.source and other.source != "list":
             merged.source = other.source
+        if other.detail_version:
+            merged.detail_version = other.detail_version
         return merged

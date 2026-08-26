@@ -27,6 +27,7 @@ PAGE_TITLE = "Xrossstars 大会ファインダー"
 # 閲覧側に渡すのは表示と絞り込みに使う項目だけ。生HTMLなどは載せない。
 EXPORT_FIELDS = (
     "id", "url", "title", "start_at", "end_at", "start_date", "format", "venue",
+    "address",
     "organizer", "entry_fee", "capacity", "entry_period", "prefecture", "region",
     "capacity_num", "fee_num", "is_online", "first_seen",
 )
@@ -544,6 +545,8 @@ APP_JS = r"""
     meta.className = "meta";
     const bits = [];
     if (c.venue) bits.push(c.venue);
+    // 住所は会場名と重複しないときだけ添える
+    if (c.address && !(c.venue && c.address.includes(c.venue))) bits.push(c.address);
     if (c.organizer) bits.push("主催 " + c.organizer);
     meta.innerHTML = bits.map(esc).join('<span class="sep">/</span>');
     if (bits.length) body.appendChild(meta);

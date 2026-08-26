@@ -191,6 +191,27 @@ _LABEL_PATTERNS = {
     field: r"(?:" + "|".join(words) + r")\s*[:：]?\s*(.{1,80}?)" + _STOP
     for field, words in _LABELS.items()
 }
+# 「開催場所」欄のブロックを取り出すための正規表現。
+# Tonamelの詳細ページは、ページのかなり下のほうに
+#     開催場所
+#     カードショップおうち秋葉原店      ← 会場名
+#     東京都千代田区外神田4-7-1 ...     ← 住所
+#     連絡先
+# という並びで出る。raw_text は途中で切ってしまうので、
+# ここで住所だけ拾って別フィールドに保存しておく。
+_VENUE_BLOCK = re.compile(
+    r"(?:開催場所|開催地|会場|住所|所在地)\s*[:：]?\s*\n?((?:.+\n?){0,4})"
+)
+# 住所らしい行かどうかの判定（数字・丁目・区市町村・郵便番号のどれかを含む）
+_ADDRESS_LIKE = re.compile(
+    r"〒|\d|丁目|番地|[都道府県][^\s]{0,12}[市区郡町村]|[市区郡町村]"
+)
+# 明らかに住所ではない行（次の項目の見出しなど）
+_NOT_ADDRESS = re.compile(
+    r"^(?:連絡先|お問い合わせ|主催|参加費|定員|備考|イベント詳細|続きを読む|"
+    r"開催形式|エントリー|タイムスケジュール|アクセス)"
+)
+
 _DATE_LINE = re.compile(
     r"(?:\d{4}\s*[-/年.]\s*)?\d{1,2}\s*[-/月]\s*\d{1,2}\s*日?"
     r"(?:\s*[（(][月火水木金土日祝][）)])?"
@@ -198,10 +219,55 @@ _DATE_LINE = re.compile(
 )
 
 
+def extract_address(text: str, venue: str = "") -> str:
+    """「開催場所」欄から住所の行を取り出す。
+
+    会場名の次に来る、住所らしい行を最大2行ぶん拾う。
+    見つからなければ空文字を返す（推測はしない）。
+    """
+    if not text:
+        return ""
+    for m in _VENUE_BLOCK.finditer(text):
+        lines = [l.strip() for l in m.group(1).splitlines()]
+        lines = [l for l in lines if l]
+        picked: list[str] = []
+        for line in lines:
+            if _NOT_ADDRESS.match(line):
+                break
+            if venue and line.replace(" ", "") == venue.replace(" ", ""):
+                continue          # 1行目の会場名そのものは住所ではない
+            if venue and line.rstrip(" 　様") == venue.rstrip(" 　様"):
+                continue
+            if not _ADDRESS_LIKE.search(line):
+                continue
+            picked.append(line)
+            if len(picked) >= 2:
+                break
+        if picked:
+            return " ".join(picked)[:160]
+    # 「開催場所」欄が無くても、郵便番号があればその行を住所とみなす
+    m = re.search(r"〒\s*\d{3}[-−]?\d{4}[^\n]{0,80}", text)
+    if m:
+        return m.group(0).strip()[:160]
+    # 一覧ページのカードのように、住所がラベル無しで1行だけ載っている場合
+    # （例: "愛知県名古屋市中村区椿町13-4スパーク椿町6F"）
+    from .normalize import ADDRESS_SHAPE
+
+    m = ADDRESS_SHAPE.search(text)
+    if m:
+        line_start = text.rfind("\n", 0, m.start()) + 1
+        line_end = text.find("\n", m.start())
+        line = text[line_start: line_end if line_end != -1 else len(text)]
+        return line.strip()[:160]
+    return ""
+
+
 def enrich_from_text(comp: Competition, text: str, now: datetime) -> Competition:
     """画面テキストから拾える情報を補完する（既にある値は壊さない）。"""
     if not text:
         return comp
+    # raw_text は保存サイズを抑えるため途中で切る。
+    # 住所など「あとで必ず使うもの」は、切る前にここで取り出しておくこと。
     comp.raw_text = text[:1500]
 
     if not comp.start_at and not comp.start_date:
@@ -226,6 +292,9 @@ def enrich_from_text(comp: Competition, text: str, now: datetime) -> Competition
             val = m.group(1).strip(" 　:：-−–—")
             if val and len(val) >= 1:
                 setattr(comp, field_name, val[:120])
+
+    if not comp.address:
+        comp.address = extract_address(text, comp.venue)
 
     if not comp.format:
         if "オンライン" in text:
@@ -412,7 +481,8 @@ def _enrich_from_jsonld(comp: Competition, blobs: list[Any], now: datetime) -> C
     return comp
 
 
-def _needs_detail(comp: Competition, known_ids: set[str]) -> bool:
+def _needs_detail(comp: Competition, known_ids: set[str],
+                  known: dict[str, Competition] | None = None) -> bool:
     """詳細ページを開く価値があるか。既知かつ情報が揃っていれば開かない。"""
     if comp.id not in known_ids:
         return True
@@ -420,17 +490,24 @@ def _needs_detail(comp: Competition, known_ids: set[str]) -> bool:
         return True
     if not comp.title:
         return True
+    # 抽出ロジックを直したときは、既存の大会も1回だけ取り直す
+    prev = (known or {}).get(comp.id)
+    if prev is not None and (prev.detail_version or 0) < C.DETAIL_VERSION:
+        return True
+    # 前回の実行で取得上限に当たって詳細が取れなかったもの
+    if prev is not None and prev.source != "detail":
+        return True
     return False
 
 
 def scrape(fetch_detail: bool | None = None, detail_ids: set[str] | None = None,
-           known_ids: set[str] | None = None) -> tuple[list[Competition], dict]:
+           known: dict[str, Competition] | None = None) -> tuple[list[Competition], dict]:
     """一覧（＋必要なら詳細）を取得する。
 
     Args:
         fetch_detail: 詳細ページも開くか。Noneならconfigに従う。
         detail_ids: 詳細を取りにいくIDの集合。Noneなら全件（上限あり）。
-        known_ids: DBに既にあるID。渡すと「新規＋情報不足」だけ詳細取得する。
+        known: DBに既にある大会。渡すと「新規＋情報不足＋要再取得」だけ詳細を開く。
 
     Returns:
         (大会リスト, 実行メタ情報)
@@ -507,8 +584,10 @@ def scrape(fetch_detail: bool | None = None, detail_ids: set[str] | None = None,
         if fetch_detail and results:
             if detail_ids is not None:
                 targets = [cid for cid in results if cid in detail_ids]
-            elif known_ids is not None:
-                targets = [cid for cid, c in results.items() if _needs_detail(c, known_ids)]
+            elif known is not None:
+                known_ids = set(known)
+                targets = [cid for cid, c in results.items()
+                           if _needs_detail(c, known_ids, known)]
             else:
                 targets = list(results)
             targets = targets[: C.MAX_DETAIL_FETCH]
@@ -566,6 +645,7 @@ def _scrape_detail(context, cid: str, now: datetime, meta: dict) -> Competition 
                 comp.title = (page.title() or "").replace(" | Tonamel", "").strip()
             except Exception:
                 pass
+        comp.detail_version = C.DETAIL_VERSION
 
         if C.DEBUG:
             _save_debug(page, collector, f"detail_{cid}")
