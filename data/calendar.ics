@@ -9,4 +9,691 @@ X-WR-CALDESC:Tonamel掲載のXrossstars大会を自動収集したカレン
 X-WR-TIMEZONE:Asia/Tokyo
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
+BEGIN:VEVENT
+UID:tonamel-wMkQX@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260826T093000Z
+DTEND:20260826T133000Z
+SUMMARY:【クロスギルド主催】8/26(水) 参加費無料 BOX争奪
+ 戦
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
+ 奪戦\n定員: 32人\n\nhttps://tonamel.com/competition/wMkQX
+URL:https://tonamel.com/competition/wMkQX
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-zxeB7@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260827T093000Z
+DTEND:20260827T133000Z
+SUMMARY:【クロスギルド主催】8/27(木) 参加費無料 BOX争奪
+ 戦
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
+ 奪戦\n定員: 32人\nエントリー期間: 2026/08/02(日) 21:00 〜\n\
+ nhttps://tonamel.com/competition/zxeB7
+URL:https://tonamel.com/competition/zxeB7
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-YY0hd@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260828T093000Z
+DTEND:20260828T133000Z
+SUMMARY:【クロスギルド主催】8/28(金) 参加費無料 BOX争奪
+ 戦
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
+ 奪戦\n定員: 32人\nエントリー期間: 2026/08/02(日) 21:00 〜\n\
+ nhttps://tonamel.com/competition/YY0hd
+URL:https://tonamel.com/competition/YY0hd
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-oBEK7@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260829T010000Z
+DTEND:20260829T050000Z
+SUMMARY:はっちcs 3人チーム戦 in 大さん橋ホール
+DESCRIPTION:会場: オフライン / 大さん橋ホール\n主催: はっ
+ ちcs\n参加費: 6000円（1チーム）\n定員: 160チーム\nエント
+ リー期間: 2026/07/12(日) 21:00 〜\n\nhttps://tonamel.com/competition
+ /oBEK7
+URL:https://tonamel.com/competition/oBEK7
+LOCATION:大さん橋ホール
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-trqjS@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260829T023000Z
+DTEND:20260829T063000Z
+SUMMARY:【クロスギルド主催】8/29(土) 参加費無料 BOX争奪
+ 戦
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
+ 奪戦\n定員: 32人\nエントリー期間: 2026/08/02(日) 21:00 〜\n\
+ nhttps://tonamel.com/competition/trqjS
+URL:https://tonamel.com/competition/trqjS
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-fnEU0@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260829T060000Z
+DTEND:20260829T100000Z
+SUMMARY:決勝トーナメント
+DESCRIPTION:会場: オフライン\n主催: nanacs\n定員: 4チーム\n\n
+ https://tonamel.com/competition/fnEU0
+URL:https://tonamel.com/competition/fnEU0
+LOCATION:オフライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-Ahi3l@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260829T073000Z
+DTEND:20260829T113000Z
+SUMMARY:【クロスギルド主催】8/29 初心者・超初心者向け
+ ティーチング会
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料！！\n
+ 定員: 32人\nエントリー期間: 2026/08/03(月) 15:00 〜\n\nhttps:/
+ /tonamel.com/competition/Ahi3l
+URL:https://tonamel.com/competition/Ahi3l
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-WuytW@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260829T093000Z
+DTEND:20260829T133000Z
+SUMMARY:【クロスギルド主催】第12回 GUILD CUP
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※当
+ 日支払い\n定員: 32人\nエントリー期間: 2026/08/03(月) 16:00 
+ 〜\n\nhttps://tonamel.com/competition/WuytW
+URL:https://tonamel.com/competition/WuytW
+LOCATION:カードショップおうち秋葉原
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-e0Vvz@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260830T023000Z
+DTEND:20260830T063000Z
+SUMMARY:【クロスギルド主催】8/30(日) 参加費無料 BOX争奪
+ 戦
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
+ 奪戦\n定員: 32人\nエントリー期間: 2026/08/02(日) 21:00 〜\n\
+ nhttps://tonamel.com/competition/e0Vvz
+URL:https://tonamel.com/competition/e0Vvz
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-kKLsy@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260830T040000Z
+DTEND:20260830T080000Z
+SUMMARY:第1回　Xross Cheers杯
+DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
+ 催: しん\n参加費: 1000円\n定員: 32人\nエントリー期間: 202
+ 6/07/30(木) 19:00 〜\n\nhttps://tonamel.com/competition/kKLsy
+URL:https://tonamel.com/competition/kKLsy
+LOCATION:フルコンプ福岡天神店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-zeC8C@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260830T040000Z
+DTEND:20260830T080000Z
+SUMMARY:第3回おいすー杯
+DESCRIPTION:会場: オフライン / TSUTAYA AVクラブ御領店\n主催:
+  おいすー杯\n参加費: 1000円\n定員: 24人\nエントリー期間
+ : 2026/07/13(月) 00:00 〜\n\nhttps://tonamel.com/competition/zeC8C
+URL:https://tonamel.com/competition/zeC8C
+LOCATION:TSUTAYA AVクラブ御領店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-N1adW@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260830T073000Z
+DTEND:20260830T113000Z
+SUMMARY:【クロスギルド主催】8/30 初心者・超初心者向け
+ ティーチング会
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料！！\n
+ 定員: 32人\nエントリー期間: 2026/08/03(月) 16:00 〜\n\nhttps:/
+ /tonamel.com/competition/N1adW
+URL:https://tonamel.com/competition/N1adW
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-3SL2R@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260830T093000Z
+DTEND:20260830T133000Z
+SUMMARY:【クロスギルド主催】第13回 GUILD CUP
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原\n主催: クロスギルド-XROSSGUILD-\n参加費: 1\,500円 ※当
+ 日支払い\n定員: 32人\nエントリー期間: 2026/08/03(月) 16:00 
+ 〜\n\nhttps://tonamel.com/competition/3SL2R
+URL:https://tonamel.com/competition/3SL2R
+LOCATION:カードショップおうち秋葉原
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-O7yDB@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260831T093000Z
+DTEND:20260831T133000Z
+SUMMARY:【クロスギルド主催】8/31(月) 参加費無料 BOX争奪
+ 戦
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
+ 奪戦\n定員: 32人\nエントリー期間: 2026/08/02(日) 21:00 〜\n\
+ nhttps://tonamel.com/competition/O7yDB
+URL:https://tonamel.com/competition/O7yDB
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-KSzIb@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260905T030000Z
+DTEND:20260905T070000Z
+SUMMARY:第3回　SODA CUP × XrossStars【3on3】
+DESCRIPTION:会場: オフライン / （株）アルトワイズ 特設イ
+ ベントスペース\n主催: SODA CUP\n定員: 68チーム\nエントリ
+ ー期間: 2026/08/14(金) 21:00 〜\n\nhttps://tonamel.com/competition/KS
+ zIb
+URL:https://tonamel.com/competition/KSzIb
+LOCATION:（株）アルトワイズ 特設イベントスペース
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-OK3wx@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260906T020000Z
+DTEND:20260906T060000Z
+SUMMARY:狂人杯　#01
+DESCRIPTION:会場: オフライン / 越谷コミュニティセンター
+ 第1和室\n主催: 価格保証宣言！\n参加費: 500円(現金決済
+ 　当日支払い)\n定員: 32人\nエントリー期間: 2026/08/10(月)
+  00:00 〜\n\nhttps://tonamel.com/competition/OK3wx
+URL:https://tonamel.com/competition/OK3wx
+LOCATION:越谷コミュニティセンター第1和室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-Qp4rc@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260906T030000Z
+DTEND:20260906T070000Z
+SUMMARY:第9回クロスタコギナゴカップ
+DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
+ 主催: コーギーアール名古屋店\n参加費: 1500円\n定員: 32
+ 人\nエントリー期間: 2026/08/19(水) 17:00 〜\n\nhttps://tonamel.c
+ om/competition/Qp4rc
+URL:https://tonamel.com/competition/Qp4rc
+LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-rL8dk@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260906T040000Z
+DTEND:20260906T080000Z
+SUMMARY:第1回てんとうむし杯
+DESCRIPTION:会場: オフライン / トーナメントセンター　バ
+ トロコ川越駅前\n主催: てんとうむし\n参加費: 1000円\n定
+ 員: 48人\nエントリー期間: 2026/06/08(月) 23:00 〜\n\nhttps://to
+ namel.com/competition/rL8dk
+URL:https://tonamel.com/competition/rL8dk
+LOCATION:トーナメントセンター　バトロコ川越駅前
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-rommK@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260906T040000Z
+DTEND:20260906T080000Z
+SUMMARY:第8回 クロスタくろがねCS
+DESCRIPTION:会場: オフライン / G-PROJECT黒崎本店\n主催: G-PROJ
+ ECT\n参加費: 500円\n定員: 32人\nエントリー期間: 2026/08/15(
+ 土) 01:00 〜\n\nhttps://tonamel.com/competition/rommK
+URL:https://tonamel.com/competition/rommK
+LOCATION:G-PROJECT黒崎本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-1E0ON@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260906T050000Z
+DTEND:20260906T090000Z
+SUMMARY:ゾンビカップ　Vol.2
+DESCRIPTION:会場: オフライン / TCG専門店 蓮屋\n主催: ぞん
+ び\n参加費: 1000円\n定員: 24人\nエントリー期間: 2026/08/18(
+ 火) 00:00 〜\n\nhttps://tonamel.com/competition/1E0ON
+URL:https://tonamel.com/competition/1E0ON
+LOCATION:TCG専門店 蓮屋
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-LYn4p@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260912T010000Z
+DTEND:20260912T050000Z
+SUMMARY:ぽたくCS×THEINFO 〜せい祭〜
+DESCRIPTION:会場: オフライン / 東京都立産業貿易センター
+ 浜松町館\n主催: ぽたくCS コラボver.\n参加費: チーム:6000
+ 円\n定員: 100チーム\nエントリー期間: 2026/07/19(日) 21:00 
+ 〜\n\nhttps://tonamel.com/competition/LYn4p
+URL:https://tonamel.com/competition/LYn4p
+LOCATION:東京都立産業貿易センター浜松町館
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-34EoX@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260913T021000Z
+DTEND:20260913T061000Z
+SUMMARY:第27回ぽたくCS︎🌟2on2
+DESCRIPTION:会場: オフライン / 193秋葉原店様\n主催: nanacs\n
+ 参加費: 1チーム 4\,000円（1人 2\,000円）\n定員: 54チーム\n
+ エントリー期間: 2026/08/15(土) 21:00 〜\n\nhttps://tonamel.com/co
+ mpetition/34EoX
+URL:https://tonamel.com/competition/34EoX
+LOCATION:193秋葉原店様
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-55Tpj@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260919T030000Z
+DTEND:20260919T070000Z
+SUMMARY:第一回 xross stars 金糸雀杯
+DESCRIPTION:会場: オフライン / シーガル仙台駅前1号店\n主
+ 催: 金糸雀杯\n参加費: 1000円 / 1人\n定員: 32人\nエントリ
+ ー期間: 2026/07/21(火) 19:00 〜\n\nhttps://tonamel.com/competition/55
+ Tpj
+URL:https://tonamel.com/competition/55Tpj
+LOCATION:シーガル仙台駅前1号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-zT2HY@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260919T040000Z
+DTEND:20260919T080000Z
+SUMMARY:第1回 るなっつ杯
+DESCRIPTION:会場: オフライン / 遊ING熊本上通り店\n主催: る
+ なっつ杯\n参加費: 1\,000円（当日現金払い）\n定員: 32人\
+ nエントリー期間: 2026/08/02(日) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/zT2HY
+URL:https://tonamel.com/competition/zT2HY
+LOCATION:遊ING熊本上通り店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-y2bNy@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260920T020000Z
+DTEND:20260920T060000Z
+SUMMARY:第28回︎🌟1部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 参加費: 1500円(現金のみになります)\n定員: 32人\nエント
+ リー期間: 2026/08/23(日) 21:00 〜\n\nhttps://tonamel.com/competition
+ /y2bNy
+URL:https://tonamel.com/competition/y2bNy
+LOCATION:トレカ侍2号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-pxeA1@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260920T033000Z
+DTEND:20260920T073000Z
+SUMMARY:第1回　ベドチキ杯
+DESCRIPTION:会場: オフライン / トイコンプ大阪駅前第3ビル
+ 店\n主催: ベドチキ杯\n参加費: 1000円(当日受付にて徴収
+ します)\n定員: 32人\nエントリー期間: 2026/08/22(土) 21:00 
+ 〜\n\nhttps://tonamel.com/competition/pxeA1
+URL:https://tonamel.com/competition/pxeA1
+LOCATION:トイコンプ大阪駅前第3ビル店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-j2KXC@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260920T040000Z
+DTEND:20260920T080000Z
+SUMMARY:X-CUP
+DESCRIPTION:会場: オフライン / ブックオフプラス福岡糸島
+ 店@トレカ館\n主催: X-CUP\n参加費: 500円\n定員: 16人\nエン
+ トリー期間: 2026/08/26(水) 19:00 〜\n\nhttps://tonamel.com/competit
+ ion/j2KXC
+URL:https://tonamel.com/competition/j2KXC
+LOCATION:ブックオフプラス福岡糸島店@トレカ館
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-hgNHB@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260920T072000Z
+DTEND:20260920T112000Z
+SUMMARY:第28回︎🌟2部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 参加費: 1500円(現金のみになります)\n定員: 32人\nエント
+ リー期間: 2026/08/23(日) 21:00 〜\n\nhttps://tonamel.com/competition
+ /hgNHB
+URL:https://tonamel.com/competition/hgNHB
+LOCATION:トレカ侍2号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-sqgc5@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260921T040000Z
+DTEND:20260921T080000Z
+SUMMARY:星剣杯
+DESCRIPTION:会場: オフライン / レプトン　サンモール店\n
+ 主催: ORCup\n参加費: 】1000円(当日現金でお願いします。
+ ）\n定員: 24人\nエントリー期間: 2026/08/12(水) 19:00 〜\n\nht
+ tps://tonamel.com/competition/sqgc5
+URL:https://tonamel.com/competition/sqgc5
+LOCATION:レプトン　サンモール店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-dNAf1@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260922T040000Z
+DTEND:20260922T080000Z
+SUMMARY:結び部屋cs
+DESCRIPTION:会場: オフライン / トレカキャピタル山口本店\
+ n主催: ユキ\n参加費: 1000円 (現金のみ、当日支払い)\n定
+ 員: 32人\nエントリー期間: 2026/08/21(金) 13:00 〜\n\nhttps://to
+ namel.com/competition/dNAf1
+URL:https://tonamel.com/competition/dNAf1
+LOCATION:トレカキャピタル山口本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-xtzru@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260923T043000Z
+DTEND:20260923T083000Z
+SUMMARY:さかｲﾝかっぷ～トイコンプCS出張版～
+DESCRIPTION:会場: オフライン / トイコンプ 堺東店\n主催: 
+ トイコンプ 堺東店\n参加費: 〗\n定員: 32人\nエントリー
+ 期間: 2026/08/21(金) 14:00 〜\n\nhttps://tonamel.com/competition/xtzru
+URL:https://tonamel.com/competition/xtzru
+LOCATION:トイコンプ 堺東店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-M2CBi@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260926T030000Z
+DTEND:20260926T070000Z
+SUMMARY:第2回　fam　CUP
+DESCRIPTION:会場: オフライン / トレカプラザ名古屋駅前店\
+ n主催: トレカプラザ名古屋駅前店\n定員: 32人\nエントリ
+ ー期間: 2026/08/17(月) 18:30 〜\n\nhttps://tonamel.com/competition/M2
+ CBi
+URL:https://tonamel.com/competition/M2CBi
+LOCATION:トレカプラザ名古屋駅前店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-aRfLE@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260927T040000Z
+DTEND:20260927T080000Z
+SUMMARY:第7回　Xross Stars Showdown!!
+DESCRIPTION:会場: オフライン / ウイングプラザ パディ 2F 
+ デュエルスペース\n主催: クロスタ\n定員: 32チーム\nエ
+ ントリー期間: 2026/08/21(金) 19:00 〜\n\nhttps://tonamel.com/compe
+ tition/aRfLE
+URL:https://tonamel.com/competition/aRfLE
+LOCATION:ウイングプラザ パディ 2F デュエルスペース
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-TLwwE@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20260927T050000Z
+DTEND:20260927T090000Z
+SUMMARY:第11回　火蝶杯（かちょうはい）
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/07/28(火) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/TLwwE
+URL:https://tonamel.com/competition/TLwwE
+LOCATION:ドラグーン博多店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-Ic5po@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20261003T020000Z
+DTEND:20261003T060000Z
+SUMMARY:藤沢杯（クロスタ制限杯）
+DESCRIPTION:会場: オフライン / Win-d Plus 藤沢駅北口\n主催: 
+ 藤沢杯（クロスタ制限杯）\n参加費: は会場費として使
+ 用いたします。\n定員: 32人\nエントリー期間: 2026/07/20(
+ 月) 10:00 〜\n\nhttps://tonamel.com/competition/Ic5po
+URL:https://tonamel.com/competition/Ic5po
+LOCATION:Win-d Plus 藤沢駅北口
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-rUdMV@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20261004T040000Z
+DTEND:20261004T080000Z
+SUMMARY:第9回 クロスタくろがねCS
+DESCRIPTION:会場: オフライン / G-PROJECT黒崎本店\n主催: G-PROJ
+ ECT\n参加費: 500円\n定員: 32人\nエントリー期間: 2026/08/15(
+ 土) 01:00 〜\n\nhttps://tonamel.com/competition/rUdMV
+URL:https://tonamel.com/competition/rUdMV
+LOCATION:G-PROJECT黒崎本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-o6kEn@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20261011T040000Z
+DTEND:20261011T080000Z
+SUMMARY:第2回 るなっつ杯【2on2】
+DESCRIPTION:会場: オフライン / 遊ING熊本上通り店\n主催: る
+ なっつ杯\n参加費: 1チーム3\,000円（当日現金払い）\n定
+ 員: 24人\nエントリー期間: 2026/08/26(水) 18:00 〜\n\nhttps://to
+ namel.com/competition/o6kEn
+URL:https://tonamel.com/competition/o6kEn
+LOCATION:遊ING熊本上通り店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-EjMLR@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20261024T020000Z
+DTEND:20261024T060000Z
+SUMMARY:第2回 xross stars 金糸雀杯
+DESCRIPTION:会場: オフライン / シーガル名取店様\n主催: 金
+ 糸雀杯\n参加費: 1000 / 1人\n定員: 32人\nエントリー期間: 2
+ 026/07/19(日) 10:00 〜\n\nhttps://tonamel.com/competition/EjMLR
+URL:https://tonamel.com/competition/EjMLR
+LOCATION:シーガル名取店様
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-o8FKw@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20261025T050000Z
+DTEND:20261025T090000Z
+SUMMARY:第12回　火蝶杯（かちょうはい）
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
+ ompetition/o8FKw
+URL:https://tonamel.com/competition/o8FKw
+LOCATION:ドラグーン博多店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-D3OsY@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART:20261030T103000Z
+DTEND:20261030T143000Z
+SUMMARY:第3回 降臨杯
+DESCRIPTION:会場: オフライン / カードショップBambi\n主催: 
+ クロスタ\n参加費: 500円\n定員: 16人\nエントリー期間: 202
+ 6/08/21(金) 15:00 〜\n\nhttps://tonamel.com/competition/D3OsY
+URL:https://tonamel.com/competition/D3OsY
+LOCATION:カードショップBambi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-Ef2iQ@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:滝行杯#8
+DESCRIPTION:\nhttps://tonamel.com/competition/Ef2iQ
+URL:https://tonamel.com/competition/Ef2iQ
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-wbFvs@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:第3回　強奪の宴杯　カートン争奪
+DESCRIPTION:\nhttps://tonamel.com/competition/wbFvs
+URL:https://tonamel.com/competition/wbFvs
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-9GmtZ@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:第3回 xross stars 金糸雀杯
+DESCRIPTION:\nhttps://tonamel.com/competition/9GmtZ
+URL:https://tonamel.com/competition/9GmtZ
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-Q3g0B@xrossstars-watcher
+DTSTAMP:20260826T140121Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:第4回 xross stars 金糸雀杯
+DESCRIPTION:\nhttps://tonamel.com/competition/Q3g0B
+URL:https://tonamel.com/competition/Q3g0B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
