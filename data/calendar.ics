@@ -236,15 +236,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-O7yDB@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:14
+SEQUENCE:15
 DTSTART:20260831T093000Z
 DTEND:20260831T133000Z
 SUMMARY:【クロスギルド主催】8/31(月) 参加費無料 BOX争奪
  戦
 DESCRIPTION:会場: オフライン / カードショップおうち秋葉
- 原店\n主催: クロスギルド-XROSSGUILD-\n参加費: 無料 BOX争
- 奪戦\n定員: 32人\nエントリー期間: 2026/08/02(日) 21:00 〜\n\
- nhttps://tonamel.com/competition/O7yDB
+ 原店\n主催: 】8/31(月) 参加費無料 BOX争奪戦\n参加費: 無
+ 料 BOX争奪戦\n定員: 32人\nエントリー期間: 2026/08/02(日) 21
+ :00 〜\n\nhttps://tonamel.com/competition/O7yDB
 URL:https://tonamel.com/competition/O7yDB
 LOCATION:カードショップおうち秋葉原店
 STATUS:CONFIRMED
@@ -458,6 +458,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-B0NGp@xrossstars-watcher
+DTSTAMP:20260830T152024Z
+SEQUENCE:0
+DTSTART:20260920T030000Z
+DTEND:20260920T070000Z
+SUMMARY:XrossStars  【 We are 杯  】 in国分彩々
+DESCRIPTION:会場: オフライン / カードショップ彩々　国分
+ 店\n主催: カードショップ彩々国分店\n参加費: ●\n定員:
+  24人\nエントリー期間: 2026/08/30(日) 20:00 〜\n\nhttps://toname
+ l.com/competition/B0NGp
+URL:https://tonamel.com/competition/B0NGp
+LOCATION:カードショップ彩々　国分店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-pxeA1@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:1
@@ -587,15 +603,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-TLwwE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:14
+SEQUENCE:15
 DTSTART:20260927T050000Z
 DTEND:20260927T090000Z
 SUMMARY:第11回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 32人\
- nエントリー期間: 2026/07/28(火) 21:00 〜\n\nhttps://tonamel.com/c
- ompetition/TLwwE
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 32人\nエントリー期間: 2026/07/28(
+ 火) 21:00 〜\n\nhttps://tonamel.com/competition/TLwwE
 URL:https://tonamel.com/competition/TLwwE
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -665,6 +680,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Tl25r@xrossstars-watcher
+DTSTAMP:20260830T152024Z
+SEQUENCE:0
+DTSTART:20261012T040000Z
+DTEND:20261012T080000Z
+SUMMARY:星鴉杯#2
+DESCRIPTION:会場: オフライン / トレーディングカードショ
+ ップ193 秋葉原店\n主催: 星鴉杯\n参加費: 1\,500円（当日
+ 現金支払い）\n定員: 32人\nエントリー期間: 2026/08/30(日) 
+ 19:00 〜\n\nhttps://tonamel.com/competition/Tl25r
+URL:https://tonamel.com/competition/Tl25r
+LOCATION:トレーディングカードショップ193 秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-EjMLR@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -680,17 +711,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-h9xPb@xrossstars-watcher
+DTSTAMP:20260830T152024Z
+SEQUENCE:0
+DTSTART:20261025T030000Z
+DTEND:20261025T070000Z
+SUMMARY:XrossStars  【 We are 杯  3on3  】 in国分彩々
+DESCRIPTION:会場: オフライン / カードショップ彩々 国分店
+ \n主催: カードショップ彩々国分店\n参加費: ●\n定員: 12
+ 人\nエントリー期間: 2026/08/30(日) 19:00 〜\n\nhttps://tonamel.c
+ om/competition/h9xPb
+URL:https://tonamel.com/competition/h9xPb
+LOCATION:カードショップ彩々 国分店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:14
+SEQUENCE:15
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
- 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
- 1人（決済は当日会場で支払いになります）\n定員: 32人\
- nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
- ompetition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
+ ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
+ いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
+ 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
