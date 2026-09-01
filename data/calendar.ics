@@ -620,14 +620,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-TLwwE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:23
+SEQUENCE:24
 DTSTART:20260927T050000Z
 DTEND:20260927T090000Z
 SUMMARY:第11回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/07/28(
- 火) 21:00 〜\n\nhttps://tonamel.com/competition/TLwwE
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/07/28(火) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/TLwwE
 URL:https://tonamel.com/competition/TLwwE
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -636,14 +637,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-Ic5po@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261003T020000Z
 DTEND:20261003T060000Z
 SUMMARY:藤沢杯（クロスタ制限杯）
 DESCRIPTION:会場: オフライン / Win-d Plus 藤沢駅北口\n主催: 
- 藤沢杯（クロスタ制限杯）\n参加費: は会場費として使
- 用いたします。\n定員: 32人\nエントリー期間: 2026/07/20(
- 月) 10:00 〜\n\nhttps://tonamel.com/competition/Ic5po
+ 藤沢杯（クロスタ制限杯）\n参加費: 1500円\n定員: 32人\n
+ エントリー期間: 2026/07/20(月) 10:00 〜\n\nhttps://tonamel.com/co
+ mpetition/Ic5po
 URL:https://tonamel.com/competition/Ic5po
 LOCATION:Win-d Plus 藤沢駅北口
 STATUS:CONFIRMED
@@ -761,14 +762,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:23
+SEQUENCE:24
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
- 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
+ ompetition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
