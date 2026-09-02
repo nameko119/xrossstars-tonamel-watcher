@@ -179,16 +179,29 @@ def competition_from_json(cid: str, d: dict) -> Competition:
 _LABELS = {
     "entry_fee": ("参加費用", "参加費", "エントリー費", "費用"),
     "capacity": ("定員", "募集人数", "参加人数", "最大人数", "上限"),
-    "organizer": ("主催者", "主催", "オーガナイザー", "開催者"),
-    "venue": ("会場", "開催場所", "開催地", "場所"),
+    # 「オーガナイザー」は見出しには使わない。
+    # 主催者名そのものに含まれることがあり（例:「火蝶杯（公認オーガナイザーイベント）」）、
+    # 見出しと取り違えて名前の途中から切り出してしまう。
+    "organizer": ("主催者", "主催", "開催者"),
+    "venue": ("開催場所", "開催地", "会場", "場所"),
     "entry_period": ("エントリー期間", "受付期間", "応募期間", "募集期間"),
 }
 _ALL_LABELS = sorted(
     {w for words in _LABELS.values() for w in words}, key=len, reverse=True
 )
 _STOP = r"(?=\s*(?:" + "|".join(_ALL_LABELS) + r")\s*[:：]|\n|$)"
+
+# 見出しの後ろは「コロン」か「改行」でなければならない。
+# Tonamelの詳細ページは
+#     主催：            ← コロンのあと改行
+#     火蝶杯（…）
+#     開催形式          ← コロンなしで改行
+#     オフライン
+# の2通りがあり、どちらも見出しとして扱う。
+# 逆に「公認オーガナイザーイベント」のように語の途中で続く場合は見出しではない。
+_AFTER_LABEL = r"[ \t　]*(?:[:：][ \t　]*(?:\r?\n[ \t　]*)?|\r?\n[ \t　]*)"
 _LABEL_PATTERNS = {
-    field: r"(?:" + "|".join(words) + r")\s*[:：]?\s*(.{1,80}?)" + _STOP
+    field: r"(?:" + "|".join(words) + r")" + _AFTER_LABEL + r"(.{1,80}?)" + _STOP
     for field, words in _LABELS.items()
 }
 # 「開催場所」欄のブロックを取り出すための正規表現。
@@ -289,7 +302,9 @@ def enrich_from_text(comp: Competition, text: str, now: datetime) -> Competition
             continue
         m = re.search(pat, text)
         if m:
-            val = m.group(1).strip(" 　:：-−–—")
+            # ハイフンは削らない。「クロスギルド-XROSSGUILD-」のように
+            # 名前の一部として末尾に付いていることがある。
+            val = m.group(1).strip(" 　\t:：")
             if val and len(val) >= 1:
                 setattr(comp, field_name, val[:120])
 
@@ -497,6 +512,14 @@ def _needs_detail(comp: Competition, known_ids: set[str],
     # 前回の実行で取得上限に当たって詳細が取れなかったもの
     if prev is not None and prev.source != "detail":
         return True
+    # 一覧の内容が前回と変わっていたら、詳細も取り直して中身を合わせる
+    if prev is not None:
+        if comp.title and prev.title and comp.title != prev.title:
+            return True
+        if comp.start_at and prev.start_at and comp.start_at != prev.start_at:
+            return True
+        if comp.start_date and prev.start_date and comp.start_date != prev.start_date:
+            return True
     return False
 
 

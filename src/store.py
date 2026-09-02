@@ -105,7 +105,10 @@ class Store:
                 diff.new.append(comp)
                 continue
 
-            merged = old.merge_from(comp)
+            # 今回が一覧だけの取得で、前回は詳細まで取れていた場合、
+            # 主催・会場などは前回の値を残す（実行のたびに表記が揺れるのを防ぐ）
+            list_only = comp.source != "detail" and old.source == "detail"
+            merged = old.merge_from(comp, detail_authoritative=list_only)
             merged.first_seen = old.first_seen or now_iso
             merged.last_updated = now_iso
             if merged.signature() != old.signature():

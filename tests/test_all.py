@@ -844,6 +844,122 @@ def test_real_world_regressions() -> None:
     check("住所が入っても『変更あり』にならない", before.signature(), sig)
 
 
+def test_label_confusion() -> None:
+    """見出し語が値の中に現れたときに取り違えない（実データで起きた不具合）。"""
+    print("\n[15] 見出しの取り違え")
+    from src.scrape import enrich_from_text
+
+    def org(text: str) -> str:
+        return enrich_from_text(Competition(id="x", url="u"), text, NOW).organizer
+
+    # --- ① 大会名の中の「主催」に反応していた ---
+    # 「【クロスギルド主催】8/26(水)…」から "】8/26(水)…" を切り出していた
+    card = ("募集中\n【クロスギルド主催】8/26(水) 参加費無料 BOX争奪戦\n"
+            "2026/08/26(水)\n東京都千代田区外神田4-7-1\n¥ 0\n12/32\n"
+            "クロスギルド-XROSSGUILD-\nXrossStars")
+    check("大会名の中の『主催』に反応しない", org(card), "")
+
+    # --- ② 主催者名の中の「オーガナイザー」に反応していた ---
+    # 「火蝶杯（公認オーガナイザーイベント）」から "イベント）" を切り出していた
+    card2 = ("募集中\n第12回　火蝶杯（かちょうはい）\n2026/10/25(日)\n"
+             "〒812-0011 福岡県福岡市博多区博多駅前1-3-22\n¥ 1,000\n7/32\n"
+             "火蝶杯（公認オーガナイザーイベント）\nXrossStars")
+    check("主催者名の中の『オーガナイザー』に反応しない", org(card2), "")
+
+    # --- ③ 詳細ページの本物の見出しからは、ちゃんと取れる ---
+    detail = ("第12回　火蝶杯（かちょうはい）\n主催：\n"
+              "火蝶杯（公認オーガナイザーイベント）\nXrossStars\n"
+              "開催形式\nオフライン\n")
+    check("見出し＋改行の形式から取れる", org(detail), "火蝶杯（公認オーガナイザーイベント）")
+    check("見出し＋コロンの形式から取れる", org("主催: てすと太郎\n"), "てすと太郎")
+    check("全角コロンでも取れる", org("主催：てすと太郎\n"), "てすと太郎")
+
+    # --- ④ 名前の末尾のハイフンを削らない ---
+    check("末尾のハイフンを残す",
+          org("主催：\nクロスギルド-XROSSGUILD-\nXrossStars\n"),
+          "クロスギルド-XROSSGUILD-")
+
+    # --- ⑤ 他の項目でも同じ取り違えが起きないこと ---
+    c = enrich_from_text(Competition(id="y", url="u"),
+                         "第1回 会場運営杯\n2026/09/09(水)\n¥ 500\n", NOW)
+    check("大会名の中の『会場』に反応しない", c.venue, "")
+
+
+def test_list_does_not_overwrite_detail() -> None:
+    """一覧だけの実行で、詳細ページで取った値が塗り替えられないこと。"""
+    print("\n[16] 一覧の値で詳細の値を上書きしない")
+    with tempfile.TemporaryDirectory() as tmp:
+        db = Path(tmp) / "db.json"
+        store = Store(db)
+
+        # 1回目：詳細まで取れた
+        full = Competition(
+            id="a1", url="u/a1", title="第12回 火蝶杯",
+            start_at="2026-10-25T14:00:00+09:00",
+            organizer="火蝶杯（公認オーガナイザーイベント）", venue="ドラグーン博多店",
+            entry_fee="1000円", capacity="32人", source="detail",
+        )
+        store.apply([full])
+        store.save()
+
+        # 2回目：一覧だけ（主催や会場は取れない）
+        store2 = Store(db)
+        listed = Competition(id="a1", url="u/a1", title="第12回 火蝶杯",
+                             start_at="2026-10-25T14:00:00+09:00", source="api")
+        diff = store2.apply([listed])
+        rec = store2.competitions["a1"]
+        check("主催が残る", rec.organizer, "火蝶杯（公認オーガナイザーイベント）")
+        check("会場が残る", rec.venue, "ドラグーン博多店")
+        check("参加費が残る", rec.entry_fee, "1000円")
+        check("『変更あり』にならない", len(diff.changed), 0)
+        check("取得元が detail のまま", rec.source, "detail")
+
+        # 3回目：一覧が誤った主催を返してきても、詳細の値を守る
+        store3 = Store(db)
+        wrong = Competition(id="a1", url="u/a1", title="第12回 火蝶杯",
+                            start_at="2026-10-25T14:00:00+09:00",
+                            organizer="イベント）", source="api")
+        d3 = store3.apply([wrong])
+        check("誤った主催で上書きしない",
+              store3.competitions["a1"].organizer, "火蝶杯（公認オーガナイザーイベント）")
+        check("通知も出ない", len(d3.changed), 0)
+
+        # 4回目：大会名と日時は一覧からでも更新する
+        store4 = Store(db)
+        renamed = Competition(id="a1", url="u/a1", title="第12回 火蝶杯（延期）",
+                              start_at="2026-11-01T14:00:00+09:00", source="api")
+        d4 = store4.apply([renamed])
+        rec = store4.competitions["a1"]
+        check("大会名は一覧から更新される", rec.title, "第12回 火蝶杯（延期）")
+        check("日時も更新される", rec.start_at, "2026-11-01T14:00:00+09:00")
+        check("主催はそのまま", rec.organizer, "火蝶杯（公認オーガナイザーイベント）")
+        check("こちらは『変更あり』になる", len(d4.changed), 1)
+
+        # 5回目：詳細を取り直したときは、ちゃんと上書きされる
+        store5 = Store(db)
+        updated = Competition(id="a1", url="u/a1", title="第12回 火蝶杯（延期）",
+                              start_at="2026-11-01T14:00:00+09:00",
+                              organizer="新しい主催者", venue="別会場", source="detail")
+        store5.apply([updated])
+        check("詳細からなら上書きできる", store5.competitions["a1"].organizer, "新しい主催者")
+
+    # 一覧の内容が変わったら詳細も取り直す
+    from src.scrape import _needs_detail
+
+    prev = Competition(id="a1", url="u", title="元の名前",
+                       start_at="2026-10-25T14:00:00+09:00",
+                       source="detail", detail_version=99)
+    same = Competition(id="a1", url="u", title="元の名前",
+                       start_at="2026-10-25T14:00:00+09:00")
+    check("変化が無ければ取り直さない", _needs_detail(same, {"a1"}, {"a1": prev}), False)
+    renamed = Competition(id="a1", url="u", title="新しい名前",
+                          start_at="2026-10-25T14:00:00+09:00")
+    check("大会名が変わったら取り直す", _needs_detail(renamed, {"a1"}, {"a1": prev}), True)
+    moved = Competition(id="a1", url="u", title="元の名前",
+                        start_at="2026-11-01T14:00:00+09:00")
+    check("日時が変わったら取り直す", _needs_detail(moved, {"a1"}, {"a1": prev}), True)
+
+
 def main_() -> int:
     print("Xrossstars 大会ウォッチャー 自己テスト")
     test_dates()
@@ -860,6 +976,8 @@ def main_() -> int:
     test_build_site()
     test_pipeline_outputs()
     test_real_world_regressions()
+    test_label_confusion()
+    test_list_does_not_overwrite_detail()
     print("\n" + "=" * 60)
     if failures:
         print(f"❌ {len(failures)}件 失敗:")
