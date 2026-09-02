@@ -586,6 +586,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-PjiTJ@xrossstars-watcher
+DTSTAMP:20260902T180046Z
+SEQUENCE:0
+DTSTART:20260922T080000Z
+DTEND:20260922T120000Z
+SUMMARY:シズクロ#01
+DESCRIPTION:会場: オフライン / TSUTAYA 藤枝瀬戸新屋店\n主催
+ : 茶クロス\n定員: 16人\nエントリー期間: 2026/09/02(水) 22:0
+ 0 〜\n\nhttps://tonamel.com/competition/PjiTJ
+URL:https://tonamel.com/competition/PjiTJ
+LOCATION:TSUTAYA 藤枝瀬戸新屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-xtzru@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -759,6 +774,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-SJ5a8@xrossstars-watcher
+DTSTAMP:20260902T180046Z
+SEQUENCE:0
+DTSTART:20261024T020000Z
+DTEND:20261024T060000Z
+SUMMARY:きなぽっぽ杯
+DESCRIPTION:会場: オフライン / おもちゃのバンビ本郷店\n
+ 主催: きなぽっぽ杯\n定員: 16人\nエントリー期間: 2026/09/
+ 02(水) 19:00 〜\n\nhttps://tonamel.com/competition/SJ5a8
+URL:https://tonamel.com/competition/SJ5a8
+LOCATION:おもちゃのバンビ本郷店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-h9xPb@xrossstars-watcher
 DTSTAMP:20260830T152024Z
 SEQUENCE:0
@@ -835,6 +865,23 @@ DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
  mpetition/wbFvs
 URL:https://tonamel.com/competition/wbFvs
 LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-WCuE7@xrossstars-watcher
+DTSTAMP:20260902T180046Z
+SEQUENCE:0
+DTSTART:20261122T022000Z
+DTEND:20261122T062000Z
+SUMMARY:第2回 がぶかっぷ
+DESCRIPTION:会場: オフライン / トレーディングカードピッ
+ ト長野駅前店2階会議室\n主催: がぶかっぷ\n定員: 32人\n
+ エントリー期間: 2026/09/04(金) 06:00 〜\n\nhttps://tonamel.com/co
+ mpetition/WCuE7
+URL:https://tonamel.com/competition/WCuE7
+LOCATION:トレーディングカードピット長野駅前店2階会議
+ 室
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
