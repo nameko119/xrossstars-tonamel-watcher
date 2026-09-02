@@ -555,6 +555,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-gIgEl@xrossstars-watcher
+DTSTAMP:20260902T125202Z
+SEQUENCE:0
+DTSTART:20260922T020000Z
+DTEND:20260922T060000Z
+SUMMARY:つな友杯
+DESCRIPTION:会場: オフライン / 蔦屋書店宮崎高千穂通り\n
+ 主催: シュウマイ\n参加費: 】\n定員: 32人\nエントリー期
+ 間: 2026/09/02(水) 21:00 〜\n\nhttps://tonamel.com/competition/gIgEl
+URL:https://tonamel.com/competition/gIgEl
+LOCATION:蔦屋書店宮崎高千穂通り
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-dNAf1@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -604,12 +619,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-aRfLE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20260927T040000Z
 DTEND:20260927T080000Z
 SUMMARY:第7回　Xross Stars Showdown!!
 DESCRIPTION:会場: オフライン / ウイングプラザ パディ 2F 
- デュエルスペース\n主催: クロスタ\n定員: 32チーム\nエ
+ デュエルスペース\n主催: クロスタ\n定員: 39チーム\nエ
  ントリー期間: 2026/08/21(金) 19:00 〜\n\nhttps://tonamel.com/compe
  tition/aRfLE
 URL:https://tonamel.com/competition/aRfLE
@@ -620,14 +635,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-TLwwE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:27
+SEQUENCE:28
 DTSTART:20260927T050000Z
 DTEND:20260927T090000Z
 SUMMARY:第11回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/07/28(
- 火) 21:00 〜\n\nhttps://tonamel.com/competition/TLwwE
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/07/28(火) 21:00 〜\n\nhttps://tonamel.com/c
+ ompetition/TLwwE
 URL:https://tonamel.com/competition/TLwwE
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -761,14 +777,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-o8FKw@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:27
+SEQUENCE:28
 DTSTART:20261025T050000Z
 DTEND:20261025T090000Z
 SUMMARY:第12回　火蝶杯（かちょうはい）
-DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: イ
- ベント）\n参加費: 1000円 / 1人（決済は当日会場で支払
- いになります）\n定員: 32人\nエントリー期間: 2026/08/19(
- 水) 18:00 〜\n\nhttps://tonamel.com/competition/o8FKw
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 32人\
+ nエントリー期間: 2026/08/19(水) 18:00 〜\n\nhttps://tonamel.com/c
+ ompetition/o8FKw
 URL:https://tonamel.com/competition/o8FKw
 LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
@@ -808,9 +825,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-wbFvs@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:1
-DTSTART:20261107T020000Z
-DTEND:20261107T060000Z
+SEQUENCE:2
+DTSTART:20261114T020000Z
+DTEND:20261114T060000Z
 SUMMARY:第3回　強奪の宴杯　カートン争奪
 DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
  主催: 強奪の宴杯\n参加費: 2500円(現金のみ)\n定員: 64人\n
