@@ -793,6 +793,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-WE8xr@xrossstars-watcher
+DTSTAMP:20260903T124738Z
+SEQUENCE:0
+DTSTART:20261012T020000Z
+DTEND:20261012T060000Z
+SUMMARY:第２回ひねもすCS
+DESCRIPTION:会場: オフライン / カードゲームショップ オレ
+ タン岡山本店\n主催: ひねもすCS\n定員: 32人\nエントリー
+ 期間: 2026/09/03(木) 17:00 〜\n\nhttps://tonamel.com/competition/WE8xr
+URL:https://tonamel.com/competition/WE8xr
+LOCATION:カードゲームショップ オレタン岡山本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Tl25r@xrossstars-watcher
 DTSTAMP:20260830T152024Z
 SEQUENCE:0

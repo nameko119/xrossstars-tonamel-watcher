@@ -2,12 +2,12 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-09-03T16:08:24.342484+09:00",
-    "count": 60,
+    "last_run": "2026-09-03T21:47:40.463386+09:00",
+    "count": 61,
     "last_run_info": {
-      "list_count": 45,
-      "api_hit": 45,
-      "new": 3,
+      "list_count": 46,
+      "api_hit": 46,
+      "new": 1,
       "changed": 0,
       "notify": {
         "mode": "sent",
@@ -614,7 +614,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "OK3wx": {
@@ -650,7 +650,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "Qp4rc": {
@@ -686,7 +686,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "rL8dk": {
@@ -722,7 +722,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "rommK": {
@@ -758,7 +758,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "1E0ON": {
@@ -794,7 +794,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "Ek8se": {
@@ -830,7 +830,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-28T23:18:26.303785+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "LYn4p": {
@@ -866,7 +866,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "aAkuW": {
@@ -902,7 +902,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-27T21:44:20.235342+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "34EoX": {
@@ -938,7 +938,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "55Tpj": {
@@ -974,7 +974,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "zT2HY": {
@@ -1010,7 +1010,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "y2bNy": {
@@ -1046,7 +1046,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "B0NGp": {
@@ -1082,7 +1082,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "pxeA1": {
@@ -1118,7 +1118,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 1
     },
     "j2KXC": {
@@ -1154,7 +1154,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "hgNHB": {
@@ -1190,7 +1190,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "sqgc5": {
@@ -1226,7 +1226,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "7UJQ3": {
@@ -1262,7 +1262,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-01T16:50:31.306622+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "gIgEl": {
@@ -1298,7 +1298,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-02T21:52:02.425274+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "dNAf1": {
@@ -1334,7 +1334,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "PjiTJ": {
@@ -1370,7 +1370,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "Cn3ku": {
@@ -1399,18 +1399,14 @@
       "raw_json": {
         "id": "Cn3ku",
         "title": "【クロスギルド主催】9/23(水・祝) 参加費無料 BOX争奪戦",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "contact": "https://x.com/Xross_Guild",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T16:08:23.106202+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "xtzru": {
@@ -1446,7 +1442,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "R25FW": {
@@ -1475,18 +1471,14 @@
       "raw_json": {
         "id": "R25FW",
         "title": "【クロスギルド主催】9/23(水・祝) 初心者・超初心者向けティーチング会",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "contact": "https://x.com/Xross_Guild",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T16:08:23.106202+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "6BZdA": {
@@ -1515,18 +1507,14 @@
       "raw_json": {
         "id": "6BZdA",
         "title": "【クロスギルド主催】第14回 GUILD CUP ",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "contact": "https://x.com/Xross_Guild",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T16:08:23.106202+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "M2CBi": {
@@ -1562,7 +1550,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "aRfLE": {
@@ -1598,7 +1586,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 1
     },
     "TLwwE": {
@@ -1634,7 +1622,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 28
     },
     "Ic5po": {
@@ -1670,7 +1658,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 1
     },
     "rUdMV": {
@@ -1706,7 +1694,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "QPMQL": {
@@ -1742,7 +1730,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T17:37:01.108728+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "8YeLM": {
@@ -1778,7 +1766,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-30T17:24:05.907933+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "o6kEn": {
@@ -1814,7 +1802,47 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
+      "seq": 0
+    },
+    "WE8xr": {
+      "id": "WE8xr",
+      "url": "https://tonamel.com/competition/WE8xr",
+      "title": "第２回ひねもすCS",
+      "start_at": "2026-10-12T11:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-10-12",
+      "format": "オフライン",
+      "venue": "カードゲームショップ オレタン岡山本店",
+      "address": "〒700-0962 岡山県岡山市北区北長瀬表町２丁目１７−８０ ブランチ岡山北長瀬 内",
+      "organizer": "ひねもすCS",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/09/03(木) 17:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/Nyhew/d1ccab4f63b8d86ea316f35a83b4a35b32360f49716efd50c0d45aab5efb5521.jpg",
+      "prefecture": "岡山県",
+      "region": "中国",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第２回ひねもすCS\n主催：\nひねもすCS\nXrossStars\nイベント開始予定\n2026/10/12(月) 11:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nチェックイン後のエントリー先着順\nチェックインした中でエントリーした日時が早い順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\nクロスタ１周年おめでとうございます！\n「Xross Stars 1st Anniv. Collection PREMIUM SET」争奪戦として岡山県で開催する、32人規模CSです。\n\nデッキが欲しい方も、腕試しがしたい方も、ぜひご参加ください！\n\n※本大会はXross Starsカードゲーム様の公式大会ではございません。必ず大会概要全てに目を通した上で参加登録をお願いいたします。\n\n\n\n\n■大会参加費\n\n　1500円\n\n■レギュレーション\n　フルマッチ\n\n\n\n\n■使用可能カード\n　「Xross Stars 1st Anniv. Collection PREMIUM SET」を含む全てのカード\n\n　※7/13適用のLimited・BAN制度に従います。\n\n\n■大会形式\n　予選ラウンド\n　・スイスドロー5回戦\n\n　予選5回戦終了後、予選成績上位8名が決勝トーナメントに進出します。\n\n　勝利数が同じ場合は、オポネント・マッチ・ウィン率（OMW%／オポ差）によって順位を決定します。\n\n　また、予選ラウンドの進行はTonamelを使用します。\n\n　各対戦の終了時に、勝ったプレイヤーがTonamelで報告を行ってください。\n\n　万が一報告した結果に誤りがあった場合、結果の訂正は次ラウンドのマッチング発表前までに行ってください。\n\n　決勝ラウンド\n　・トーナメント3回戦\n\n　　予選上位8人で行います。\n\n　　また、決勝ラウンドの先攻後攻は予選順位の高いプレイヤーに選択権があります。\n\n\n※参加人数によって対戦形式を変更する場合があります。\n\n■制限時間\n・予選ラウンド/35分\n\n・決勝ラウンド/35分\n\n※決勝戦のみ時間無制限で行います。\n\n　制限時間内に決着がつかなかった場合、両者敗北となります。\n\n\n\n■ 大会エントリー\n\n　「エントリー」ボタンよりエントリー名、連絡先、デッキ画像の登録をお願いします。\n\n　デッキ画像の登録は必須となっておりますが、予選ラウンド開始まで変更可能ですので、デッキ内容が確定するまでは任意の画像を貼り付けてエントリーをお願いします。\n\n\n■ キャンセル枠\n　当日、参加確定枠までの受付を行った後、キャンセル待ちの順番が早い順に受付を行い、それでも参加上限人数に満たない場合は当日参加希望の方の受付を行います。\n\n■ 大会受付\n　参加費を用意して、フリースペース付近にいるひねもすCS受付窓口に向かい、参加費を支払いハンドルネームをお伝えください。\n\n※オレタン様の大会受付窓口ではひねもすCSの受付はできません。\n\n\n\n\n■参加キャンセル\n\n　大会に出れないことが判明した場合、大会前日までにキャンセル連絡をお願いします。\n\n　また、体調不良等やむを得ない理由により大会に出れないことが当日判明した場合、主催X（旧Twitter）までご連絡ください。\n\n　無断でのキャンセルについては以後ひねもすCSおよび関連CSへの参加をお断りさせていただきます。\n\n\n\n\n■フロアルール\n\n・ラウンド開始後５分以内に対戦卓に着席できなかった場合、不戦敗となります。スムーズな大会進行にご協力願います。\n\n・大",
+      "raw_json": {
+        "id": "WE8xr",
+        "title": "第２回ひねもすCS",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "https://x.com/xs_hinemosu_cs",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-09-03T21:47:38.995852+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "Tl25r": {
@@ -1850,7 +1878,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "EjMLR": {
@@ -1886,7 +1914,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "SJ5a8": {
@@ -1922,7 +1950,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "h9xPb": {
@@ -1958,7 +1986,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "o8FKw": {
@@ -1994,7 +2022,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 28
     },
     "D3OsY": {
@@ -2030,7 +2058,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "Ef2iQ": {
@@ -2066,7 +2094,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 1
     },
     "wbFvs": {
@@ -2102,7 +2130,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 2
     },
     "WCuE7": {
@@ -2138,7 +2166,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -2174,7 +2202,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 1
     },
     "Q3g0B": {
@@ -2210,7 +2238,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T21:47:38.995852+09:00",
       "seq": 1
     }
   }
