@@ -2,17 +2,17 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-09-03T10:05:38.534180+09:00",
-    "count": 57,
+    "last_run": "2026-09-03T16:08:24.342484+09:00",
+    "count": 60,
     "last_run_info": {
-      "list_count": 42,
-      "api_hit": 42,
-      "new": 0,
+      "list_count": 45,
+      "api_hit": 45,
+      "new": 3,
       "changed": 0,
       "notify": {
         "mode": "sent",
         "sent": 1,
-        "delivered_pending": true
+        "delivered_pending": false
       },
       "errors": []
     }
@@ -614,7 +614,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "OK3wx": {
@@ -650,7 +650,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "Qp4rc": {
@@ -686,7 +686,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "rL8dk": {
@@ -722,7 +722,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "rommK": {
@@ -758,7 +758,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "1E0ON": {
@@ -794,7 +794,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "Ek8se": {
@@ -830,7 +830,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-28T23:18:26.303785+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "LYn4p": {
@@ -866,7 +866,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "aAkuW": {
@@ -902,7 +902,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-27T21:44:20.235342+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "34EoX": {
@@ -938,7 +938,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "55Tpj": {
@@ -974,7 +974,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "zT2HY": {
@@ -1010,7 +1010,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "y2bNy": {
@@ -1046,7 +1046,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "B0NGp": {
@@ -1082,7 +1082,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "pxeA1": {
@@ -1118,7 +1118,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 1
     },
     "j2KXC": {
@@ -1154,7 +1154,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "hgNHB": {
@@ -1190,7 +1190,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "sqgc5": {
@@ -1226,7 +1226,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "7UJQ3": {
@@ -1262,7 +1262,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-01T16:50:31.306622+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "gIgEl": {
@@ -1298,7 +1298,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-02T21:52:02.425274+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "dNAf1": {
@@ -1334,7 +1334,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "PjiTJ": {
@@ -1370,7 +1370,47 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "seq": 0
+    },
+    "Cn3ku": {
+      "id": "Cn3ku",
+      "url": "https://tonamel.com/competition/Cn3ku",
+      "title": "【クロスギルド主催】9/23(水・祝) 参加費無料 BOX争奪戦",
+      "start_at": "2026-09-23T11:40:00+09:00",
+      "end_at": null,
+      "start_date": "2026-09-23",
+      "format": "オフライン",
+      "venue": "カードショップおうち秋葉原店",
+      "address": "東京都千代田区外神田４丁目７−１ リバティ11号館 5階",
+      "organizer": "クロスギルド-XROSSGUILD-",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/09/03(木) 14:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/YU6QR/162d62a7c92f8e63d66211eb6b42d4f527c2ce481c1d3d6b96eb07658284d4c5.jpg",
+      "prefecture": "東京都",
+      "region": "関東",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "【クロスギルド主催】9/23(水・祝) 参加費無料 BOX争奪戦\n主催：\nクロスギルド-XROSSGUILD-\nXrossStars\nイベント開始予定\n2026/09/23(水) 11:40 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\nエントリーした日時が早い順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n【クロスギルド主催】参加費無料 BOX争奪戦\n\n〇大会概要\n\nカードショップおうち秋葉原店 様で 参加費無料のBOX争奪戦を開催！\n\n\n\n\n今回は個人戦＆縛りなしでの開催です☺\n\n\n\n\n気軽にご参加ください！！\n\n\n\n\n🗓開催日時\n\n2026年9月23日（水・祝）11:30開始（11:15受付開始予定）\n\n\n\n\n📍開催場所\n\nカードショップおうち秋葉原店 様\n\n東京都千代田区外神田４丁目７−１ リバティ11号館 5階\n\n\n\n\n💴参加費\n\n0円\n\n\n\n\n👥定員\n\n32名（先着順）\n\n\n\n\n⌚当日スケジュール\n\n大会受付　11:15〜11:30\n\n※当日受付(非予約者)も空きがあれば可能です！\n\n1試合35分\n\n・1戦目開始　11:30～\n\n\n\n\n📚ルール\n\n・スイスドロー形式(全勝者が出るまでマッチング) フルマッチ 決勝トーナメントなし\n\n\n\n\n👜持ち物\n\n使用デッキ・スマホ\n\n\n\n\n🎊順位賞🎊\n\n1位:第4弾『Grand Resonance』 1BOX\n\n\n\n\n1位～4位:公認イベント限定”黒ダイス”1個\n\n\n\n\n参加賞:第4弾『Grand Resonance』 1パック\n\n\n\n\n✅備考\n\n・何かご不明な点がございましたらTwitterまでご連絡ください。\n\n\n\n\n■ ご注意事項\n\nトナメル上での事前エントリーが必要です。当日受付もございます。\n\n\n\n\nルールやマナーを守り、皆さまが気持ちよく楽しめる大会となるようご協力をお願いいたします。\n\n\n\n\nキャンセルされる場合は、必ずトナメル上にてキャンセル処理をお願いいたします。\n\n\n\n\n大会中に撮影させていただいたお写真が、カードショップおうち秋葉原店 様や私共のTwitterに載る場合がございます。(お顔はお隠しいたします)\n\n\n\n\nお問い合わせは全てクロスギルド宛にご連絡ください。\n\n決して、カードショップおうち秋葉原店 様にはお問い合わせしないよう、お願いいたします。\n\n\n\n\n📞お問い合わせ先：\n\nクロスギルド--XROSSGUILD--\n\nTwitter：@ZX9RMahnL531517\n\n\n\n\n協賛:この大会は、カードショップおうち秋葉原店 (@ouchi_Akihabara) 様の提供で開催させていただきます。\n\n続きを読む\n開催場所\nカードショップおうち秋葉原店\n東京都千代田区外神田４丁目７−１ リバティ11号館 5階\n連絡先\nx.com/Xross_Guild\nシェア\nイベントID\nCn3ku\n\nイベントに参加\n\nエントリー\n募集人数\n0/32人\nエントリー期間\n2026/09/03(木) 14:00 〜\n2026/09/23(水) 11:40\n\nエントリー\n\nあと19日\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n【クロスギルド主催】9/23(水・祝) 参加費無料 BOX争奪戦\n人気のゲーム\nポケモンカードゲーム",
+      "raw_json": {
+        "id": "Cn3ku",
+        "title": "【クロスギルド主催】9/23(水・祝) 参加費無料 BOX争奪戦",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "https://x.com/Xross_Guild",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "xtzru": {
@@ -1406,7 +1446,87 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "seq": 0
+    },
+    "R25FW": {
+      "id": "R25FW",
+      "url": "https://tonamel.com/competition/R25FW",
+      "title": "【クロスギルド主催】9/23(水・祝) 初心者・超初心者向けティーチング会",
+      "start_at": "2026-09-23T16:40:00+09:00",
+      "end_at": null,
+      "start_date": "2026-09-23",
+      "format": "オフライン",
+      "venue": "カードショップおうち秋葉原店",
+      "address": "京都千代田区外神田４丁目７−１ リバティ11号館 5階",
+      "organizer": "クロスギルド-XROSSGUILD-",
+      "entry_fee": "",
+      "capacity": "6人",
+      "entry_period": "2026/09/03(木) 14:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/YU6QR/04daa6b5f8ce5a9920467c0d276abeb58152af1f91638d2affce339d07b02dbf.jpg",
+      "prefecture": "東京都",
+      "region": "関東",
+      "capacity_num": 6,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "【クロスギルド主催】9/23(水・祝) 初心者・超初心者向けティーチング会\n主催：\nクロスギルド-XROSSGUILD-\nXrossStars\nイベント開始予定\n2026/09/23(水) 16:40 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n6人\n参加枠の上限を超えた場合\nエントリー先着順\nエントリーした日時が早い順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n【クロスギルド主催】初心者・超初心者向けティーチング会\n\n\n\n\n〇概要\n\n持ち物なし、参加費無料！！\n\n\n\n\n4弾発売をきっかけにクロスタを始める方や興味があるけど一歩が踏み出せない方、既に始めている初心者の方が対象です！！\n\nルールの説明やカードの説明、デッキの組み方などクロスタに関連することから、スリーブなどのサプライについて等クロスタを始めるのに必要なことをお教えいたします☺\n\n\n\n\n・ルールを全く知らない\n\n・ルールは知っているけど不安がある\n\n・推しを使いたいけどデッキの組み方が分からない\n\n\n\n\n上記の方は ぜひ ご参加ください✨✨\n\n\n\n\n🗓開催日時\n\n2026年9月23日（水・祝）16:30開始（空きがあれば途中参加も可）\n\n\n\n\n📍開催場所\n\nカードショップおうち秋葉原店 様\n\n京都千代田区外神田４丁目７−１ リバティ11号館 5階\n\n\n\n\n💴参加費\n\n無料\n\n\n\n\n👥定員\n\n32名（先着順）\n\n\n\n\n⌚当日スケジュール\n\n受付　16:15～16:30\n\n※当日受付(非予約者)も空きがあれば可能です！\n\n\n\n\nティーチング会 開始　16:30～\n\n〇ルール解説\n\n〇参加者同士でのフリーマッチ\n\n〇質疑応答\n\n\n\n\n終了予定　17:30(前後)\n\n\n\n\n👜持ち物\n\nなし\n\n\n\n\n🎊参加特典🎊\n\n第4弾【Grand Resonance】1パック\n\n\n\n\n✅備考\n\n・何かご不明な点がございましたらTwitterまでご連絡ください。\n\n\n\n\n■ ご注意事項\n\nトナメル上での事前エントリーが必要です。当日受付もございます。\n\n\n\n\nキャンセルされる場合は、必ずトナメル上にてキャンセル処理をお願いいたします。\n\n\n\n\n大会中に撮影させていただいたお写真が、Bゲート秋葉原店 様や私共のTwitterに載る場合がございます。(お顔はお隠しいたします)\n\n\n\n\nお問い合わせは全てクロスギルド宛にご連絡ください。\n\n決して、カードショップおうち秋葉原店 様にはお問い合わせしないよう、お願いいたします。\n\n\n\n\n📞お問い合わせ先：\n\nクロスギルド--XROSSGUILD--\n\nTwitter：@ZX9RMahnL531517\n\n続きを読む\n開催場所\nカードショップおうち秋葉原店\n京都千代田区外神田４丁目７−１ リバティ11号館 5階\n連絡先\nx.com/Xross_Guild\nシェア\nイベントID\nR25FW\n\nイベントに参加\n\nエントリー\n募集人数\n0/6人\nエントリー期間\n2026/09/03(木) 14:00 〜\n2026/09/23(水) 16:40\n\nエントリー\n\nあと20日\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n【クロスギルド主催】9/23(水・祝) 初心者・超初心者向けティーチング会\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \n",
+      "raw_json": {
+        "id": "R25FW",
+        "title": "【クロスギルド主催】9/23(水・祝) 初心者・超初心者向けティーチング会",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "https://x.com/Xross_Guild",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
+      "seq": 0
+    },
+    "6BZdA": {
+      "id": "6BZdA",
+      "url": "https://tonamel.com/competition/6BZdA",
+      "title": "【クロスギルド主催】第14回 GUILD CUP",
+      "start_at": "2026-09-23T18:40:00+09:00",
+      "end_at": null,
+      "start_date": "2026-09-23",
+      "format": "オフライン",
+      "venue": "カードショップおうち秋葉原",
+      "address": "東京都千代田区外神田４丁目７−１ リバティ11号館 5階",
+      "organizer": "クロスギルド-XROSSGUILD-",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/09/03(木) 14:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/YU6QR/640b9169f7156c0c07728a3dcc39706952c3f641ee79268b86dc88e01e6eb4c5.jpg",
+      "prefecture": "東京都",
+      "region": "関東",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "【クロスギルド主催】第14回 GUILD CUP\n主催：\nクロスギルド-XROSSGUILD-\nXrossStars\nイベント開始予定\n2026/09/23(水) 18:40 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n【クロスギルド主催】第14回 GUILD CUP\n\n〇大会概要\n\nカードショップおうち秋葉原店 様で公認CSを開催！\n\n\n\n\n今回は個人戦＆縛りなしでの開催です☺\n\n\n\n\nランダム賞もございます✨✨\n\n\n\n\n🗓開催日時\n\n2026年9月23日（水・祝）18:30開始（18:15受付開始予定）\n\n\n\n\n📍開催場所\n\nカードショップおうち秋葉原 様\n\n東京都千代田区外神田４丁目７−１ リバティ11号館 5階\n\n\n\n\n💴参加費\n\n1,500円 ※当日支払い\n\n\n\n\n👥定員\n\n32名（先着順）\n\n\n\n\n⌚当日スケジュール\n\n大会受付　18:15〜18:30\n\n※当日受付(非予約者)も空きがあれば可能です！\n\n1試合35分\n\n・1戦目開始　18:30～\n\n\n\n\n📚ルール\n\n・スイスドロー形式(全勝者が出るまでマッチング)\n\n・フルマッチ\n\n・決勝トーナメントなし\n\n・巻き戻しなし\n\n\n\n\n👜持ち物\n\n使用デッキ・スマホ・参加費(現金のみ)\n\n\n\n\n🎊順位賞🎊\n\n1位:第4弾『Grand Resonance』 2BOX\n\n\n\n\n2位:第4弾『Grand Resonance』 1BOX\n\n\n\n\n3位:第4弾『Grand Resonance』 4パック\n\n\n\n\n1位～4位:公認イベント限定”黒ダイス”1個\n\n\n\n\nランダム賞:未定\n\n\n\n\n参加賞:『Grand Resonance』1パック\n\n\n\n\n※順位賞は参加人数が少なければ減少いたします。\n\n\n\n\n順位賞の最終確定個数は開催前日の夜にTwitter上で発表いたします。\n\n\n\n\n✅備考\n\n・何かご不明な点がございましたらTwitterまでご連絡ください。\n\n\n\n\n■ ご注意事項\n\nトナメル上での事前エントリーが必要です。当日受付もございます。\n\n\n\n\nルールやマナーを守り、皆さまが気持ちよく楽しめる大会となるようご協力をお願いいたします。\n\n\n\n\nキャンセルされる場合は、必ずトナメル上にてキャンセル処理をお願いいたします。\n\n\n\n\n大会中に撮影させていただいたお写真が、カードショップおうち秋葉原 様や私共のTwitterに載る場合がございます。(お顔はお隠しいたします)\n\n\n\n\nお問い合わせは全てクロスギルド宛にご連絡ください。\n\n決して、カードショップおうち秋葉原店 様にはお問い合わせしないよう、お願いいたします。\n\n\n\n\n📞お問い合わせ先：\n\nクロスギルド--XROSSGUILD--\n\nTwitter：@ZX9RMahnL531517\n\n\n\n\n協賛:この大会は、カードショップおうち秋葉原店(@ouchi_Akihabara)の提供で開催させていただきます。\n\n続きを読む\n開催場所\nカードショップおうち秋葉原\n東京都千代田区外神田４丁目７−１ リバティ11号館 5階\n連絡先\nx.com/Xross_Guild\nシェア\nイベントID\n6BZdA\n\nイベントに参加\n\nエントリー\n募集人数\n0/32人\n支払い済み人数\n0/32人\nエントリー料\n¥ 1,500\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/09/03(木) 14:",
+      "raw_json": {
+        "id": "6BZdA",
+        "title": "【クロスギルド主催】第14回 GUILD CUP ",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "https://x.com/Xross_Guild",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-09-03T16:08:23.106202+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "M2CBi": {
@@ -1442,7 +1562,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "aRfLE": {
@@ -1478,7 +1598,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 1
     },
     "TLwwE": {
@@ -1514,7 +1634,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 28
     },
     "Ic5po": {
@@ -1550,7 +1670,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 1
     },
     "rUdMV": {
@@ -1586,7 +1706,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "QPMQL": {
@@ -1622,7 +1742,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T17:37:01.108728+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "8YeLM": {
@@ -1658,7 +1778,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-30T17:24:05.907933+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "o6kEn": {
@@ -1694,7 +1814,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "Tl25r": {
@@ -1730,7 +1850,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "EjMLR": {
@@ -1766,7 +1886,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "SJ5a8": {
@@ -1802,7 +1922,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "h9xPb": {
@@ -1838,7 +1958,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "o8FKw": {
@@ -1874,7 +1994,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 28
     },
     "D3OsY": {
@@ -1910,7 +2030,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "Ef2iQ": {
@@ -1946,7 +2066,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 1
     },
     "wbFvs": {
@@ -1982,7 +2102,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 2
     },
     "WCuE7": {
@@ -2018,7 +2138,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -2054,7 +2174,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 1
     },
     "Q3g0B": {
@@ -2090,7 +2210,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-03T10:05:37.128973+09:00",
+      "last_updated": "2026-09-03T16:08:23.106202+09:00",
       "seq": 1
     }
   }

@@ -601,6 +601,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Cn3ku@xrossstars-watcher
+DTSTAMP:20260903T070823Z
+SEQUENCE:0
+DTSTART:20260923T024000Z
+DTEND:20260923T064000Z
+SUMMARY:【クロスギルド主催】9/23(水・祝) 参加費無料 BOX
+ 争奪戦
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n定員: 32人\nエント
+ リー期間: 2026/09/03(木) 14:00 〜\n\nhttps://tonamel.com/competition
+ /Cn3ku
+URL:https://tonamel.com/competition/Cn3ku
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-xtzru@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -612,6 +629,39 @@ DESCRIPTION:会場: オフライン / トイコンプ 堺東店\n主催:
  期間: 2026/08/21(金) 14:00 〜\n\nhttps://tonamel.com/competition/xtzru
 URL:https://tonamel.com/competition/xtzru
 LOCATION:トイコンプ 堺東店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-R25FW@xrossstars-watcher
+DTSTAMP:20260903T070823Z
+SEQUENCE:0
+DTSTART:20260923T074000Z
+DTEND:20260923T114000Z
+SUMMARY:【クロスギルド主催】9/23(水・祝) 初心者・超初心
+ 者向けティーチング会
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原店\n主催: クロスギルド-XROSSGUILD-\n定員: 6人\nエントリ
+ ー期間: 2026/09/03(木) 14:00 〜\n\nhttps://tonamel.com/competition/R2
+ 5FW
+URL:https://tonamel.com/competition/R25FW
+LOCATION:カードショップおうち秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-6BZdA@xrossstars-watcher
+DTSTAMP:20260903T070823Z
+SEQUENCE:0
+DTSTART:20260923T094000Z
+DTEND:20260923T134000Z
+SUMMARY:【クロスギルド主催】第14回 GUILD CUP
+DESCRIPTION:会場: オフライン / カードショップおうち秋葉
+ 原\n主催: クロスギルド-XROSSGUILD-\n定員: 32人\nエントリ
+ ー期間: 2026/09/03(木) 14:00 〜\n\nhttps://tonamel.com/competition/6B
+ ZdA
+URL:https://tonamel.com/competition/6BZdA
+LOCATION:カードショップおうち秋葉原
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
