@@ -731,6 +731,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-7qYp4@xrossstars-watcher
+DTSTAMP:20260905T065446Z
+SEQUENCE:0
+DTSTART:20261004T040000Z
+DTEND:20261004T080000Z
+SUMMARY:第3回チロカップ
+DESCRIPTION:会場: オフライン / トイコンプ梅田（大阪駅前
+ 第三ビル店）\n主催: チロカップ\n参加費: 1000円(当日受
+ 付にて徴収します)\n定員: 32人\nエントリー期間: 2026/09/0
+ 5(土) 21:00 〜\n\nhttps://tonamel.com/competition/7qYp4
+URL:https://tonamel.com/competition/7qYp4
+LOCATION:トイコンプ梅田（大阪駅前第三ビル店）
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-rUdMV@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -914,6 +930,22 @@ DESCRIPTION:会場: オフライン / flat-工房　池袋店\n主催: 星
  2iQ
 URL:https://tonamel.com/competition/Ef2iQ
 LOCATION:flat-工房　池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-ZcKk7@xrossstars-watcher
+DTSTAMP:20260905T065446Z
+SEQUENCE:0
+DTSTART:20261108T040000Z
+DTEND:20261108T080000Z
+SUMMARY:第3.5回3on3チロカップ
+DESCRIPTION:会場: オフライン / トイコンプ高槻\n主催: チロ
+ カップ\n参加費: 4500円/1チーム\n定員: 32チーム\nエント
+ リー期間: 2026/09/05(土) 21:00 〜\n\nhttps://tonamel.com/competition
+ /ZcKk7
+URL:https://tonamel.com/competition/ZcKk7
+LOCATION:トイコンプ高槻
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
