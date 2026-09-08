@@ -666,6 +666,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-VcglS@xrossstars-watcher
+DTSTAMP:20260908T125028Z
+SEQUENCE:0
+DTSTART:20260924T100000Z
+DTEND:20260924T140000Z
+SUMMARY:N杯♯1
+DESCRIPTION:会場: オフライン / SuperKaBoS+ゲオ二の宮本店\n主
+ 催: エミーティカ（のじ）\n参加費: 500円(現金のみでお
+ 願いします)\n定員: 16人\nエントリー期間: 2026/09/07(月) 21
+ :00 〜\n\nhttps://tonamel.com/competition/VcglS
+URL:https://tonamel.com/competition/VcglS
+LOCATION:SuperKaBoS+ゲオ二の宮本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-M2CBi@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
