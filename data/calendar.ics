@@ -698,6 +698,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-j7Ced@xrossstars-watcher
+DTSTAMP:20260911T071517Z
+SEQUENCE:0
+DTSTART:20260926T040000Z
+DTEND:20260926T080000Z
+SUMMARY:【公認】すーぱーmagカップmini #2
+DESCRIPTION:会場: オフライン / カードボックス青馬堂 矢向
+ 店\n主催: 鈴木塾クロスタ支部\n定員: 16人\nエントリー
+ 期間: 2026/09/11(金) 21:00 〜\n\nhttps://tonamel.com/competition/j7Ced
+URL:https://tonamel.com/competition/j7Ced
+LOCATION:カードボックス青馬堂 矢向店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-aRfLE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:1
