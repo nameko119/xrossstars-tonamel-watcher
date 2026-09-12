@@ -871,6 +871,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-7WXz3@xrossstars-watcher
+DTSTAMP:20260912T070657Z
+SEQUENCE:0
+DTSTART:20261017T050000Z
+DTEND:20261017T090000Z
+SUMMARY:第1回 未明杯
+DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
+ 催: うつしみのつどい\n参加費: 500円\n定員: 16人\nエント
+ リー期間: 2026/09/18(金) 18:00 〜\n\nhttps://tonamel.com/competition
+ /7WXz3
+URL:https://tonamel.com/competition/7WXz3
+LOCATION:レプトントレカ海田店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-EjMLR@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
