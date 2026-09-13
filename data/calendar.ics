@@ -823,6 +823,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Yir8Z@xrossstars-watcher
+DTSTAMP:20260913T005235Z
+SEQUENCE:0
+DTSTART:20261010T022000Z
+DTEND:20261010T062000Z
+SUMMARY:第30回︎🌟ぽたくCS5on5
+DESCRIPTION:会場: オフライン / 竜星のPAO 秋葉原ロケット無
+ 線店\n主催: nanacs\n定員: 22チーム\nエントリー期間: 2026/0
+ 9/13(日) 20:00 〜\n\nhttps://tonamel.com/competition/Yir8Z
+URL:https://tonamel.com/competition/Yir8Z
+LOCATION:竜星のPAO 秋葉原ロケット無線店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-8YeLM@xrossstars-watcher
 DTSTAMP:20260830T082405Z
 SEQUENCE:0
