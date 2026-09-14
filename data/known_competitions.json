@@ -2,16 +2,16 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-09-14T09:57:47.507587+09:00",
-    "count": 69,
+    "last_run": "2026-09-14T16:51:51.485847+09:00",
+    "count": 70,
     "last_run_info": {
-      "list_count": 44,
-      "api_hit": 44,
-      "new": 0,
+      "list_count": 45,
+      "api_hit": 45,
+      "new": 1,
       "changed": 0,
       "notify": {
         "mode": "sent",
-        "sent": 0,
+        "sent": 1,
         "delivered_pending": false
       },
       "errors": []
@@ -974,7 +974,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "zT2HY": {
@@ -1010,7 +1010,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "y2bNy": {
@@ -1046,7 +1046,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "B0NGp": {
@@ -1063,7 +1063,7 @@
       "entry_fee": "●",
       "capacity": "24人",
       "entry_period": "2026/08/30(日) 20:00 〜",
-      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-3947e3c628-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-6ac039b898-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
       "prefecture": "鹿児島県",
       "region": "九州・沖縄",
       "capacity_num": 24,
@@ -1082,7 +1082,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "pxeA1": {
@@ -1118,7 +1118,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 1
     },
     "j2KXC": {
@@ -1154,7 +1154,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "hgNHB": {
@@ -1190,7 +1190,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "sqgc5": {
@@ -1207,7 +1207,7 @@
       "entry_fee": "】1000円(当日現金でお願いします。）",
       "capacity": "24人",
       "entry_period": "2026/08/12(水) 19:00 〜",
-      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-3947e3c628-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-6ac039b898-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
       "prefecture": "広島県",
       "region": "中国",
       "capacity_num": 24,
@@ -1226,7 +1226,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "7UJQ3": {
@@ -1262,7 +1262,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-01T16:50:31.306622+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "gIgEl": {
@@ -1298,7 +1298,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-02T21:52:02.425274+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "dNAf1": {
@@ -1315,7 +1315,7 @@
       "entry_fee": "1000円 (現金のみ、当日支払い)",
       "capacity": "32人",
       "entry_period": "2026/08/21(金) 13:00 〜",
-      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-3947e3c628-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-6ac039b898-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
       "prefecture": "山口県",
       "region": "中国",
       "capacity_num": 32,
@@ -1334,7 +1334,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "PjiTJ": {
@@ -1370,7 +1370,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "Cn3ku": {
@@ -1406,7 +1406,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T16:08:23.106202+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "xtzru": {
@@ -1442,7 +1442,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "R25FW": {
@@ -1478,7 +1478,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T16:08:23.106202+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "6BZdA": {
@@ -1514,7 +1514,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T16:08:23.106202+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "VcglS": {
@@ -1550,7 +1550,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-08T21:50:28.877015+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "M2CBi": {
@@ -1586,7 +1586,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "j7Ced": {
@@ -1622,7 +1622,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-11T16:15:17.274763+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "aRfLE": {
@@ -1658,7 +1658,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 1
     },
     "TLwwE": {
@@ -1694,7 +1694,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 28
     },
     "CDdxP": {
@@ -1730,7 +1730,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-13T01:59:57.822276+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "Ic5po": {
@@ -1766,7 +1766,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 1
     },
     "7qYp4": {
@@ -1802,7 +1802,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T15:54:46.973241+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "rUdMV": {
@@ -1838,7 +1838,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "QPMQL": {
@@ -1874,7 +1874,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T17:37:01.108728+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "Yir8Z": {
@@ -1910,7 +1910,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-13T09:52:35.341960+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "8YeLM": {
@@ -1946,7 +1946,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-30T17:24:05.907933+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "o6kEn": {
@@ -1982,7 +1982,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "WE8xr": {
@@ -2018,7 +2018,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T21:47:38.995852+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "Tl25r": {
@@ -2054,7 +2054,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "7WXz3": {
@@ -2090,7 +2090,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-12T16:06:57.732897+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "EjMLR": {
@@ -2126,7 +2126,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "SJ5a8": {
@@ -2162,7 +2162,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "h9xPb": {
@@ -2179,7 +2179,7 @@
       "entry_fee": "●",
       "capacity": "12人",
       "entry_period": "2026/08/30(日) 19:00 〜",
-      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-3947e3c628-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-6ac039b898-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
       "prefecture": "鹿児島県",
       "region": "九州・沖縄",
       "capacity_num": 12,
@@ -2198,7 +2198,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "o8FKw": {
@@ -2234,7 +2234,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 28
     },
     "D3OsY": {
@@ -2270,7 +2270,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "Ef2iQ": {
@@ -2306,8 +2306,48 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 1
+    },
+    "kRCnO": {
+      "id": "kRCnO",
+      "url": "https://tonamel.com/competition/kRCnO",
+      "title": "滝行杯#10",
+      "start_at": "2026-11-08T11:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-08",
+      "format": "オフライン",
+      "venue": "193 秋葉原店",
+      "address": "〒101-0021 東京都千代田区 外神田3丁目2-14 今井ビル2F",
+      "organizer": "星屑デビルバッツ",
+      "entry_fee": "・2000円",
+      "capacity": "120人",
+      "entry_period": "2026/09/14(月) 21:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/xWKrs/6b30671a01d2c6ec0a9c69c44922522a5c566f65a30423a964208b9253e16a74.png",
+      "prefecture": "東京都",
+      "region": "関東",
+      "capacity_num": 120,
+      "fee_num": 2000,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "滝行杯#10\n主催：\n星屑デビルバッツ\nXrossStars\nイベント開始予定\n2026/11/08(日) 11:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n120人\n開催形式\nオフライン\nイベント詳細\n\n滝行杯もなんと10回目！！！\n\n皆さんのおかげです。。。。\n\n\n\n\n193秋葉原店様で非公認大会を\n\n開催させていただきます‼️\n\n大型大会前の腕試しにどうぞ‼️\n\n\n\n\n■スケジュール\n\n11時00分～受付開始\n\n11時20分～大会説明\n\n11時40分～試合開始\n\n17時00分 予選終了予定\n\n17時20分 トーナメント開始\n\n19時30分 完全終了予定\n\n※上位16名をtier1トーナメント進出とする。\n\n※17〜32位までをtier2トーナメント進出とする。\n\n\n\n\n※トナメル上の順位を考慮し\n\n進出者を決める為オポネント等で\n\n同率の場合は両者が納得する方法で決めていただきます。\n\n\n\n\n\n\n\n■対戦形式\n\n・制限時間30分(時間切れの場合両者敗北)\n\n・最大7回戦\n\n(全勝者が1名になった時点で予選は終了します)\n\n・スイスドロー形式\n\n・フルマッチ(BO3)\n\n■参加費\n・2000円\n\n\n\n\n■持ち物\n\n・デッキ\n・ダメージなどを計算するもの\n\n・参加費(2000円)\n\n・替えのスリーブ\n\n\n■景品\n\n🥇\n\n・ブースターパック第5弾\n\n『Ignition Vortex』 6box\n\n\n\n\n🥈\n\n・ブースターパック第5弾\n\n『Ignition Vortex』 5box\n\n\n\n\n🥉\n\n・ブースターパック第5弾\n\n『Ignition Vortex』3box\n\n\n\n\n4位\n\n･ブースターパック第5弾\n\n『Ignition Vortex』2box\n\n\n\n\n5-8位　\n\n･ブースターパック第5弾\n\n『Ignition Vortex』1box\n\n\n\n\n9-16位\n\n･ブースターパック第5弾\n\n『Ignition Vortex』6pack\n\n\n\n\n\n\n\ntier2トーナメント\n\n🥇『Ignition Vortex』2box\n\n🥈『Ignition Vortex』1box\n\n🥉『Ignition Vortex』8pack\n\n4位『Ignition Vortex』4pack\n\n\n\n\n予選全勝賞やサプライ賞などもあり……❓\n\n\n\n\nその他 ランダム賞多数\n\n\n\n\nキャンセルは前日の24時までに\n\nよろしくお願いいたします🙇‍♂️\n\n\n\n\n\n\n\n参加者に応じて対戦数が前後します。\n\nご了承ください。\n\n\n\n\n今大会までに当日キャンセルなどが多数の方はエントリーをお断りさせていただくことがあります。\n\n\n\n\n\n\n\n続きを読む\n開催場所\n193 秋葉原店\n〒101-0021 東京都千代田区 外神田3丁目2-14 今井ビル2F\n連絡先\n@abi_nzna\nシェア\nイベントID\nkRCnO\n\nイベントに参加\n\nエントリー\n参加者の皆さん\n募集人数\n0/116人\n支払い済み人数\n0/116人\nエントリー料\n¥ 2,000\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/09/14(月) 21:00 〜\n2026/11/08(日) 21:00\n\nエントリー\n\nあと04:08:12で開始\n\n招待選手\n募集人数\n4/4人\nエントリー料\n無料\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/09/14(月) 13:00 〜\n2026/09/21(月) 13:00\n\nエントリー\n\nあと6日\n\nトーナメント表確定\n主催",
+      "raw_json": {
+        "id": "kRCnO",
+        "title": "滝行杯#10",
+        "region": "JP",
+        "useDetailEntryMenu": true,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "@abi_nzna",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-09-14T16:51:49.976797+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
+      "seq": 0
     },
     "ZcKk7": {
       "id": "ZcKk7",
@@ -2342,7 +2382,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T15:54:46.973241+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -2378,7 +2418,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 2
     },
     "AAxnk": {
@@ -2395,7 +2435,7 @@
       "entry_fee": "",
       "capacity": "32人",
       "entry_period": "2026/09/06(日) 17:00 〜",
-      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-3947e3c628-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-6ac039b898-8e598588ea/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
       "prefecture": "新潟県",
       "region": "中部",
       "capacity_num": 32,
@@ -2414,7 +2454,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T21:06:38.906414+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -2450,7 +2490,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -2486,7 +2526,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 1
     },
     "Q3g0B": {
@@ -2522,7 +2562,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-09-14T09:57:47.487979+09:00",
+      "last_updated": "2026-09-14T16:51:49.976797+09:00",
       "seq": 1
     }
   }
