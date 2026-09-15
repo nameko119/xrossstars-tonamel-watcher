@@ -777,6 +777,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-kpGUk@xrossstars-watcher
+DTSTAMP:20260915T132748Z
+SEQUENCE:0
+DTSTART:20261003T020000Z
+DTEND:20261003T060000Z
+SUMMARY:狂人杯　#02
+DESCRIPTION:会場: オフライン / 越谷コミュニティセンター
+ 第4会議室\n主催: 価格保証宣言！\n定員: 32人\nエントリ
+ ー期間: 2026/09/12(土) 12:00 〜\n\nhttps://tonamel.com/competition/kp
+ GUk
+URL:https://tonamel.com/competition/kpGUk
+LOCATION:越谷コミュニティセンター第4会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-7qYp4@xrossstars-watcher
 DTSTAMP:20260905T065446Z
 SEQUENCE:0
