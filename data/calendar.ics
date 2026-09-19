@@ -715,10 +715,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-aRfLE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART:20260927T040000Z
 DTEND:20260927T080000Z
-SUMMARY:第7回　Xross Stars Showdown!!
+SUMMARY:第7回　Xross Stars Showdown!!【公認オーガナイザーイ
+ ベント】
 DESCRIPTION:会場: オフライン / ウイングプラザ パディ 2F 
  デュエルスペース\n主催: クロスタ\n定員: 39チーム\nエ
  ントリー期間: 2026/08/21(金) 19:00 〜\n\nhttps://tonamel.com/compe
