@@ -713,6 +713,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-EeGYl@xrossstars-watcher
+DTSTAMP:20260921T075510Z
+SEQUENCE:0
+DTSTART:20260926T053000Z
+DTEND:20260926T093000Z
+SUMMARY:第13回　ミント沖縄店 Xrossstars 非公認大会
+DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
+ 沖縄店\n定員: 16人\nエントリー期間: 2026/09/08(火) 12:00 〜
+ \n\nhttps://tonamel.com/competition/EeGYl
+URL:https://tonamel.com/competition/EeGYl
+LOCATION:ミント沖縄店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-aRfLE@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:2
@@ -990,6 +1005,21 @@ DESCRIPTION:会場: オフライン / おもちゃのバンビ本郷店\n
  02(水) 19:00 〜\n\nhttps://tonamel.com/competition/SJ5a8
 URL:https://tonamel.com/competition/SJ5a8
 LOCATION:おもちゃのバンビ本郷店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-ppu7M@xrossstars-watcher
+DTSTAMP:20260921T075510Z
+SEQUENCE:0
+DTSTART:20261025T020000Z
+DTEND:20261025T060000Z
+SUMMARY:第5回 にこかっぷ (縛りあり)
+DESCRIPTION:会場: オフライン / ワンダーグー瑞江店\n主催: 
+ にこカップ\n定員: 48人\nエントリー期間: 2026/09/28(月) 19:
+ 00 〜\n\nhttps://tonamel.com/competition/ppu7M
+URL:https://tonamel.com/competition/ppu7M
+LOCATION:ワンダーグー瑞江店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
