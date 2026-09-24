@@ -870,6 +870,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-eZCNq@xrossstars-watcher
+DTSTAMP:20260924T133057Z
+SEQUENCE:0
+DTSTART:20261004T070000Z
+DTEND:20261004T110000Z
+SUMMARY:第2回宝島イオンモール三川 BOX争奪戦
+DESCRIPTION:会場: オフライン / 宝島イオンモール三川\n主
+ 催: 宝島イオンモール\n定員: 16人\nエントリー期間: 2026/
+ 09/24(木) 13:00 〜\n\nhttps://tonamel.com/competition/eZCNq
+URL:https://tonamel.com/competition/eZCNq
+LOCATION:宝島イオンモール三川
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Yir8Z@xrossstars-watcher
 DTSTAMP:20260913T005235Z
 SEQUENCE:1
@@ -1193,6 +1208,22 @@ DESCRIPTION:会場: オフライン / シーガル大河原店\n主催: 金
  026/07/19(日) 23:00 〜\n\nhttps://tonamel.com/competition/9GmtZ
 URL:https://tonamel.com/competition/9GmtZ
 LOCATION:シーガル大河原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-nTEQd@xrossstars-watcher
+DTSTAMP:20260924T133057Z
+SEQUENCE:0
+DTSTART:20261122T033000Z
+DTEND:20261122T073000Z
+SUMMARY:第2回　ベドチキ杯
+DESCRIPTION:会場: オフライン / トイコンプ大阪駅前第3ビル
+ 店\n主催: ベドチキ杯\n参加費: 1000円(当日受付にて徴収
+ します)\n定員: 32人\nエントリー期間: 2026/10/01(木) 21:00 
+ 〜\n\nhttps://tonamel.com/competition/nTEQd
+URL:https://tonamel.com/competition/nTEQd
+LOCATION:トイコンプ大阪駅前第3ビル店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
