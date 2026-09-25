@@ -1230,10 +1230,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-Q3g0B@xrossstars-watcher
 DTSTAMP:20260826T140121Z
-SEQUENCE:1
+SEQUENCE:2
 DTSTART:20261226T020000Z
 DTEND:20261226T060000Z
-SUMMARY:第4回 xross stars 金糸雀杯
+SUMMARY:第3回 xross stars 金糸雀杯
 DESCRIPTION:会場: オフライン / シーガル仙台駅前店\n主催: 
  金糸雀杯\n参加費: 1000円 / 1人\n定員: 32人\nエントリー期
  間: 2026/07/19(日) 23:00 〜\n\nhttps://tonamel.com/competition/Q3g0B
