@@ -900,6 +900,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-IhIlR@xrossstars-watcher
+DTSTAMP:20260927T135146Z
+SEQUENCE:0
+DTSTART:20261009T110000Z
+DTEND:20261009T150000Z
+SUMMARY:N杯♯2
+DESCRIPTION:会場: オフライン / SuperKaBoS+ゲオ二の宮本店\n主
+ 催: エミーティカ（のじ）\n参加費: 500円(現金のみでお
+ 願いします)\n定員: 16人\nエントリー期間: 2026/09/27(日) 20
+ :30 〜\n\nhttps://tonamel.com/competition/IhIlR
+URL:https://tonamel.com/competition/IhIlR
+LOCATION:SuperKaBoS+ゲオ二の宮本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Yir8Z@xrossstars-watcher
 DTSTAMP:20260913T005235Z
 SEQUENCE:1
