@@ -1148,6 +1148,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-g1a6N@xrossstars-watcher
+DTSTAMP:20260928T183453Z
+SEQUENCE:0
+DTSTART:20261031T030000Z
+DTEND:20261031T070000Z
+SUMMARY:第10回クロスタコギナゴカップ【3人チーム戦】
+DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
+ 主催: コーギーアール名古屋店\n定員: 24チーム\nエント
+ リー期間: 2026/09/28(月) 19:00 〜\n\nhttps://tonamel.com/competition
+ /g1a6N
+URL:https://tonamel.com/competition/g1a6N
+LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Ef2iQ@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:1
