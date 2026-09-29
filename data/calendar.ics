@@ -978,6 +978,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-9ImgM@xrossstars-watcher
+DTSTAMP:20260929T165303Z
+SEQUENCE:0
+DTSTART:20261011T032000Z
+DTEND:20261011T072000Z
+SUMMARY:第4回うにぐんCS-クロススターズ-@大宮
+DESCRIPTION:会場: オフライン / コーギーアール大宮駅前店\
+ n主催: うにぐんCS\n参加費: 1\,500円(現金のみ)\n定員: 32人
+ \nエントリー期間: 2026/09/30(水) 20:00 〜\n\nhttps://tonamel.com/
+ competition/9ImgM
+URL:https://tonamel.com/competition/9ImgM
+LOCATION:コーギーアール大宮駅前店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-o6kEn@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -1180,6 +1196,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-XrzD1@xrossstars-watcher
+DTSTAMP:20260929T165303Z
+SEQUENCE:0
+DTSTART:20261101T050000Z
+DTEND:20261101T090000Z
+SUMMARY:第13回　火蝶杯（かちょうはい）
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
+ ompetition/XrzD1
+URL:https://tonamel.com/competition/XrzD1
+LOCATION:ドラグーン博多店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-kRCnO@xrossstars-watcher
 DTSTAMP:20260914T075149Z
 SEQUENCE:0
@@ -1223,6 +1256,23 @@ DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
  mpetition/wbFvs
 URL:https://tonamel.com/competition/wbFvs
 LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-PzAvv@xrossstars-watcher
+DTSTAMP:20260929T165303Z
+SEQUENCE:0
+DTSTART:20261115T050000Z
+DTEND:20261115T090000Z
+SUMMARY:第14回　火蝶杯（かちょうはい）
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/29(火) 19:00 〜\n\nhttps://tonamel.com/c
+ ompetition/PzAvv
+URL:https://tonamel.com/competition/PzAvv
+LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
