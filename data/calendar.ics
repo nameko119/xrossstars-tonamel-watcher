@@ -994,6 +994,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-RLD0G@xrossstars-watcher
+DTSTAMP:20260930T082254Z
+SEQUENCE:0
+DTSTART:20261011T040000Z
+DTEND:20261011T080000Z
+SUMMARY:10月非公認大会『Broken Neonlights BOX争奪戦ミニ』
+DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
+ 催: まちキャラ柏モディ店\n定員: 16人\nエントリー期間:
+  2026/09/27(日) 16:00 〜\n\nhttps://tonamel.com/competition/RLD0G
+URL:https://tonamel.com/competition/RLD0G
+LOCATION:まちキャラ柏モディ店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-o6kEn@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -1260,6 +1275,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-zU6ZN@xrossstars-watcher
+DTSTAMP:20260930T082254Z
+SEQUENCE:0
+DTSTART:20261115T030000Z
+DTEND:20261115T070000Z
+SUMMARY:第１回　ヴァリアブルピック杯
+DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
+ 主催: まっすー\n定員: 32人\nエントリー期間: 2026/09/17(木
+ ) 23:00 〜\n\nhttps://tonamel.com/competition/zU6ZN
+URL:https://tonamel.com/competition/zU6ZN
+LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-PzAvv@xrossstars-watcher
 DTSTAMP:20260929T165303Z
 SEQUENCE:0
@@ -1336,6 +1366,23 @@ DESCRIPTION:会場: オフライン / トイコンプ大阪駅前第3ビル
  〜\n\nhttps://tonamel.com/competition/nTEQd
 URL:https://tonamel.com/competition/nTEQd
 LOCATION:トイコンプ大阪駅前第3ビル店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-Avj2H@xrossstars-watcher
+DTSTAMP:20260930T082254Z
+SEQUENCE:0
+DTSTART:20261213T050000Z
+DTEND:20261213T090000Z
+SUMMARY:第15回　火蝶杯（かちょうはい）
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 1000円 / 
+ 1人（決済は当日会場で支払いになります）\n定員: 48人\
+ nエントリー期間: 2026/09/30(水) 17:00 〜\n\nhttps://tonamel.com/c
+ ompetition/Avj2H
+URL:https://tonamel.com/competition/Avj2H
+LOCATION:ドラグーン博多店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
