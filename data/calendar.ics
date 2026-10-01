@@ -1071,6 +1071,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Jsm9G@xrossstars-watcher
+DTSTAMP:20261001T084614Z
+SEQUENCE:0
+DTSTART:20261023T103000Z
+DTEND:20261023T143000Z
+SUMMARY:Bambi杯クロスタ部門
+DESCRIPTION:会場: オフライン / カードショップBambi\n主催: 
+ カードショップBambi\n定員: 16人\nエントリー期間: 2026/10/
+ 01(木) 13:00 〜\n\nhttps://tonamel.com/competition/Jsm9G
+URL:https://tonamel.com/competition/Jsm9G
+LOCATION:カードショップBambi
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-EjMLR@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -1086,6 +1101,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-IJtRu@xrossstars-watcher
+DTSTAMP:20261001T084614Z
+SEQUENCE:0
+DTSTART:20261024T020000Z
+DTEND:20261024T060000Z
+SUMMARY:第31回︎🌟1部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 定員: 32人\nエントリー期間: 2026/10/02(金) 20:00 〜\n\nhttps:/
+ /tonamel.com/competition/IJtRu
+URL:https://tonamel.com/competition/IJtRu
+LOCATION:トレカ侍2号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-SJ5a8@xrossstars-watcher
 DTSTAMP:20260902T180046Z
 SEQUENCE:0
@@ -1097,6 +1127,21 @@ DESCRIPTION:会場: オフライン / おもちゃのバンビ本郷店\n
  02(水) 19:00 〜\n\nhttps://tonamel.com/competition/SJ5a8
 URL:https://tonamel.com/competition/SJ5a8
 LOCATION:おもちゃのバンビ本郷店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-spwCV@xrossstars-watcher
+DTSTAMP:20261001T084614Z
+SEQUENCE:0
+DTSTART:20261024T070000Z
+DTEND:20261024T110000Z
+SUMMARY:第31回︎🌟2部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 定員: 32人\nエントリー期間: 2026/10/02(金) 21:00 〜\n\nhttps:/
+ /tonamel.com/competition/spwCV
+URL:https://tonamel.com/competition/spwCV
+LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

@@ -2,16 +2,16 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-10-01T11:02:37.394220+09:00",
-    "count": 88,
+    "last_run": "2026-10-01T17:46:15.410355+09:00",
+    "count": 91,
     "last_run_info": {
-      "list_count": 38,
-      "api_hit": 38,
-      "new": 0,
+      "list_count": 41,
+      "api_hit": 41,
+      "new": 3,
       "changed": 0,
       "notify": {
         "mode": "sent",
-        "sent": 0,
+        "sent": 1,
         "delivered_pending": false
       },
       "errors": []
@@ -1838,7 +1838,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 1
     },
     "kpGUk": {
@@ -1874,7 +1874,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-15T22:27:48.431549+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "oh6j5": {
@@ -1910,7 +1910,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-19T21:28:04.632907+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "7qYp4": {
@@ -1946,7 +1946,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T15:54:46.973241+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "rUdMV": {
@@ -1982,7 +1982,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "QPMQL": {
@@ -2018,7 +2018,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T17:37:01.108728+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "eZCNq": {
@@ -2054,7 +2054,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T22:30:57.126716+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "IhIlR": {
@@ -2090,7 +2090,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-27T22:51:46.055374+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "Yir8Z": {
@@ -2126,7 +2126,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-13T09:52:35.341960+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 1
     },
     "7WXz3": {
@@ -2162,7 +2162,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-12T16:06:57.732897+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 1
     },
     "pB8GK": {
@@ -2198,7 +2198,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-17T22:23:10.526999+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "8YeLM": {
@@ -2234,7 +2234,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-30T17:24:05.907933+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "9ImgM": {
@@ -2270,7 +2270,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "RLD0G": {
@@ -2306,7 +2306,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "o6kEn": {
@@ -2342,7 +2342,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "WE8xr": {
@@ -2378,7 +2378,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T21:47:38.995852+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "Tl25r": {
@@ -2414,7 +2414,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "1IAhF": {
@@ -2450,7 +2450,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-22T10:34:44.744236+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
+      "seq": 0
+    },
+    "Jsm9G": {
+      "id": "Jsm9G",
+      "url": "https://tonamel.com/competition/Jsm9G",
+      "title": "Bambi杯クロスタ部門",
+      "start_at": "2026-10-23T19:30:00+09:00",
+      "end_at": null,
+      "start_date": "2026-10-23",
+      "format": "オフライン",
+      "venue": "カードショップBambi",
+      "address": "鹿児島県鹿屋市新生町2-20",
+      "organizer": "カードショップBambi",
+      "entry_fee": "",
+      "capacity": "16人",
+      "entry_period": "2026/10/01(木) 13:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/74qrt/fc3ce61de1012c0e62f9eae829d65b307a21dabdd8f8ab63d2dc561d3f3b1d40.jpg",
+      "prefecture": "鹿児島県",
+      "region": "九州・沖縄",
+      "capacity_num": 16,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "Bambi杯クロスタ部門\n主催：\nカードショップBambi\nXrossStars\nイベント開始予定\n2026/10/23(金) 19:30 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n16人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n◆ルール\n\nフルマッチ2ラウンド先取。\n\n全勝者が1人以下になるまでスイスドローを行います。\n\n試合時間は30分です。\n\n\n\n\n◆参加費\n\n500円\n\n※参加人数により金額が変更される場合がございます。\n\n\n\n\n◆優勝１BOX\n\n　参加賞あり\n\n\n\n\n◆年間ポイント制\n\nポイント制のシーズン通しての年間チャンピオンを決めます！\n\n優勝5ポイント\n\n2位4ポイント\n\n3位3ポイント\n\n参加1ポイント\n\nブービー賞1ポイント\n\n\n\n\n◆レギュレーション\n\nレギュレーションに関しては公式大会準拠\n\nジャッジに関しては基本セルフジャッジとなります。\n\nどうしても双方で解決しない場合は店長へご相談ください。\n\n続きを読む\n開催場所\nカードショップBambi\n鹿児島県鹿屋市新生町2-20\nシェア\nイベントID\nJsm9G\n\nイベントに参加\n\nエントリー\n募集人数\n3/16人\n支払い済み人数\n0/16人\nエントリー料\n¥ 500\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/10/01(木) 13:00 〜\n2026/10/23(金) 19:30\n\nエントリー\n\nあと22日\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\nBambi杯クロスタ部門\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
+      "raw_json": {
+        "id": "Jsm9G",
+        "title": "Bambi杯クロスタ部門",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-10-01T17:46:14.193553+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "EjMLR": {
@@ -2486,7 +2525,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
+      "seq": 0
+    },
+    "IJtRu": {
+      "id": "IJtRu",
+      "url": "https://tonamel.com/competition/IJtRu",
+      "title": "第31回︎🌟1部:ぽたくCS︎",
+      "start_at": "2026-10-24T11:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-10-24",
+      "format": "オフライン",
+      "venue": "トレカ侍2号店",
+      "address": "東京都豊島区東池袋1-32-5 大熊ビル4階",
+      "organizer": "nanacs",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/10/02(金) 20:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/nHqrM/989300f703871cd1ad2e5c6a82f5c26be2b30cd672b94201604bd49763a30e6f.png",
+      "prefecture": "東京都",
+      "region": "関東",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第31回︎🌟1部:ぽたくCS︎\n主催：\nnanacs\nXrossStars\nイベント開始予定\n2026/10/24(土) 11:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n\n\n\n〇挨拶\n\n初めまして🌟\n\n運営のなな(@nnisg_hb03)と申します。\n\nCR推し⇒だるさん👼🏻‎\n\nぶいすぽ推し⇒小森めと\n\n\n\n\n推しのカード使いながら大会出たいよねぇ！？クロススターズ楽しいよね？！\n\nモチベ維持したいよね？！\n\nって感じで運営させて頂いてます😊\n\nこれを機に初めてカードゲームをする方も気軽にご参加頂ければ嬉しいです！\n\n\n\n\n〇運営アカウント\n\nなな(@nnisg_hb03)のフォローをお願いいたします。\n\n何かあった際はこちらから連絡をさせていただく場合がございます。\n\n\n\n\n〇参加費\n\n1500円(現金のみになります)\n\n\n\n\n〇大会キャンセル方法\n\nトナメルよりキャンセルしてください。\n\nやり方が分からない方は運営のXまでご連絡いただければと思います🙇🏻‍♀️‪‪\n\n\n\n\n※前日の18:00を過ぎてのキャンセルは当日キャンセル扱いとさせていただきます。その場合は参加費をお支払いして頂きますのでご了承ください。\n\n※時間をすぎてキャンセルする場合は1度ご連絡を頂けると幸いです。無断キャンセルの場合は、今後 なな が行う全ての大会に参加をご遠慮していただきますのでご了承ください。\n\n\n\n\n〇大会出禁プレイヤー\n\nディボ:トナメルID tqTAU\n\n黒狐:トナメルID yej2w\n\n\n\n\n\n\n\n〇持ち物\n\n・大会で使用するデッキ\n\n・ダメージ計算ができるもの(スマホ❌)\n\n・予備スリーブ\n\n\n\n\n〇大会内容\n\nBO3(フルマッチ)の大会を行います。\n\n最大5回戦のスイスドロー\n\n\n\n\n11:10-11:30 大会受付\n\n11:35-12:10 1回戦と開会式\n\n12:15-12:50 2回戦\n\n12:55-13:30 3回戦\n\n13:35-14:10 4回戦\n\n14:15-14:50 5回戦\n\n\n\n\n〇大会景品(32人満員の場合です)\n\n\n\n\n1位:5弾 lgnition Vortex 3BOX引き換え券\n\n+ぽたくCSオリジナルプレマ\n\n\n\n\n2位:5弾 lgnition Vortex 2BOX引き換え券\n\n\n\n\n3位:5弾 lgnition Vortex 1BOX引き換え\n\n\n\n\n4位:3000円相当のカード\n\n\n\n\n5位:1500円相当のカード\n\n\n\n\n※参加人数で景品は前後します。ご了承ください。\n\n\n\n\n\n\n\n※景品の譲渡・販売は禁止です。\n\n\n\n\n\n\n\n〇注意事項\n\n•中には初めてのカードゲームです。って方もいると思いますので、紳士的な態度を心がけるようお願いします。\n\n紳士的ではない態度を見受けられた際は途中退場していただく場合もございます。\n\n\n\n\n・当日の様子を撮影しTwitter(X)に投稿する場合がございます。その際はモザイク等させていただきます。\n\n\n\n\n•入賞した方にはデッキ撮影をお願いします。\n\n\n\n\n•遅刻などある場合はDMにてご連絡ください\n\n\n\n\n\n\n\n○喫煙について\n\n当ビルの周りや下で吸わないようお願いします。喫煙所まで行っていただくようお願い致します。\n\n続きを読む\n開催場所\nトレカ侍2号店\n東京都豊島区東池袋1-32-5 大熊ビル4階\nシェア\nイベントI",
+      "raw_json": {
+        "id": "IJtRu",
+        "title": "第31回︎🌟1部:ぽたくCS︎",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-10-01T17:46:14.193553+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "SJ5a8": {
@@ -2522,7 +2600,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
+      "seq": 0
+    },
+    "spwCV": {
+      "id": "spwCV",
+      "url": "https://tonamel.com/competition/spwCV",
+      "title": "第31回︎🌟2部:ぽたくCS︎",
+      "start_at": "2026-10-24T16:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-10-24",
+      "format": "オフライン",
+      "venue": "トレカ侍2号店",
+      "address": "東京都豊島区東池袋1-32-5 大熊ビル4階",
+      "organizer": "nanacs",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/10/02(金) 21:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/nHqrM/c7ce3587d4c41adde4a7d31231d5dd9ea76f60cd15a5c9a53e25317a271eaf77.png",
+      "prefecture": "東京都",
+      "region": "関東",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第31回︎🌟2部:ぽたくCS︎\n主催：\nnanacs\nXrossStars\nイベント開始予定\n2026/10/24(土) 16:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n\n\n\n〇挨拶\n\n初めまして🌟\n\n運営のなな(@nnisg_hb03)と申します。\n\nCR推し⇒だるさん👼🏻‎\n\nぶいすぽ推し⇒小森めと\n\n\n\n\n推しのカード使いながら大会出たいよねぇ！？クロススターズ楽しいよね？！\n\nモチベ維持したいよね？！\n\nって感じで定期開催で運営させて頂いてます😊\n\nこれを機に初めてカードゲームをする方も気軽にご参加頂ければ嬉しいです！\n\n\n\n\n〇運営アカウント\n\nなな(@nnisg_hb03)のフォローをお願いいたします。\n\n何かあった際はこちらから連絡をさせていただく場合がございます。\n\n\n\n\n〇参加費\n\n1500円(現金のみになります)\n\n\n\n\n〇大会キャンセル方法\n\nトナメルよりキャンセルしてください。\n\nやり方が分からない方は運営のXまでご連絡いただければと思います🙇🏻‍♀️‪‪\n\n\n\n\n※前日の18:00を過ぎてのキャンセルは当日キャンセル扱いとさせていただきます。その場合は参加費をお支払いして頂きますのでご了承ください。\n\n※時間を過ぎてのキャンセルする場合は1度ご連絡を頂けると幸いです。無断キャンセルの場合は、今後 なな が行う全ての大会に参加をご遠慮していただく可能性がございますのでご了承ください。\n\n\n\n\n〇大会出禁プレイヤー\n\nディボ:トナメルID tqTAU\n\n黒狐:トナメルID yej2w\n\n\n\n\n〇持ち物\n\n・大会で使用するデッキ\n\n・ダメージ計算ができるもの(スマホ❌)\n\n・予備スリーブ\n\n\n\n\n〇大会内容\n\nBO3(フルマッチ)の大会を行います。\n\n最大5回戦のスイスドロー\n\n\n\n\n15:50-16:20 大会受付\n\n16:30-17:051回戦と開会式\n\n17:10-17:45 2回戦\n\n17:50-18:25 3回戦\n\n18:30-19:05 4回戦\n\n19:10-19:45 5回戦\n\n\n\n\n〇大会景品(32人満員の場合です)\n\n\n\n\n1位:5弾 lgnition Vortex 3BOX引き換え券\n\n\n\n\n2位:5弾 lgnition Vortex 2BOX引き換え券\n\n\n\n\n3位:5弾 lgnition Vortex 1BOX引き換え券\n\n\n\n\n4位:3000円相当のカード\n\n\n\n\n5位:1500円相当のカード\n\n\n\n\n※参加人数で景品は前後します。ご了承ください。\n\n\n\n\n※景品の譲渡・販売は禁止です。\n\n\n\n\n\n\n\n〇注意事項\n\n•中には初めてのカードゲームです。って方もいると思いますので、紳士的な態度を心がけるようお願いします。\n\n紳士的ではない態度を見受けられた際は途中退場していただく場合もございます。\n\n\n\n\n・当日の様子を撮影しTwitter(X)に投稿する場合がございます。その際はモザイク等させていただきます。\n\n\n\n\n•入賞した方にはデッキ撮影をお願いします。\n\n\n\n\n•遅刻などある場合はDMにてご連絡ください\n\n\n\n\n\n\n\n○喫煙について\n\n当ビルの周りや下で吸わないようお願いします。喫煙所まで行っていただくようお願い致します。\n\n続きを読む\n開催場所\nトレカ侍2号店\n東京都豊島区東池袋1-32-5 大熊ビル4階\nシェア\nイベントID\nspwCV\n\n",
+      "raw_json": {
+        "id": "spwCV",
+        "title": "第31回︎🌟2部:ぽたくCS︎",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-10-01T17:46:14.193553+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "ppu7M": {
@@ -2558,7 +2675,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-21T16:55:10.489274+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "h9xPb": {
@@ -2594,7 +2711,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "o8FKw": {
@@ -2630,7 +2747,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 28
     },
     "nFdsi": {
@@ -2666,7 +2783,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-26T16:32:43.343726+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "D3OsY": {
@@ -2702,7 +2819,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "g1a6N": {
@@ -2738,7 +2855,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-29T03:34:53.337650+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "Ef2iQ": {
@@ -2774,7 +2891,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 1
     },
     "XrzD1": {
@@ -2810,7 +2927,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "kRCnO": {
@@ -2846,7 +2963,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-14T16:51:49.976797+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "ZcKk7": {
@@ -2882,7 +2999,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T15:54:46.973241+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -2918,7 +3035,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 2
     },
     "zU6ZN": {
@@ -2954,7 +3071,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "PzAvv": {
@@ -2990,7 +3107,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "AAxnk": {
@@ -3026,7 +3143,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T21:06:38.906414+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -3062,7 +3179,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -3134,7 +3251,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T22:30:57.126716+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -3170,7 +3287,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -3206,7 +3323,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-01T11:02:37.380039+09:00",
+      "last_updated": "2026-10-01T17:46:14.193553+09:00",
       "seq": 2
     }
   }
