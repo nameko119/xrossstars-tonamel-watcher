@@ -1224,6 +1224,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-NNB2Y@xrossstars-watcher
+DTSTAMP:20261001T172238Z
+SEQUENCE:0
+DTSTART:20261031T020000Z
+DTEND:20261031T060000Z
+SUMMARY:【池ドラCC】＃2
+DESCRIPTION:会場: オフライン / ドラゴンスター池袋店\n主
+ 催: ドラゴンスター池袋店\n定員: 32チーム\nエントリー
+ 期間: 2026/10/03(土) 21:00 〜\n\nhttps://tonamel.com/competition/NNB2Y
+URL:https://tonamel.com/competition/NNB2Y
+LOCATION:ドラゴンスター池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-g1a6N@xrossstars-watcher
 DTSTAMP:20260928T183453Z
 SEQUENCE:0
@@ -1240,6 +1255,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-16lpG@xrossstars-watcher
+DTSTAMP:20261001T172238Z
+SEQUENCE:0
+DTSTART:20261031T060000Z
+DTEND:20261031T100000Z
+SUMMARY:とんカップ in カードショップはっち
+DESCRIPTION:会場: オフライン / カードショップはっち\n主
+ 催: とんカップ\n定員: 32人\nエントリー期間: 2026/10/01(木
+ ) 18:30 〜\n\nhttps://tonamel.com/competition/16lpG
+URL:https://tonamel.com/competition/16lpG
+LOCATION:カードショップはっち
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-zsbB7@xrossstars-watcher
+DTSTAMP:20261001T172238Z
+SEQUENCE:0
+DTSTART:20261101T020000Z
+DTEND:20261101T060000Z
+SUMMARY:第6回 にこかっぷ (通常構築)
+DESCRIPTION:会場: オフライン / ワンダーグー瑞江店\n主催: 
+ にこかっぷ\n定員: 48人\nエントリー期間: 2026/10/03(土) 19:
+ 00 〜\n\nhttps://tonamel.com/competition/zsbB7
+URL:https://tonamel.com/competition/zsbB7
+LOCATION:ワンダーグー瑞江店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Ef2iQ@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:1
@@ -1252,6 +1297,22 @@ DESCRIPTION:会場: オフライン / flat-工房　池袋店\n主催: 星
  2iQ
 URL:https://tonamel.com/competition/Ef2iQ
 LOCATION:flat-工房　池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-FyuwU@xrossstars-watcher
+DTSTAMP:20261001T172238Z
+SEQUENCE:0
+DTSTART:20261101T050000Z
+DTEND:20261101T090000Z
+SUMMARY:ビデ尼　クロスタ新弾BOX争奪戦
+DESCRIPTION:会場: オフライン / ビデオインアメリカ尼崎店\
+ n主催: ビデオインアメリカ尼崎店\n定員: 32人\nエントリ
+ ー期間: 2026/10/01(木) 19:00 〜\n\nhttps://tonamel.com/competition/Fy
+ uwU
+URL:https://tonamel.com/competition/FyuwU
+LOCATION:ビデオインアメリカ尼崎店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
