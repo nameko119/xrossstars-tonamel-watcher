@@ -1365,6 +1365,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-IJ7el@xrossstars-watcher
+DTSTAMP:20261002T082409Z
+SEQUENCE:0
+DTSTART:20261114T020000Z
+DTEND:20261114T060000Z
+SUMMARY:ぽよクロ杯
+DESCRIPTION:会場: オフライン / たま未来メッセ 展示ホール
+ C\n主催: ぽよクロ\n定員: 256人\nエントリー期間: 2026/10/02
+ (金) 21:00 〜\n\nhttps://tonamel.com/competition/IJ7el
+URL:https://tonamel.com/competition/IJ7el
+LOCATION:たま未来メッセ 展示ホールC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-wbFvs@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:2
