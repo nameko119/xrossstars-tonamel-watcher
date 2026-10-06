@@ -1348,6 +1348,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-9b5mM@xrossstars-watcher
+DTSTAMP:20261006T170924Z
+SEQUENCE:0
+DTSTART:20261103T020000Z
+DTEND:20261103T060000Z
+SUMMARY:狂人杯　#03
+DESCRIPTION:会場: オフライン / 越谷コミュニティセンター
+ 第1会議室\n主催: 価格保証宣言！\n定員: 32人\nエントリ
+ ー期間: 2026/10/02(金) 19:00 〜\n\nhttps://tonamel.com/competition/9b
+ 5mM
+URL:https://tonamel.com/competition/9b5mM
+LOCATION:越谷コミュニティセンター第1会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-kRCnO@xrossstars-watcher
 DTSTAMP:20260914T075149Z
 SEQUENCE:0
