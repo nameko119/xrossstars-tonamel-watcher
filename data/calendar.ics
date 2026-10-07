@@ -1364,6 +1364,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Qwjmk@xrossstars-watcher
+DTSTAMP:20261007T114212Z
+SEQUENCE:0
+DTSTART:20261103T050500Z
+DTEND:20261103T090500Z
+SUMMARY:🟦 『Ignition Vortex』BOX争奪戦in193名駅太閤店
+DESCRIPTION:会場: オンライン\n主催: TCGshop193名駅太閤店\n定
+ 員: 32人\nエントリー期間: 2026/10/08(木) 20:00 〜\n\nhttps://to
+ namel.com/competition/Qwjmk
+URL:https://tonamel.com/competition/Qwjmk
+LOCATION:オンライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-kRCnO@xrossstars-watcher
 DTSTAMP:20260914T075149Z
 SEQUENCE:0
