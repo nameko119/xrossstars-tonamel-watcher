@@ -930,6 +930,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Wnri2@xrossstars-watcher
+DTSTAMP:20261007T195501Z
+SEQUENCE:0
+DTSTART:20261010T020000Z
+DTEND:20261010T060000Z
+SUMMARY:第30回︎🌟ぽたくCS5on5 ☆Bリーグ☆
+DESCRIPTION:会場: オフライン / 秋葉原レンスペ\n主催: nanacs
+ \n定員: 23チーム\nエントリー期間: 2026/09/16(水) 17:00 〜\n\
+ nhttps://tonamel.com/competition/Wnri2
+URL:https://tonamel.com/competition/Wnri2
+LOCATION:秋葉原レンスペ
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Yir8Z@xrossstars-watcher
 DTSTAMP:20260913T005235Z
 SEQUENCE:1
