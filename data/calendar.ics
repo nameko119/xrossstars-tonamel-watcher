@@ -1085,6 +1085,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-n7l0A@xrossstars-watcher
+DTSTAMP:20261008T085003Z
+SEQUENCE:0
+DTSTART:20261017T053000Z
+DTEND:20261017T093000Z
+SUMMARY:第14回　ミント沖縄店 Xrossstars 非公認大会
+DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
+ 沖縄店\n定員: 16人\nエントリー期間: 2026/10/08(木) 13:00 〜
+ \n\nhttps://tonamel.com/competition/n7l0A
+URL:https://tonamel.com/competition/n7l0A
+LOCATION:ミント沖縄店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-1IAhF@xrossstars-watcher
 DTSTAMP:20260922T013444Z
 SEQUENCE:0
