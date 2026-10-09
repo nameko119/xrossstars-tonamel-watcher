@@ -1115,6 +1115,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-3rw5y@xrossstars-watcher
+DTSTAMP:20261009T172522Z
+SEQUENCE:0
+DTSTART:20261018T043000Z
+DTEND:20261018T083000Z
+SUMMARY:X-CUP
+DESCRIPTION:会場: オフライン / ブックオフプラス福岡糸島
+ 店@トレカ館\n主催: X-CUP\n定員: 16人\nエントリー期間: 202
+ 6/10/09(金) 18:00 〜\n\nhttps://tonamel.com/competition/3rw5y
+URL:https://tonamel.com/competition/3rw5y
+LOCATION:ブックオフプラス福岡糸島店@トレカ館
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Jsm9G@xrossstars-watcher
 DTSTAMP:20261001T084614Z
 SEQUENCE:0
