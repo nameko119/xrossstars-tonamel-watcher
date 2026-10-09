@@ -1253,6 +1253,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-0g74d@xrossstars-watcher
+DTSTAMP:20261009T085356Z
+SEQUENCE:0
+DTSTART:20261030T100000Z
+DTEND:20261030T140000Z
+SUMMARY:N杯♯3
+DESCRIPTION:会場: オフライン / SuperKaBoS+ゲオ二の宮本店\n主
+ 催: エミーティカ（のじ）\n参加費: 500円(現金のみでお
+ 願いします)\n定員: 16人\nエントリー期間: 2026/10/09(金) 11
+ :00 〜\n\nhttps://tonamel.com/competition/0g74d
+URL:https://tonamel.com/competition/0g74d
+LOCATION:SuperKaBoS+ゲオ二の宮本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-D3OsY@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:0
@@ -1341,6 +1357,21 @@ DESCRIPTION:会場: オフライン / flat-工房　池袋店\n主催: 星
  2iQ
 URL:https://tonamel.com/competition/Ef2iQ
 LOCATION:flat-工房　池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-pkq9V@xrossstars-watcher
+DTSTAMP:20261009T085356Z
+SEQUENCE:0
+DTSTART:20261101T043000Z
+DTEND:20261101T083000Z
+SUMMARY:さかｲﾝかっぷ～Vol.2～
+DESCRIPTION:会場: オフライン / トイコンプ 堺東店\n主催: 
+ トイコンプ 堺東店\n定員: 40人\nエントリー期間: 2026/10/0
+ 3(土) 10:00 〜\n\nhttps://tonamel.com/competition/pkq9V
+URL:https://tonamel.com/competition/pkq9V
+LOCATION:トイコンプ 堺東店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
