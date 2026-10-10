@@ -1455,6 +1455,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-nprBw@xrossstars-watcher
+DTSTAMP:20261010T082442Z
+SEQUENCE:0
+DTSTART:20261107T050000Z
+DTEND:20261107T090000Z
+SUMMARY:第2回 未明杯
+DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
+ 催: うつしみのつどい\n参加費: 500円\n定員: 16人\nエント
+ リー期間: 2026/10/10(土) 16:00 〜\n\nhttps://tonamel.com/competition
+ /nprBw
+URL:https://tonamel.com/competition/nprBw
+LOCATION:レプトントレカ海田店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-kRCnO@xrossstars-watcher
 DTSTAMP:20260914T075149Z
 SEQUENCE:0
@@ -1528,6 +1544,21 @@ DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
  ) 23:00 〜\n\nhttps://tonamel.com/competition/zU6ZN
 URL:https://tonamel.com/competition/zU6ZN
 LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-qfYdV@xrossstars-watcher
+DTSTAMP:20261010T082442Z
+SEQUENCE:0
+DTSTART:20261115T040000Z
+DTEND:20261115T080000Z
+SUMMARY:第1回　ONE☆PACKクロスタCUP
+DESCRIPTION:会場: オフライン / カードショップONE☆PACK\n主
+ 催: カードショップONE☆PACK\n定員: 32人\n\nhttps://tonamel.com
+ /competition/qfYdV
+URL:https://tonamel.com/competition/qfYdV
+LOCATION:カードショップONE☆PACK
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
