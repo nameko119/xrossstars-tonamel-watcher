@@ -1268,6 +1268,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-0fA52@xrossstars-watcher
+DTSTAMP:20261012T130223Z
+SEQUENCE:0
+DTSTART:20261030T030000Z
+DTEND:20261030T070000Z
+SUMMARY:第32回︎🌟1部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 定員: 16人\nエントリー期間: 2026/10/12(月) 20:00 〜\n\nhttps:/
+ /tonamel.com/competition/0fA52
+URL:https://tonamel.com/competition/0fA52
+LOCATION:トレカ侍2号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-nFdsi@xrossstars-watcher
 DTSTAMP:20260926T073243Z
 SEQUENCE:0
@@ -1279,6 +1294,21 @@ DESCRIPTION:会場: オフライン / 株式会社GIRAFULL\n主催: GIRAFUL
  s://tonamel.com/competition/nFdsi
 URL:https://tonamel.com/competition/nFdsi
 LOCATION:株式会社GIRAFULL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-1WUem@xrossstars-watcher
+DTSTAMP:20261012T130223Z
+SEQUENCE:0
+DTSTART:20261030T070000Z
+DTEND:20261030T110000Z
+SUMMARY:第32回︎🌟2部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: nanacs\n
+ 定員: 32人\nエントリー期間: 2026/10/12(月) 20:00 〜\n\nhttps:/
+ /tonamel.com/competition/1WUem
+URL:https://tonamel.com/competition/1WUem
+LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
