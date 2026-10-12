@@ -1268,6 +1268,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-IcnHn@xrossstars-watcher
+DTSTAMP:20261012T220520Z
+SEQUENCE:0
+DTSTART:20261029T120000Z
+DTEND:20261029T160000Z
+SUMMARY:クロススターズ「ignition Vortex」争奪戦
+DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
+ 催: レプトントレカ海田店\n参加費: 無料\n定員: 16人\nエ
+ ントリー期間: 2026/10/12(月) 17:00 〜\n\nhttps://tonamel.com/compe
+ tition/IcnHn
+URL:https://tonamel.com/competition/IcnHn
+LOCATION:レプトントレカ海田店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-0fA52@xrossstars-watcher
 DTSTAMP:20261012T130223Z
 SEQUENCE:0
