@@ -1657,13 +1657,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-qfYdV@xrossstars-watcher
 DTSTAMP:20261010T082442Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
-SUMMARY:第1回　ONE☆PACKクロスタCUP
+SUMMARY:第1回　ONE☆PACKクロスタCUP　個人戦
 DESCRIPTION:会場: オフライン / カードショップONE☆PACK\n主
- 催: カードショップONE☆PACK\n定員: 32人\n\nhttps://tonamel.com
- /competition/qfYdV
+ 催: カードショップONE☆PACK\n定員: 32人\nエントリー期間
+ : 2026/09/15(火) 17:00 〜\n\nhttps://tonamel.com/competition/qfYdV
 URL:https://tonamel.com/competition/qfYdV
 LOCATION:カードショップONE☆PACK
 STATUS:CONFIRMED
