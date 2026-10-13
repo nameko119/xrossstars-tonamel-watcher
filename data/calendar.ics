@@ -1145,6 +1145,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-LUz3u@xrossstars-watcher
+DTSTAMP:20261013T033044Z
+SEQUENCE:0
+DTSTART:20261021T110000Z
+DTEND:20261021T150000Z
+SUMMARY:【10/21】平日クロスタ交流会「寄り道クロスタ部
+ 」
+DESCRIPTION:会場: オフライン / TSUTAYA AVクラブ 大塚台店\n主
+ 催: 宮崎クロスタ部\n定員: 16人\nエントリー期間: 2026/10/
+ 13(火) 08:00 〜\n\nhttps://tonamel.com/competition/LUz3u
+URL:https://tonamel.com/competition/LUz3u
+LOCATION:TSUTAYA AVクラブ 大塚台店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Jsm9G@xrossstars-watcher
 DTSTAMP:20261001T084614Z
 SEQUENCE:0
@@ -1433,6 +1449,21 @@ DESCRIPTION:会場: オフライン / flat-工房　池袋店\n主催: 星
  2iQ
 URL:https://tonamel.com/competition/Ef2iQ
 LOCATION:flat-工房　池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-SShfU@xrossstars-watcher
+DTSTAMP:20261013T033044Z
+SEQUENCE:0
+DTSTART:20261101T040000Z
+DTEND:20261101T080000Z
+SUMMARY:あんとく三潴　BOX争奪戦
+DESCRIPTION:会場: オフライン / BOOKS あんとく　三潴店\n主
+ 催: はうは@はう\n参加費: 500円\n定員: 32人\nエントリー
+ 期間: 2026/10/13(火) 00:00 〜\n\nhttps://tonamel.com/competition/SShfU
+URL:https://tonamel.com/competition/SShfU
+LOCATION:BOOKS あんとく　三潴店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

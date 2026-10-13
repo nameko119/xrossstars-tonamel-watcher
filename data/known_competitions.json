@@ -2,29 +2,19 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-10-13T07:05:20.945526+09:00",
-    "count": 111,
+    "last_run": "2026-10-13T12:30:47.186307+09:00",
+    "count": 113,
     "last_run_info": {
-      "list_count": 41,
-      "api_hit": 41,
-      "new": 1,
+      "list_count": 43,
+      "api_hit": 43,
+      "new": 2,
       "changed": 0,
       "notify": {
-        "mode": "deferred",
-        "pending": {
-          "seed": null,
-          "new": 1,
-          "changed": 0
-        }
+        "mode": "sent",
+        "sent": 2,
+        "delivered_pending": true
       },
       "errors": []
-    },
-    "pending": {
-      "seed": null,
-      "new": [
-        "IcnHn"
-      ],
-      "changed": []
     }
   },
   "competitions": {
@@ -2576,7 +2566,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-08T17:50:03.192543+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "1IAhF": {
@@ -2612,7 +2602,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-22T10:34:44.744236+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "3rw5y": {
@@ -2648,7 +2638,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T02:25:22.339483+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "seq": 0
+    },
+    "LUz3u": {
+      "id": "LUz3u",
+      "url": "https://tonamel.com/competition/LUz3u",
+      "title": "【10/21】平日クロスタ交流会「寄り道クロスタ部」",
+      "start_at": "2026-10-21T20:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-10-21",
+      "format": "オフライン",
+      "venue": "TSUTAYA AVクラブ 大塚台店",
+      "address": "宮崎県宮崎市大塚町池の内1127-7",
+      "organizer": "宮崎クロスタ部",
+      "entry_fee": "",
+      "capacity": "16人",
+      "entry_period": "2026/10/13(火) 08:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/eNEuy/122fb5765fe881d1d00ad68534d94dd62c11ef5d3bb45ffb3d528ca2c6092973.png",
+      "prefecture": "宮崎県",
+      "region": "九州・沖縄",
+      "capacity_num": 16,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "【10/21】平日クロスタ交流会「寄り道クロスタ部」\n主催：\n宮崎クロスタ部\nXrossStars\nイベント開始予定\n2026/10/21(水) 20:00 〜\n出場枠の上限\n16人\n出場枠の上限を超えた場合\nエントリー先着順\nエントリーした日時が早い順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n■概要■\n「平日でもちょっとクロスタして帰りたいなー」\nそんな夜ありませんか？\n\n・手軽に新たなTCGに手を出したい方\n・落ち着いてルールを覚えたい方\n・あと１戦だけやって帰路につきたい方\n・クロスタ友だち増やしたい方　などなど\nお気軽にお越しください。\n出入り自由のフリー対戦会です。\nこれからクロスタを始めたい方でもティーチングいたします！\n（ご希望の方はその旨事前にご連絡ください）\n\n■予約・問い合わせ■\n当日飛び入りで大丈夫です。\n事前に参加人数がわかると他の方も参加しやすいかと思いこのページを作成しています。\n本イベントへのお問い合わせはお店ではなく、主催者までお願いします。\n【主催者】イノシカ＠井下\n【mail】 inosaito@gmail.com\n【X（旧twitter）】@inoshika\n\n■イベント詳細■\n【参加費】無料\n【形式】出入り自由、フリー対戦、フル・クイックお好きな形式\n【持ち物】デッキ、各種マーカー\n　※初心者の方はデッキ等お貸ししてお教えしますので手ブラでも大丈夫です。来場時にその旨、お伝えください。\n\n■駐車場■\nお店の駐車場をご利用ください。\n\n■その他注意事項など■\n・未成年者は保護者同伴・保護者の責任において参加してください。\n・出入自由ですが、場合によっては待ちや入場をお断りする場合もございますのであらかじめご了承ください。\n・フリーマッチですので対戦毎のデッキ交換、カード交換はOKです。\n\n続きを読む\n開催場所\nTSUTAYA AVクラブ 大塚台店\n宮崎県宮崎市大塚町池の内1127-7\nシェア\nイベントID\nLUz3u\n\nイベントに参加\n\nエントリー\n募集人数\n0/16人\nエントリー期間\n2026/10/13(火) 08:00 〜\n2026/10/21(水) 22:00\n\nエントリー\n\nあと8日\n\nイベント\n\n参加者\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n【10/21】平日クロスタ交流会「寄り道クロスタ部」\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
+      "raw_json": {
+        "id": "LUz3u",
+        "title": "【10/21】平日クロスタ交流会「寄り道クロスタ部」",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "Jsm9G": {
@@ -2684,7 +2713,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-01T17:46:14.193553+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "EjMLR": {
@@ -2720,7 +2749,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "IJtRu": {
@@ -2756,7 +2785,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-01T17:46:14.193553+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "SJ5a8": {
@@ -2792,7 +2821,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "spwCV": {
@@ -2828,7 +2857,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-01T17:46:14.193553+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "ppu7M": {
@@ -2864,7 +2893,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-21T16:55:10.489274+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "h9xPb": {
@@ -2900,7 +2929,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "o8FKw": {
@@ -2936,7 +2965,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 28
     },
     "IcnHn": {
@@ -2965,17 +2994,14 @@
       "raw_json": {
         "id": "IcnHn",
         "title": "クロススターズ「ignition Vortex」争奪戦",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-13T07:05:20.930967+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "0fA52": {
@@ -3011,7 +3037,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-12T22:02:23.455320+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "nFdsi": {
@@ -3047,7 +3073,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-26T16:32:43.343726+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "1WUem": {
@@ -3083,7 +3109,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-12T22:02:23.455320+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "0g74d": {
@@ -3119,7 +3145,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-09T17:53:56.075053+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "D3OsY": {
@@ -3155,7 +3181,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "NNB2Y": {
@@ -3191,7 +3217,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "g1a6N": {
@@ -3227,7 +3253,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-29T03:34:53.337650+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "16lpG": {
@@ -3263,7 +3289,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "zsbB7": {
@@ -3299,7 +3325,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "Ef2iQ": {
@@ -3335,8 +3361,47 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 1
+    },
+    "SShfU": {
+      "id": "SShfU",
+      "url": "https://tonamel.com/competition/SShfU",
+      "title": "あんとく三潴　BOX争奪戦",
+      "start_at": "2026-11-01T13:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-01",
+      "format": "オフライン",
+      "venue": "BOOKS あんとく　三潴店",
+      "address": "〒830-0101 福岡県久留米市三潴町早津崎８９２",
+      "organizer": "はうは@はう",
+      "entry_fee": "500円",
+      "capacity": "32人",
+      "entry_period": "2026/10/13(火) 00:00 〜",
+      "image_url": "https://tonamel.com/nuxt/99597b148d-c516361ef6-8a340a4dec-309b2aa1c5/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄",
+      "capacity_num": 32,
+      "fee_num": 500,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "あんとく三潴　BOX争奪戦\n主催：\nはうは@はう\nXrossStars\nイベント開始予定\n2026/11/01(日) 13:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n参加費：500円\n\n定員：32人\n\nフォーマット：フルマッチ\n\n形式：人数に応じたスイスドロー(全勝者が出るまで)\n\n\n\n\n《賞品》\n\n優勝者：ブースターパック第5弾『Ignition Vortex』1BOX\n\n\n\n\n参加人数によって\n\nランダム賞として\n\n\n\n\n参加者20人以上になった際は\n\nランダム賞で\n\n第5弾『Ignition Vortex』1BOXが追加されます。\n\n《大会ルール》\n\n制限時間35分\n\n時間切れは両者敗北とします。\n\nその他ルールはXrossStarsフロアルールの内容に準拠します。\n\n\n\n\n大会は『BOOKSあんとく　三潴店』様が主催の大会となっております。\n\n続きを読む\n開催場所\nBOOKS あんとく　三潴店\n〒830-0101 福岡県久留米市三潴町早津崎８９２\nシェア\nイベントID\nSShfU\n\nイベントに参加\n\nエントリー\n募集人数\n0/32人\n支払い済み人数\n0/32人\nエントリー料\n¥ 500\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/10/13(火) 00:00 〜\n2026/11/01(日) 12:59\n\nエントリー\n\nあと19日\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\nあんとく三潴　BOX争奪戦\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
+      "raw_json": {
+        "id": "SShfU",
+        "title": "あんとく三潴　BOX争奪戦",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "seq": 0
     },
     "pkq9V": {
       "id": "pkq9V",
@@ -3371,7 +3436,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-09T17:53:56.075053+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "FyuwU": {
@@ -3407,7 +3472,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "XrzD1": {
@@ -3443,7 +3508,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "9b5mM": {
@@ -3479,7 +3544,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T02:09:24.900670+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "Qwjmk": {
@@ -3515,7 +3580,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T20:42:12.801231+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "nprBw": {
@@ -3551,7 +3616,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "kRCnO": {
@@ -3587,7 +3652,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-14T16:51:49.976797+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "MGpdw": {
@@ -3623,7 +3688,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-11T01:12:43.495637+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "ZcKk7": {
@@ -3659,7 +3724,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T15:54:46.973241+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "IJ7el": {
@@ -3695,7 +3760,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T17:24:09.092679+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -3731,7 +3796,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 2
     },
     "zU6ZN": {
@@ -3767,7 +3832,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "qfYdV": {
@@ -3803,7 +3868,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "PzAvv": {
@@ -3839,7 +3904,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "AAxnk": {
@@ -3875,7 +3940,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T21:06:38.906414+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -3911,7 +3976,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -3983,7 +4048,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T22:30:57.126716+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -4019,7 +4084,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -4055,7 +4120,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T07:05:20.930967+09:00",
+      "last_updated": "2026-10-13T12:30:44.712959+09:00",
       "seq": 2
     }
   }
