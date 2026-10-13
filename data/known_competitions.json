@@ -2,17 +2,17 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-10-13T12:30:47.186307+09:00",
+    "last_run": "2026-10-13T21:37:02.466839+09:00",
     "count": 113,
     "last_run_info": {
       "list_count": 43,
       "api_hit": 43,
-      "new": 2,
+      "new": 0,
       "changed": 0,
       "notify": {
         "mode": "sent",
-        "sent": 2,
-        "delivered_pending": true
+        "sent": 0,
+        "delivered_pending": false
       },
       "errors": []
     }
@@ -2566,7 +2566,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-08T17:50:03.192543+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "1IAhF": {
@@ -2602,7 +2602,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-22T10:34:44.744236+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "3rw5y": {
@@ -2638,7 +2638,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T02:25:22.339483+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "LUz3u": {
@@ -2667,17 +2667,14 @@
       "raw_json": {
         "id": "LUz3u",
         "title": "【10/21】平日クロスタ交流会「寄り道クロスタ部」",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-13T12:30:44.712959+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "Jsm9G": {
@@ -2713,7 +2710,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-01T17:46:14.193553+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "EjMLR": {
@@ -2749,7 +2746,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "IJtRu": {
@@ -2785,7 +2782,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-01T17:46:14.193553+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "SJ5a8": {
@@ -2821,7 +2818,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "spwCV": {
@@ -2857,7 +2854,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-01T17:46:14.193553+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "ppu7M": {
@@ -2893,7 +2890,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-21T16:55:10.489274+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "h9xPb": {
@@ -2929,7 +2926,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-31T00:20:24.147445+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "o8FKw": {
@@ -2965,7 +2962,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 28
     },
     "IcnHn": {
@@ -3001,7 +2998,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-13T07:05:20.930967+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "0fA52": {
@@ -3037,7 +3034,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-12T22:02:23.455320+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "nFdsi": {
@@ -3073,7 +3070,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-26T16:32:43.343726+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "1WUem": {
@@ -3109,7 +3106,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-12T22:02:23.455320+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "0g74d": {
@@ -3145,7 +3142,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-09T17:53:56.075053+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "D3OsY": {
@@ -3181,7 +3178,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "NNB2Y": {
@@ -3217,7 +3214,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "g1a6N": {
@@ -3253,7 +3250,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-29T03:34:53.337650+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "16lpG": {
@@ -3289,7 +3286,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "zsbB7": {
@@ -3325,7 +3322,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "Ef2iQ": {
@@ -3361,7 +3358,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 1
     },
     "SShfU": {
@@ -3390,17 +3387,14 @@
       "raw_json": {
         "id": "SShfU",
         "title": "あんとく三潴　BOX争奪戦",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-13T12:30:44.712959+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "pkq9V": {
@@ -3436,7 +3430,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-09T17:53:56.075053+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "FyuwU": {
@@ -3472,7 +3466,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "XrzD1": {
@@ -3508,7 +3502,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "9b5mM": {
@@ -3544,7 +3538,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T02:09:24.900670+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "Qwjmk": {
@@ -3580,7 +3574,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T20:42:12.801231+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "nprBw": {
@@ -3616,7 +3610,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "kRCnO": {
@@ -3652,7 +3646,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-14T16:51:49.976797+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "MGpdw": {
@@ -3688,7 +3682,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-11T01:12:43.495637+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "ZcKk7": {
@@ -3724,7 +3718,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T15:54:46.973241+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "IJ7el": {
@@ -3760,7 +3754,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T17:24:09.092679+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -3796,7 +3790,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 2
     },
     "zU6ZN": {
@@ -3832,7 +3826,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "qfYdV": {
@@ -3868,7 +3862,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "PzAvv": {
@@ -3904,7 +3898,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "AAxnk": {
@@ -3940,7 +3934,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T21:06:38.906414+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -3976,7 +3970,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -4048,7 +4042,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T22:30:57.126716+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -4084,7 +4078,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -4120,7 +4114,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-10-13T12:30:44.712959+09:00",
+      "last_updated": "2026-10-13T21:37:02.449519+09:00",
       "seq": 2
     }
   }
