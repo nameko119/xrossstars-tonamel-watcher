@@ -1221,6 +1221,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-8sufg@xrossstars-watcher
+DTSTAMP:20261014T072956Z
+SEQUENCE:0
+DTSTART:20261024T043000Z
+DTEND:20261024T083000Z
+SUMMARY:XrossStars トイコンプCS 〜1on1〜inトイコンプ岸和田
+DESCRIPTION:会場: オフライン / トイコンプ岸和田店\n主催: 
+ トイコンプ岸和田店\n定員: 32人\nエントリー期間: 2026/10
+ /14(水) 15:00 〜\n\nhttps://tonamel.com/competition/8sufg
+URL:https://tonamel.com/competition/8sufg
+LOCATION:トイコンプ岸和田店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-spwCV@xrossstars-watcher
 DTSTAMP:20261001T084614Z
 SEQUENCE:0
@@ -1543,6 +1558,21 @@ DESCRIPTION:会場: オンライン\n主催: TCGshop193名駅太閤店\n定
  namel.com/competition/Qwjmk
 URL:https://tonamel.com/competition/Qwjmk
 LOCATION:オンライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-s3HtE@xrossstars-watcher
+DTSTAMP:20261014T072956Z
+SEQUENCE:0
+DTSTART:20261104T100000Z
+DTEND:20261104T140000Z
+SUMMARY:第1回とりかごカップ
+DESCRIPTION:会場: オフライン / カードショップおうち\n主
+ 催: とりかごカップ\n定員: 16人\nエントリー期間: 2026/10/
+ 14(水) 19:00 〜\n\nhttps://tonamel.com/competition/s3HtE
+URL:https://tonamel.com/competition/s3HtE
+LOCATION:カードショップおうち
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
