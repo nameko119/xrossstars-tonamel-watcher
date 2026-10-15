@@ -1452,6 +1452,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-ICfby@xrossstars-watcher
+DTSTAMP:20261015T012606Z
+SEQUENCE:0
+DTSTART:20261101T023000Z
+DTEND:20261101T063000Z
+SUMMARY:第３回ひねもすCS
+DESCRIPTION:会場: オフライン / カードゲームショップ オレ
+ タン岡山本店\n主催: ひねもすCS\n定員: 32人\nエントリー
+ 期間: 2026/10/14(水) 17:00 〜\n\nhttps://tonamel.com/competition/ICfby
+URL:https://tonamel.com/competition/ICfby
+LOCATION:カードゲームショップ オレタン岡山本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Ef2iQ@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:1
