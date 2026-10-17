@@ -1762,6 +1762,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-ZNr8W@xrossstars-watcher
+DTSTAMP:20261017T120839Z
+SEQUENCE:0
+DTSTART:20261122T000000Z
+DTEND:20261122T040000Z
+SUMMARY:Xross Stars練習会 #6
+DESCRIPTION:会場: オフライン / 越谷市中央市民会館第８会
+ 議室\n主催: クロスタ川口界隈\n参加費: 200円\n定員: 35人
+ \nエントリー期間: 2026/09/29(火) 20:00 〜\n\nhttps://tonamel.com/
+ competition/ZNr8W
+URL:https://tonamel.com/competition/ZNr8W
+LOCATION:越谷市中央市民会館第８会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-WCuE7@xrossstars-watcher
 DTSTAMP:20260902T180046Z
 SEQUENCE:0
@@ -1806,6 +1822,22 @@ DESCRIPTION:会場: オフライン / トイコンプ大阪駅前第3ビル
  〜\n\nhttps://tonamel.com/competition/nTEQd
 URL:https://tonamel.com/competition/nTEQd
 LOCATION:トイコンプ大阪駅前第3ビル店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-i6ZDX@xrossstars-watcher
+DTSTAMP:20261017T120839Z
+SEQUENCE:0
+DTSTART:20261123T000000Z
+DTEND:20261123T040000Z
+SUMMARY:Xross Stars練習会 #7
+DESCRIPTION:会場: オフライン / 越谷市中央市民会館第14会
+ 議室\n主催: クロスタ川口界隈\n参加費: 200円\n定員: 40人
+ \nエントリー期間: 2026/09/29(火) 20:00 〜\n\nhttps://tonamel.com/
+ competition/i6ZDX
+URL:https://tonamel.com/competition/i6ZDX
+LOCATION:越谷市中央市民会館第14会議室
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
