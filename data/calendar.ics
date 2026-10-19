@@ -1301,10 +1301,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-IcnHn@xrossstars-watcher
 DTSTAMP:20261012T220520Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261029T120000Z
 DTEND:20261029T160000Z
-SUMMARY:クロススターズ「ignition Vortex」争奪戦
+SUMMARY:クロススターズ「Ignition Vortex」争奪戦
 DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
  催: レプトントレカ海田店\n参加費: 無料\n定員: 16人\nエ
  ントリー期間: 2026/10/12(月) 17:00 〜\n\nhttps://tonamel.com/compe
@@ -1822,6 +1822,21 @@ DESCRIPTION:会場: オフライン / トイコンプ大阪駅前第3ビル
  〜\n\nhttps://tonamel.com/competition/nTEQd
 URL:https://tonamel.com/competition/nTEQd
 LOCATION:トイコンプ大阪駅前第3ビル店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-26HmF@xrossstars-watcher
+DTSTAMP:20261019T074015Z
+SEQUENCE:0
+DTSTART:20261122T050000Z
+DTEND:20261122T090000Z
+SUMMARY:第3回　Xross Cheers杯
+DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
+ 催: しん\n定員: 32人\nエントリー期間: 2026/10/19(月) 12:00 
+ 〜\n\nhttps://tonamel.com/competition/26HmF
+URL:https://tonamel.com/competition/26HmF
+LOCATION:フルコンプ福岡天神店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
