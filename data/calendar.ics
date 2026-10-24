@@ -1483,6 +1483,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-OYMbD@xrossstars-watcher
+DTSTAMP:20261024T071211Z
+SEQUENCE:0
+DTSTART:20261101T040000Z
+DTEND:20261101T080000Z
+SUMMARY:11月非公認大会『Ignition Vortex』BOX争奪戦①
+DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
+ 催: まちキャラ柏モディ店\n定員: 16人\nエントリー期間:
+  2026/10/24(土) 13:00 〜\n\nhttps://tonamel.com/competition/OYMbD
+URL:https://tonamel.com/competition/OYMbD
+LOCATION:まちキャラ柏モディ店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-SShfU@xrossstars-watcher
 DTSTAMP:20261013T033044Z
 SEQUENCE:0
@@ -1558,6 +1573,21 @@ DESCRIPTION:会場: オフライン / 越谷コミュニティセンター
  5mM
 URL:https://tonamel.com/competition/9b5mM
 LOCATION:越谷コミュニティセンター第1会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-6lIis@xrossstars-watcher
+DTSTAMP:20261024T071211Z
+SEQUENCE:0
+DTSTART:20261103T040000Z
+DTEND:20261103T080000Z
+SUMMARY:11月非公認大会『Ignition Vortex』BOX争奪戦②
+DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
+ 催: まちキャラ柏モディ店\n定員: 16人\nエントリー期間:
+  2026/10/24(土) 13:00 〜\n\nhttps://tonamel.com/competition/6lIis
+URL:https://tonamel.com/competition/6lIis
+LOCATION:まちキャラ柏モディ店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1826,6 +1856,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Czfza@xrossstars-watcher
+DTSTAMP:20261024T071211Z
+SEQUENCE:0
+DTSTART:20261122T040000Z
+DTEND:20261122T080000Z
+SUMMARY:第3回 るなっつ杯@福岡
+DESCRIPTION:会場: オフライン / 遊INGコマーシャルモール博
+ 多店\n主催: るなっつ杯\n定員: 32人\nエントリー期間: 202
+ 6/10/13(火) 07:00 〜\n\nhttps://tonamel.com/competition/Czfza
+URL:https://tonamel.com/competition/Czfza
+LOCATION:遊INGコマーシャルモール博多店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-26HmF@xrossstars-watcher
 DTSTAMP:20261019T074015Z
 SEQUENCE:0
@@ -1884,6 +1929,21 @@ DESCRIPTION:会場: オフライン / 蔦屋書店宮崎高千穂通り\n
  月) 21:00 〜\n\nhttps://tonamel.com/competition/pYxW8
 URL:https://tonamel.com/competition/pYxW8
 LOCATION:蔦屋書店宮崎高千穂通り
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-ZwUh6@xrossstars-watcher
+DTSTAMP:20261024T071211Z
+SEQUENCE:0
+DTSTART:20261123T040000Z
+DTEND:20261123T080000Z
+SUMMARY:11月非公認大会『Ignition Vortex』BOX争奪戦③
+DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
+ 催: まちキャラ柏モディ店\n定員: 16人\nエントリー期間:
+  2026/10/24(土) 13:00 〜\n\nhttps://tonamel.com/competition/ZwUh6
+URL:https://tonamel.com/competition/ZwUh6
+LOCATION:まちキャラ柏モディ店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
