@@ -1622,6 +1622,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-IpEqN@xrossstars-watcher
+DTSTAMP:20261025T073213Z
+SEQUENCE:0
+DTSTART:20261106T030000Z
+DTEND:20261106T070000Z
+SUMMARY:第33回︎🌟1部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: なな
+ め会議\n定員: 32人\nエントリー期間: 2026/10/25(日) 21:00 〜
+ \n\nhttps://tonamel.com/competition/IpEqN
+URL:https://tonamel.com/competition/IpEqN
+LOCATION:トレカ侍2号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-IFQRU@xrossstars-watcher
+DTSTAMP:20261025T073213Z
+SEQUENCE:0
+DTSTART:20261106T070000Z
+DTEND:20261106T110000Z
+SUMMARY:第33回︎🌟2部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: なな
+ め会議\n定員: 32人\nエントリー期間: 2026/10/25(日) 21:00 〜
+ \n\nhttps://tonamel.com/competition/IFQRU
+URL:https://tonamel.com/competition/IFQRU
+LOCATION:トレカ侍2号店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-nprBw@xrossstars-watcher
 DTSTAMP:20261010T082442Z
 SEQUENCE:0
