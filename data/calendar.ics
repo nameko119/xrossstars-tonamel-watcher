@@ -1561,21 +1561,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tonamel-RXsBE@xrossstars-watcher
-DTSTAMP:20261027T074148Z
-SEQUENCE:0
-DTSTART:20261101T070000Z
-DTEND:20261101T110000Z
-SUMMARY:MINT OKINAWA CUP #1
-DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
- 沖縄店\n定員: 16人\nエントリー期間: 2026/11/01(日) 09:00 〜
- \n\nhttps://tonamel.com/competition/RXsBE
-URL:https://tonamel.com/competition/RXsBE
-LOCATION:ミント沖縄店
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tonamel-9b5mM@xrossstars-watcher
 DTSTAMP:20261006T170924Z
 SEQUENCE:0
@@ -1617,6 +1602,21 @@ DESCRIPTION:会場: オンライン\n主催: TCGshop193名駅太閤店\n定
  員: 32人\nエントリー期間: 2026/10/08(木) 20:00 〜\n\nhttps://to
  namel.com/competition/Qwjmk
 URL:https://tonamel.com/competition/Qwjmk
+LOCATION:オンライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-NMbsS@xrossstars-watcher
+DTSTAMP:20261027T142224Z
+SEQUENCE:0
+DTSTART:20261103T080000Z
+DTEND:20261103T120000Z
+SUMMARY:🟦 TSUTAYA辰巳台店のイベント
+DESCRIPTION:会場: オンライン\n主催: TSUTAYA辰巳台店\n定員: 1
+ 6人\nエントリー期間: 2026/10/27(火) 17:00 〜\n\nhttps://tonamel.
+ com/competition/NMbsS
+URL:https://tonamel.com/competition/NMbsS
 LOCATION:オンライン
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -1771,6 +1771,21 @@ DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
  mpetition/wbFvs
 URL:https://tonamel.com/competition/wbFvs
 LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-RXsBE@xrossstars-watcher
+DTSTAMP:20261027T074148Z
+SEQUENCE:1
+DTSTART:20261114T093000Z
+DTEND:20261114T133000Z
+SUMMARY:MINT OKINAWA CUP #1
+DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
+ 沖縄店\n定員: 16人\nエントリー期間: 2026/11/01(日) 09:00 〜
+ \n\nhttps://tonamel.com/competition/RXsBE
+URL:https://tonamel.com/competition/RXsBE
+LOCATION:ミント沖縄店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
