@@ -2008,6 +2008,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-bYdMI@xrossstars-watcher
+DTSTAMP:20261029T112731Z
+SEQUENCE:0
+DTSTART:20261129T070000Z
+DTEND:20261129T110000Z
+SUMMARY:第3回 Xross Stars BOX争奪戦
+DESCRIPTION:会場: オフライン / 宝島イオンモール三川\n主
+ 催: 宝島イオンモール\n定員: 16人\nエントリー期間: 2026/
+ 10/29(木) 17:00 〜\n\nhttps://tonamel.com/competition/bYdMI
+URL:https://tonamel.com/competition/bYdMI
+LOCATION:宝島イオンモール三川
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082254Z
 SEQUENCE:0
