@@ -1437,6 +1437,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-iiq5k@xrossstars-watcher
+DTSTAMP:20261031T105202Z
+SEQUENCE:0
+DTSTART:20261031T063000Z
+DTEND:20261031T103000Z
+SUMMARY:第10回クロスタコギナゴカップ【サイドイベント~B
+ OX争奪戦~】
+DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
+ 主催: コーギーアール名古屋店\n定員: 24人\n\nhttps://toname
+ l.com/competition/iiq5k
+URL:https://tonamel.com/competition/iiq5k
+LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-zsbB7@xrossstars-watcher
 DTSTAMP:20261001T172238Z
 SEQUENCE:0
@@ -1679,6 +1695,21 @@ DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
  /nprBw
 URL:https://tonamel.com/competition/nprBw
 LOCATION:レプトントレカ海田店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-iGTwL@xrossstars-watcher
+DTSTAMP:20261031T105202Z
+SEQUENCE:0
+DTSTART:20261107T070000Z
+DTEND:20261107T110000Z
+SUMMARY:しょうが！みょうが。杯
+DESCRIPTION:会場: オフライン / レプトン　サンモール店\n
+ 主催: クロスタ大会\n定員: 24人\nエントリー期間: 2026/10/
+ 31(土) 16:00 〜\n\nhttps://tonamel.com/competition/iGTwL
+URL:https://tonamel.com/competition/iGTwL
+LOCATION:レプトン　サンモール店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
