@@ -1699,21 +1699,6 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:tonamel-iGTwL@xrossstars-watcher
-DTSTAMP:20261031T105202Z
-SEQUENCE:0
-DTSTART:20261107T070000Z
-DTEND:20261107T110000Z
-SUMMARY:しょうが！みょうが。杯
-DESCRIPTION:会場: オフライン / レプトン　サンモール店\n
- 主催: クロスタ大会\n定員: 24人\nエントリー期間: 2026/10/
- 31(土) 16:00 〜\n\nhttps://tonamel.com/competition/iGTwL
-URL:https://tonamel.com/competition/iGTwL
-LOCATION:レプトン　サンモール店
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:tonamel-kRCnO@xrossstars-watcher
 DTSTAMP:20260914T075149Z
 SEQUENCE:0
@@ -1958,6 +1943,21 @@ DESCRIPTION:会場: オフライン / 遊INGコマーシャルモール博
  6/10/13(火) 07:00 〜\n\nhttps://tonamel.com/competition/Czfza
 URL:https://tonamel.com/competition/Czfza
 LOCATION:遊INGコマーシャルモール博多店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-iGTwL@xrossstars-watcher
+DTSTAMP:20261031T105202Z
+SEQUENCE:1
+DTSTART:20261122T040000Z
+DTEND:20261122T080000Z
+SUMMARY:しょうが！みょうが。杯
+DESCRIPTION:会場: オフライン / レプトン　サンモール店\n
+ 主催: クロスタ大会\n定員: 24人\nエントリー期間: 2026/10/
+ 31(土) 16:00 〜\n\nhttps://tonamel.com/competition/iGTwL
+URL:https://tonamel.com/competition/iGTwL
+LOCATION:レプトン　サンモール店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
