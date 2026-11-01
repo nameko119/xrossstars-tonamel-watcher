@@ -1529,6 +1529,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-pY1iK@xrossstars-watcher
+DTSTAMP:20261101T090648Z
+SEQUENCE:0
+DTSTART:20261101T040000Z
+DTEND:20261101T080000Z
+SUMMARY:第10回 クロスタくろがねCS
+DESCRIPTION:会場: オフライン / G-PROJECT黒崎本店\n主催: G-PROJ
+ ECT\n参加費: 500円\n定員: 32人\n\nhttps://tonamel.com/competition/p
+ Y1iK
+URL:https://tonamel.com/competition/pY1iK
+LOCATION:G-PROJECT黒崎本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-pkq9V@xrossstars-watcher
 DTSTAMP:20261009T085356Z
 SEQUENCE:0
@@ -1604,6 +1619,21 @@ DESCRIPTION:会場: オフライン / まちキャラ柏モディ店\n主
   2026/10/24(土) 13:00 〜\n\nhttps://tonamel.com/competition/6lIis
 URL:https://tonamel.com/competition/6lIis
 LOCATION:まちキャラ柏モディ店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-5Lxl0@xrossstars-watcher
+DTSTAMP:20261101T090648Z
+SEQUENCE:0
+DTSTART:20261103T050000Z
+DTEND:20261103T090000Z
+SUMMARY:超緊急開催！～限定構築戦～LEO様最強決定戦！！
+DESCRIPTION:会場: オフライン / トイコンプ岸和田店\n主催: 
+ トイコンプ岸和田店\n定員: 32人\nエントリー期間: 2026/11
+ /01(日) 16:00 〜\n\nhttps://tonamel.com/competition/5Lxl0
+URL:https://tonamel.com/competition/5Lxl0
+LOCATION:トイコンプ岸和田店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1912,6 +1942,22 @@ DESCRIPTION:会場: オフライン / シーガル大河原店\n主催: 金
  026/07/19(日) 23:00 〜\n\nhttps://tonamel.com/competition/9GmtZ
 URL:https://tonamel.com/competition/9GmtZ
 LOCATION:シーガル大河原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-WjScP@xrossstars-watcher
+DTSTAMP:20261101T090648Z
+SEQUENCE:0
+DTSTART:20261122T030000Z
+DTEND:20261122T070000Z
+SUMMARY:第8回　Xross Stars Showdown!!
+DESCRIPTION:会場: オフライン / ウィングプラザ パティ　2F
+ デュエルスペース\n主催: クロスタ\n定員: 48人\nエント
+ リー期間: 2026/11/01(日) 19:00 〜\n\nhttps://tonamel.com/competition
+ /WjScP
+URL:https://tonamel.com/competition/WjScP
+LOCATION:ウィングプラザ パティ　2Fデュエルスペース
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

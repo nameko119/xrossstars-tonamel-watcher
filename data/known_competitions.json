@@ -2,17 +2,17 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-11-01T11:06:32.158763+09:00",
-    "count": 133,
+    "last_run": "2026-11-01T18:06:49.362020+09:00",
+    "count": 136,
     "last_run_info": {
-      "list_count": 39,
-      "api_hit": 39,
-      "new": 0,
+      "list_count": 42,
+      "api_hit": 42,
+      "new": 3,
       "changed": 0,
       "notify": {
         "mode": "sent",
         "sent": 1,
-        "delivered_pending": true
+        "delivered_pending": false
       },
       "errors": []
     }
@@ -3397,7 +3397,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "ICfby": {
@@ -3426,14 +3426,14 @@
       "raw_json": {
         "id": "ICfby",
         "title": "第３回ひねもすCS",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-15T10:26:06.796770+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "Ef2iQ": {
@@ -3462,14 +3462,14 @@
       "raw_json": {
         "id": "Ef2iQ",
         "title": "滝行杯#9",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 2
     },
     "OYMbD": {
@@ -3505,7 +3505,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "SShfU": {
@@ -3534,14 +3534,53 @@
       "raw_json": {
         "id": "SShfU",
         "title": "あんとく三潴　BOX争奪戦",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-13T12:30:44.712959+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
+      "seq": 0
+    },
+    "pY1iK": {
+      "id": "pY1iK",
+      "url": "https://tonamel.com/competition/pY1iK",
+      "title": "第10回 クロスタくろがねCS",
+      "start_at": "2026-11-01T13:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-01",
+      "format": "オフライン",
+      "venue": "G-PROJECT黒崎本店",
+      "address": "福岡県北九州市八幡西区藤田4丁目2－18　横尾ビル3F",
+      "organizer": "G-PROJECT",
+      "entry_fee": "500円",
+      "capacity": "32人",
+      "entry_period": "",
+      "image_url": "https://tonamel.com/nuxt/46abf59bf4-c516361ef6-d9269593f2-46f99aa1c2/_nuxt/assets/images/figures/logo/cover.2c1c77c9aec534a836e83ccd05714c4c.jpg",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄",
+      "capacity_num": 32,
+      "fee_num": 500,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第10回 クロスタくろがねCS\n主催：\nG-PROJECT\nXrossStars\nイベント開始予定\n2026/11/01(日) 13:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n【大会概要】\n\n開催日時：令和8年11月1日(日)　13:00開始\n\n受付時間：12:30～13:00\n\n参加定員：32名\n\n参加費：500円\n\n開催地：G-PROJECT黒崎本店\n\n【大会賞品】\n\n1位：『IGNITION VORTEX』1BOX\n\n参加賞：プロモカードパックVol.6+Vol.7\n\n【大会ルール】\n\n・XrossStars公式サイトの「ルール」に準拠します。\n\nhttps://xross-stars.com/rules\n\n【大会形式】\n\n・フルマッチのスイスドロー最大5回戦で実施いたします。\n\n・制限時間は1試合35分とします。35分経過時点で勝敗が決定していない場合は両者敗北となりますのでご注意ください。\n\n【注意事項】\n\n①効果処理等に関してはセルフジャッジで問題はありませんが、根拠の提示が不十分であったり、納得ができない場合はスタッフをお呼びください。\n\nまた、お互いの説明に関して不安が残る場合も、同様にスタッフをお呼びください。\n\n②カードを引きすぎてしまった、カードを落としてしまったなどはスタッフをお呼びください。\n\n③複数回に渡り同様の質問や動作でスタッフを呼ぶと、遅延や運営妨害が目的であると判断される可能性があります。\n\nその場合、注意や警告を与える場合があります。\n\n《その他会場の諸注意》\n\n貴重品等は、ご自分での管理を徹底していただきますようよろしくお願いします。\n\n会場にて出たゴミは、分別して捨ててください。ご協力お願いいたします。\n\n店内での飲食は原則禁止となっておりますが、ペットボトル、水筒等の蓋のできる飲料であればかまいませんので、ご注意ください。\n\n対戦が終わったあとは、デュエルスペース内にいる場合は、ご自身の席、もしくは空いてる席に座ってお待ちください。立って他の席の対戦の観戦はしないようにお願い致します。\n\n対戦スペースでのトレードは禁止です。\n\n対戦スペースでペンやカードなど、物品の貸し借りを行わないで下さい。\n\n席を立って他プレイヤーの対戦の観戦をしないで下さい。\n\n※上位入賞レシピは各種SNS等で公表する場合もありますので、ご了承ください。\n\n※参加費は運営費として使用します。\n\nまた、告知内容は予告なく変更される場合があります。ご了承ください。\n\n続きを読む\n開催場所\nG-PROJECT黒崎本店\n福岡県北九州市八幡西区藤田4丁目2－18　横尾ビル3F\nシェア\nイベントID\npY1iK\n\nイベントに参加\n\n受付は締め切りました\n\nイベントにエントリーした方は、ログインしてイベントに参加してください。\n\nログイン\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n第10回 クロスタくろがねCS\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザ",
+      "raw_json": {
+        "id": "pY1iK",
+        "title": "第10回 クロスタくろがねCS",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-01T18:06:48.161873+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "pkq9V": {
@@ -3570,14 +3609,14 @@
       "raw_json": {
         "id": "pkq9V",
         "title": "さかｲﾝかっぷ～Vol.2～",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-09T17:53:56.075053+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "FyuwU": {
@@ -3606,14 +3645,14 @@
       "raw_json": {
         "id": "FyuwU",
         "title": "ビデ尼　クロスタ新弾BOX争奪戦",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T02:22:38.575071+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "XrzD1": {
@@ -3649,7 +3688,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "9b5mM": {
@@ -3685,7 +3724,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T02:09:24.900670+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "6lIis": {
@@ -3721,7 +3760,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
+      "seq": 0
+    },
+    "5Lxl0": {
+      "id": "5Lxl0",
+      "url": "https://tonamel.com/competition/5Lxl0",
+      "title": "超緊急開催！～限定構築戦～LEO様最強決定戦！！",
+      "start_at": "2026-11-03T14:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-03",
+      "format": "オフライン",
+      "venue": "トイコンプ岸和田店",
+      "address": "大阪府岸和田市春木若松町２１−１ ラパーク岸和田 2F",
+      "organizer": "トイコンプ岸和田店",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/11/01(日) 16:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/tpzOJ/1c7793935a4a91c98fef51179b01290453df14b6cca079f72930583b087dc0ff.png",
+      "prefecture": "大阪府",
+      "region": "関西",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "超緊急開催！～限定構築戦～LEO様最強決定戦！！\n主催：\nトイコンプ岸和田店\nXrossStars\nイベント開始予定\n2026/11/03(火) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n※本イベントは非公認イベントです。\n必ず最後まで読んでエントリーをお願い致します。\n\n\n\n【場所】\n\nトイコンプ岸和田店\n\n\n\n\n【参加費】\n\n1000円（現金払いのみ）\n\n※参加費はすべて大会運営費並びに会場利用料に使用され、景品等のためには一切使用しません。\n\n\n\n\n【定員】\n\n32名(予定)\n\n\n\n\n【大会形式】\n\nフルマッチ\n\n\n\n\n予選\n\nスイスドロー最大5回戦 (※参加人数に応じて変更の可能性あり)\n\n\n\n\n決勝ラウンド\n\n上位8名による決勝トーナメント(※参加人数に応じて変更の可能性あり)\n\n\n\n\n【賞品】(参加人数により変動します)\n\n優勝：『LEO』LRP\n\n準優勝 :第5弾「イグニッション・ボルテックス」\n\n6パック＋『共に至る極地』4枚セット\n\n3〜4位:第5弾「イグニッション・ボルテックス」\n\n3パック＋2枚セット\n\n\n\n\n・参加賞:プロモカードパックvol.8\n\n\n\n\n■その他\n\n当主催が開催するXross Starsのイベントすべてが、公認オーガナイザーイベントとして承認を受けているわけではありません。\n\n大会内で写真撮影、プライバシー配慮した加工をした上でX(旧Twitter)に掲載する場合があります。\n\n上位入賞者は、プレイヤーネーム、デッキ(一部でも可)の写真及びコメントを掲載させて頂く場合があります。\n\n過去、同店での開催イベントにて無断キャンセルを行った方、ノーマナー行為を行った方、不正プレイヤーと思わしき方のご参加を取り消させて頂く場合がございます。\n\n\n\n\n\n\n\n【タイムスケジュール】\n\n受付 13:45〜14:00\n\n\n\n\n【大会ルール】\n予選・決勝の対戦終了および制限時間について\n予選・決勝ともに制限時間35分\n\n時間切れの場合両者敗北\n\n\n\n\n～決勝トーナメントについて～\n\n●決勝トーナメント1回戦については予選順位高い方が先攻後攻の決定権が与えられます。\n● 決勝トーナメントにて時間切れをした場合エクストラターンを設けターンプレイヤーを０ターン目とし0.1.2.3と行います。それでも決着つかなかった場合以下の処理順にて勝敗を決します。\n\n※処理しているカード効果『アタック後』などは解決しないものとします。\n\n\n\n　　1.ラウンド取得数が多いプレイヤー(同数場合は次へ)\n　　2.ダウンしているリーダーが少ないプレイヤー\n\n　　3.総ダメージ数が少ないプレイヤー\n\n　　4.タクティクス数が多いプレイヤー\n\n　　5.予選順位が高いプレイヤー\n※決勝戦のみ時間無制限で行います。\n\n\n\n\n使用できるカードはXrossStarsフロアルールに準じます。\n\n\nその他\n\n当日の大会は、XrossStarsフロアルールの内容に準じます。\n\n続きを読む\n開催場所\nトイコンプ岸和田店\n大阪府岸和田市春木若松町２１−１ ラパーク岸和田 2F\nシェア\nイベントID\n5Lxl0\n\nイベントに参加\n\nエントリー\n募集人数\n0/32人\n支払い済み人数\n0/32人\nエントリー料\n¥ 1,000\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/11/01(日) 16:0",
+      "raw_json": {
+        "id": "5Lxl0",
+        "title": "超緊急開催！～限定構築戦～LEO様最強決定戦！！",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-01T18:06:48.161873+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "Qwjmk": {
@@ -3757,7 +3835,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-07T20:42:12.801231+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "NMbsS": {
@@ -3830,7 +3908,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-14T16:29:56.780599+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "IpEqN": {
@@ -3866,7 +3944,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-25T16:32:13.720397+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "IFQRU": {
@@ -3902,7 +3980,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-25T16:32:13.720397+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "nprBw": {
@@ -3938,7 +4016,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "kRCnO": {
@@ -3974,7 +4052,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-14T16:51:49.976797+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "MGpdw": {
@@ -4010,7 +4088,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-11T01:12:43.495637+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "ZcKk7": {
@@ -4046,7 +4124,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-05T15:54:46.973241+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "HGDp0": {
@@ -4082,7 +4160,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-14T22:37:30.619900+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "IJ7el": {
@@ -4118,7 +4196,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T17:24:09.092679+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -4154,7 +4232,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 2
     },
     "RXsBE": {
@@ -4190,7 +4268,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-27T16:41:48.983039+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 1
     },
     "zU6ZN": {
@@ -4226,7 +4304,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "qfYdV": {
@@ -4262,7 +4340,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 1
     },
     "PzAvv": {
@@ -4298,7 +4376,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "AAxnk": {
@@ -4334,7 +4412,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T21:06:38.906414+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "ZNr8W": {
@@ -4371,7 +4449,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-17T21:08:39.321621+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -4407,7 +4485,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -4446,6 +4524,46 @@
       "last_updated": "2026-09-25T16:40:26.269673+09:00",
       "seq": 1
     },
+    "WjScP": {
+      "id": "WjScP",
+      "url": "https://tonamel.com/competition/WjScP",
+      "title": "第8回　Xross Stars Showdown!!",
+      "start_at": "2026-11-22T12:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-22",
+      "format": "オフライン",
+      "venue": "ウィングプラザ パティ　2Fデュエルスペース",
+      "address": "〒498-0027 愛知県弥富市鯏浦町南前新田１２３",
+      "organizer": "クロスタ",
+      "entry_fee": "",
+      "capacity": "48人",
+      "entry_period": "2026/11/01(日) 19:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/jGuOK/bc8594e0a0f977a8d3b8e5495ea702afdf47ea122348a861309b2240781beee2.png",
+      "prefecture": "愛知県",
+      "region": "中部",
+      "capacity_num": 48,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第8回　Xross Stars Showdown!!\n主催：\nクロスタ\nXrossStars\nイベント開始予定\n2026/11/22(日) 12:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n48人\n参加枠の上限を超えた場合\nチェックイン後のエントリー先着順\nチェックインした中でエントリーした日時が早い順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n【形式】\n\n個人戦フルマッチ(BO3)\n\n\n\n\n【会場】\n\nウィングプラザ パティ　2Fデュエルスペース\n\n\n\n\n【スケジュール】　\n\n2026年11月22日(日)\n\n受付　　11:30～12:00\n\n説明　　12:00～12:10\n\n１回戦　12:10～12:45\n\n２回戦　12:50～13:25\n\n３回戦　13:30～14:05\n\n４回戦　14:10～14:45\n\n５回戦　14:50～15:25\n\n６回戦　15:30〜16:05\n\n順位確認&休憩　16:05～16:45\n\n----１次解散----\n\n準々決勝 　16:45～17:20\n\n準決勝 　　17:30～18:05\n\n決勝　　 　18:15～18:50\n\n表彰　 　　18:50～19:05\n\n\n\n\n【参加料金】\n\n1500円\n\n\n\n\n【景品】\n\n参加人数に応じて賞品の内容が変更される場合があります。\n　\n優勝　： Ignition Vortex 4BOX\n\n準優勝： Ignition Vortex 3BOX\n\nベスト4： Ignition Vortex 1BOX\n\nベスト8： Ignition Vortex 6パック\n\n\n\n\n【賞金首】\n\n運営メンバーを中心に数人が賞金首となります。\n\n予選で賞金首と対戦して勝てばIgnition Vortex1パックがもらえます。\n\n\n\n\n【定員】\n\n　48人\n\n※エントリーは48人以上可能ですが、エントリー番号が49番～の方はキャンセル待ちとなります。\n\n前の人がキャンセルしていくと番号が繰り上がっていきますので、\n\n48番以内に入れば参加可能となります。\n\n\n\n\n【ルール等】\n\n①試合について\n\n※基本セルフジャッジでお願いいたします。\n\n・個人戦です。\n\n・予選は6回戦のスイスドロー(固定)。\n\n・決勝は8人によるトーナメント。\n\n・予選と決勝、共に制限時間35分。\n\n・予選で時間切れの場合、両者敗北。\n\n・制限時間35分以内のみ、試合を投了可能。\n\n・時間確認用に限り、お互い同意の上で携帯電話を机上に出してもよい。（機内モード必須）\n\n・試合開始時間に間に合わず遅刻をしてしまった場合、\n\n　その試合は不戦敗という扱いになりますのでご理解よろしくお願いいたします。\n\n・カード類を落としてしまった場合、相手に確認して各自で対応お願いします。\n\n　どうしてもの場合はスタッフを呼んでください\n\n②使用カードについて\n\n・プロキシの使用は、禁止させていただきます。\n\n・カードは必ず、リーダーカードを除き裏面が不透明なものをご使用ください。\n\n・非公開領域に触れる行為(デッキからカードを引く、デッキの上から〇枚見る、トラッシュにカードを置く等)をする前であれば、プレイの巻き戻し可能です。\n\n・公式ルール改定に伴い、原則巻き戻しは不可となります。\n\n③デッキリストの提出について\n\n・当日11時までにトナメル上にアップをお願いいたします。(エントリー内容から変更できます。)\n\n・確認にのみ使用し、スタッフのみの閲覧となります。ご安心ください。\n\n④途中棄権について\n\n・途中棄権される",
+      "raw_json": {
+        "id": "WjScP",
+        "title": "第8回　Xross Stars Showdown!!",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "@XrStEvents",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-01T18:06:48.161873+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
+      "seq": 0
+    },
     "nTEQd": {
       "id": "nTEQd",
       "url": "https://tonamel.com/competition/nTEQd",
@@ -4479,7 +4597,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T22:30:57.126716+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "Czfza": {
@@ -4515,7 +4633,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "iGTwL": {
@@ -4551,7 +4669,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-31T19:52:02.102089+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 1
     },
     "26HmF": {
@@ -4587,7 +4705,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-19T16:40:15.537175+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "i6ZDX": {
@@ -4624,7 +4742,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-17T21:08:39.321621+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "XuX01": {
@@ -4660,7 +4778,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-20T22:31:45.805103+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "pYxW8": {
@@ -4696,7 +4814,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-18T21:35:02.093388+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "ZwUh6": {
@@ -4732,7 +4850,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "bYdMI": {
@@ -4768,7 +4886,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-29T20:27:31.649170+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -4804,7 +4922,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -4840,7 +4958,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-01T11:06:30.811469+09:00",
+      "last_updated": "2026-11-01T18:06:48.161873+09:00",
       "seq": 2
     }
   }
