@@ -2117,6 +2117,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-oZO62@xrossstars-watcher
+DTSTAMP:20261102T132247Z
+SEQUENCE:0
+DTSTART:20261213T050000Z
+DTEND:20261213T090000Z
+SUMMARY:第15回　火蝶杯（かちょうはい）
+DESCRIPTION:会場: オフライン / ドラグーン博多店\n主催: 火
+ 蝶杯（公認オーガナイザーイベント）\n参加費: 500円 / 1
+ 人（決済は当日会場で支払いになります）\n定員: 48人\n
+ エントリー期間: 2026/11/02(月) 14:00 〜\n\nhttps://tonamel.com/co
+ mpetition/oZO62
+URL:https://tonamel.com/competition/oZO62
+LOCATION:ドラグーン博多店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Q3g0B@xrossstars-watcher
 DTSTAMP:20260826T140121Z
 SEQUENCE:2
