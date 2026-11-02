@@ -1883,6 +1883,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-U8iQS@xrossstars-watcher
+DTSTAMP:20261102T224306Z
+SEQUENCE:0
+DTSTART:20261121T010000Z
+DTEND:20261121T113000Z
+SUMMARY:ひねもすCS外伝 CC#4調整会
+DESCRIPTION:会場: オフライン / オルガホール2階「談話室（
+ 多目的ルーム）」\n主催: ひねもすCS\n参加費: 未定（※1
+ 1/15 0時時点でのエントリー状況により会場費を決定し
+ ます）\n定員: 25人\nエントリー期間: 2026/11/03(火) 12:00 〜
+ \n\nhttps://tonamel.com/competition/U8iQS
+URL:https://tonamel.com/competition/U8iQS
+LOCATION:オルガホール2階「談話室（多目的ルーム）」
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-AAxnk@xrossstars-watcher
 DTSTAMP:20260906T120638Z
 SEQUENCE:0
