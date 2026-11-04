@@ -2010,6 +2010,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-VY2bi@xrossstars-watcher
+DTSTAMP:20261104T125529Z
+SEQUENCE:0
+DTSTART:20261122T040000Z
+DTEND:20261122T080000Z
+SUMMARY:フラトラ杯 Vol.1
+DESCRIPTION:会場: オフライン / SuperKaBoS+ゲオ二の宮本店\n主
+ 催: フラトラ杯\n参加費: 500円(現金のみ)\n定員: 16人\nエ
+ ントリー期間: 2026/11/04(水) 18:00 〜\n\nhttps://tonamel.com/compe
+ tition/VY2bi
+URL:https://tonamel.com/competition/VY2bi
+LOCATION:SuperKaBoS+ゲオ二の宮本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-iGTwL@xrossstars-watcher
 DTSTAMP:20261031T105202Z
 SEQUENCE:1
