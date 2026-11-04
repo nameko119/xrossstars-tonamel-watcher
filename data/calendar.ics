@@ -1915,6 +1915,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-rtMw2@xrossstars-watcher
+DTSTAMP:20261104T204541Z
+SEQUENCE:0
+DTSTART:20261121T063000Z
+DTEND:20261121T103000Z
+SUMMARY:N杯♯4
+DESCRIPTION:会場: オフライン / SuperKaBoS+ゲオ二の宮本店\n主
+ 催: エミーティカ（のじ）\n参加費: 500円(現金のみでお
+ 願いします)\n定員: 16人\nエントリー期間: 2026/11/04(水) 23
+ :00 〜\n\nhttps://tonamel.com/competition/rtMw2
+URL:https://tonamel.com/competition/rtMw2
+LOCATION:SuperKaBoS+ゲオ二の宮本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-ZNr8W@xrossstars-watcher
 DTSTAMP:20261017T120839Z
 SEQUENCE:0
