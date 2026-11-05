@@ -2119,6 +2119,23 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-vREs4@xrossstars-watcher
+DTSTAMP:20261105T130422Z
+SEQUENCE:0
+DTSTART:20261123T023000Z
+DTEND:20261123T063000Z
+SUMMARY:第4回　SODA CUP × XrossStars【3on3】
+DESCRIPTION:会場: オフライン / 麻布台ヒルズ森JPタワー　24
+ 階　 株式会社アルトワイズ 特設イベントスペース\n主
+ 催: SODA CUP\n定員: 64チーム\nエントリー期間: 2026/11/06(金)
+  21:00 〜\n\nhttps://tonamel.com/competition/vREs4
+URL:https://tonamel.com/competition/vREs4
+LOCATION:麻布台ヒルズ森JPタワー　24階　 株式会社アルト
+ ワイズ 特設イベントスペース
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-ZwUh6@xrossstars-watcher
 DTSTAMP:20261024T071211Z
 SEQUENCE:0
