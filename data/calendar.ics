@@ -1915,6 +1915,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-TWIiw@xrossstars-watcher
+DTSTAMP:20261106T125246Z
+SEQUENCE:0
+DTSTART:20261121T030000Z
+DTEND:20261121T070000Z
+SUMMARY:第4回　fam　CUP
+DESCRIPTION:会場: オフライン / トレカプラザ名古屋駅前店\
+ n主催: トレカプラザ名古屋駅前店\n定員: 32人\nエントリ
+ ー期間: 2026/11/06(金) 13:00 〜\n\nhttps://tonamel.com/competition/TW
+ Iiw
+URL:https://tonamel.com/competition/TWIiw
+LOCATION:トレカプラザ名古屋駅前店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-rtMw2@xrossstars-watcher
 DTSTAMP:20261104T204541Z
 SEQUENCE:0
@@ -1943,6 +1959,21 @@ DESCRIPTION:会場: オフライン / 越谷市中央市民会館第８会
  competition/ZNr8W
 URL:https://tonamel.com/competition/ZNr8W
 LOCATION:越谷市中央市民会館第８会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-KkqyE@xrossstars-watcher
+DTSTAMP:20261106T125246Z
+SEQUENCE:0
+DTSTART:20261122T020000Z
+DTEND:20261122T060000Z
+SUMMARY:第34回︎🌟1部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: なな
+ め会議\n定員: 32人\nエントリー期間: 2026/11/07(土) 21:00 〜
+ \n\nhttps://tonamel.com/competition/KkqyE
+URL:https://tonamel.com/competition/KkqyE
+LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2068,6 +2099,21 @@ DESCRIPTION:会場: オフライン / フルコンプ福岡天神店\n主
  〜\n\nhttps://tonamel.com/competition/26HmF
 URL:https://tonamel.com/competition/26HmF
 LOCATION:フルコンプ福岡天神店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-xOdYF@xrossstars-watcher
+DTSTAMP:20261106T125246Z
+SEQUENCE:0
+DTSTART:20261122T072000Z
+DTEND:20261122T112000Z
+SUMMARY:第34回︎🌟2部:ぽたくCS︎
+DESCRIPTION:会場: オフライン / トレカ侍2号店\n主催: なな
+ め会議\n定員: 32人\nエントリー期間: 2026/11/07(土) 21:00 〜
+ \n\nhttps://tonamel.com/competition/xOdYF
+URL:https://tonamel.com/competition/xOdYF
+LOCATION:トレカ侍2号店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
