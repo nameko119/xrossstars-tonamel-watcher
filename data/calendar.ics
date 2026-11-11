@@ -2213,6 +2213,38 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Iwxo1@xrossstars-watcher
+DTSTAMP:20261111T183659Z
+SEQUENCE:0
+DTSTART:20261123T050000Z
+DTEND:20261123T090000Z
+SUMMARY:【11/23開催】『Ignition Vortex』争奪戦【flat-工房池袋
+ 店】
+DESCRIPTION:会場: オフライン / flat-工房池袋店\n主催: flat-
+ 工房池袋店\n定員: 32人\nエントリー期間: 2026/11/12(木) 21:
+ 00 〜\n\nhttps://tonamel.com/competition/Iwxo1
+URL:https://tonamel.com/competition/Iwxo1
+LOCATION:flat-工房池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-NKVjm@xrossstars-watcher
+DTSTAMP:20261111T183659Z
+SEQUENCE:0
+DTSTART:20261129T050000Z
+DTEND:20261129T090000Z
+SUMMARY:狂人杯　#04
+DESCRIPTION:会場: オフライン / 越谷コミュニティセンター
+ 第2会議室\n主催: 価格保証宣言！\n定員: 32人\nエントリ
+ ー期間: 2026/11/08(日) 19:00 〜\n\nhttps://tonamel.com/competition/NK
+ Vjm
+URL:https://tonamel.com/competition/NKVjm
+LOCATION:越谷コミュニティセンター第2会議室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-bYdMI@xrossstars-watcher
 DTSTAMP:20261029T112731Z
 SEQUENCE:0

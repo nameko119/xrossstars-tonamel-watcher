@@ -2,19 +2,30 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-11-11T18:14:31.872423+09:00",
-    "count": 147,
+    "last_run": "2026-11-12T03:36:59.568684+09:00",
+    "count": 149,
     "last_run_info": {
-      "list_count": 31,
-      "api_hit": 31,
-      "new": 1,
+      "list_count": 32,
+      "api_hit": 32,
+      "new": 2,
       "changed": 0,
       "notify": {
-        "mode": "sent",
-        "sent": 1,
-        "delivered_pending": false
+        "mode": "deferred",
+        "pending": {
+          "seed": null,
+          "new": 2,
+          "changed": 0
+        }
       },
       "errors": []
+    },
+    "pending": {
+      "seed": null,
+      "new": [
+        "Iwxo1",
+        "NKVjm"
+      ],
+      "changed": []
     }
   },
   "competitions": {
@@ -4193,7 +4204,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-14T22:37:30.619900+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "IJ7el": {
@@ -4229,7 +4240,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T17:24:09.092679+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -4265,7 +4276,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 2
     },
     "RXsBE": {
@@ -4301,7 +4312,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-27T16:41:48.983039+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 1
     },
     "zU6ZN": {
@@ -4337,7 +4348,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "qfYdV": {
@@ -4373,7 +4384,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 1
     },
     "PzAvv": {
@@ -4409,7 +4420,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "U8iQS": {
@@ -4445,7 +4456,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-03T07:43:06.215165+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "AAxnk": {
@@ -4481,7 +4492,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T21:06:38.906414+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "TWIiw": {
@@ -4517,7 +4528,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-06T21:52:46.819052+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "rtMw2": {
@@ -4553,7 +4564,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-05T05:45:41.406372+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "ZNr8W": {
@@ -4590,7 +4601,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-17T21:08:39.321621+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "KkqyE": {
@@ -4626,7 +4637,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-06T21:52:46.819052+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -4662,7 +4673,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -4734,7 +4745,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-01T18:06:48.161873+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "nTEQd": {
@@ -4770,7 +4781,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T22:30:57.126716+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "Czfza": {
@@ -4806,7 +4817,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "VY2bi": {
@@ -4842,7 +4853,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-04T21:55:29.853997+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "iGTwL": {
@@ -4878,7 +4889,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-31T19:52:02.102089+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 1
     },
     "26HmF": {
@@ -4914,7 +4925,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-19T16:40:15.537175+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "xOdYF": {
@@ -4950,7 +4961,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-06T21:52:46.819052+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "i6ZDX": {
@@ -5023,7 +5034,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-20T22:31:45.805103+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "pYxW8": {
@@ -5059,7 +5070,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-18T21:35:02.093388+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "vREs4": {
@@ -5095,7 +5106,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-05T22:04:22.167529+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "ZwUh6": {
@@ -5131,7 +5142,86 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
+      "seq": 0
+    },
+    "Iwxo1": {
+      "id": "Iwxo1",
+      "url": "https://tonamel.com/competition/Iwxo1",
+      "title": "【11/23開催】『Ignition Vortex』争奪戦【flat-工房池袋店】",
+      "start_at": "2026-11-23T14:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-23",
+      "format": "オフライン",
+      "venue": "flat-工房池袋店",
+      "address": "14:00～参加者点呼 14:10～マッチング発表、1回戦開始",
+      "organizer": "flat-工房池袋店",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/11/12(木) 21:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/5zOhY/d01830ae4d83bf15c42272bb7826dbc3a8d533062e2ee7f191d73f00618a3b69.png",
+      "prefecture": "東京都",
+      "region": "関東",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "【11/23開催】『Ignition Vortex』争奪戦【flat-工房池袋店】\n主催：\nflat-工房池袋店\nXrossStars\nイベント開始予定\n2026/11/23(月) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\nエントリーした日時が早い順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n【対戦形式】\n\n・制限時間35分(時間切れの場合両者敗北)\n\n・最大5回戦(全勝者が1名になった時点で大会は終了します)\n\n・スイスドロー形式\n\n・フルマッチ(BO3)\n\n【スケジュール】\n\n事前エントリー開始　11月12日(木) 20:00～\n\n\n\n\n11月23日\n\n13:30～会場受付\n14:00～参加者点呼\n14:10～マッチング発表、1回戦開始\n\n\n\n\n【賞品】\n\n【参加賞】\n\nプロモパック Vol.7 1パック\n\n【全勝】\n\n第5弾『Ignition Vortex』1BOX\n\n【1敗ライン】\n\n第5弾『Ignition Vortex』 3パック\n\n\n\n\n【ランダム賞】\n\n『1st Anniv. Collection PREMIUM SET』\n\n\n\n\n+参加者8人ごとに第5弾『Ignition Vortex』 3パック\n\n追加！\n\n\n\n\n【大会ルール】\n\n時間切れの場合はその時点で両者敗北。\n\n延長ターン等はございませんのでご注意ください。\n\n\n\n\n本イベントは感染症対策を行って実施致します。\n\n・ご参加予定でイベント当日体調不良の方はご参加いただけません。\n\n・手指消毒にご協力ください。\n\n・会場内外でのトラブル、事故、盗難等について運営側は一切の責任を負いかねます。ご了承ください。\n\n・会場内でのトレード、カード販売や賭け事などの行為は一切禁止です。発見次第、退場処分を取らせていただきます。\n\n\n\n\n【持ち物】\n\n・大会で使用するデッキ\n・ダメージカウンター、またはその代用となるダイス等\n\n・替えのスリーブ\n\n・大会参加費 500円 ※現金のみ\n\n\n\n\n続きを読む\n開催場所\nflat-工房池袋店\n東京都豊島区東池袋１丁目２３−８ 東池袋ＩＳＫビル 5F\nシェア\nイベントID\nIwxo1\n\nイベントに参加\n\nエントリー\n募集人数\n0/32人\nエントリー期間\n2026/11/12(木) 21:00 〜\n2026/11/23(月) 13:00\n\nエントリー\n\nあと17:23:13で開始\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n【11/23開催】『Ignition Vortex』争奪戦【flat-工房池袋店】\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Ri",
+      "raw_json": {
+        "id": "Iwxo1",
+        "title": "【11/23開催】『Ignition Vortex』争奪戦【flat-工房池袋店】",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-12T03:36:59.481220+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
+      "seq": 0
+    },
+    "NKVjm": {
+      "id": "NKVjm",
+      "url": "https://tonamel.com/competition/NKVjm",
+      "title": "狂人杯　#04",
+      "start_at": "2026-11-29T14:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-29",
+      "format": "オフライン",
+      "venue": "越谷コミュニティセンター第2会議室",
+      "address": "〒343-0845 埼玉県越谷市南越谷１丁目２８７６−１",
+      "organizer": "価格保証宣言！",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/11/08(日) 19:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/8Yvra/cbf7b45378adfdbf9c7a7aad7bb84ea59489a3481c6c2efd2fc7c335f7029976.png",
+      "prefecture": "埼玉県",
+      "region": "関東",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "狂人杯　#04\n主催：\n価格保証宣言！\nXrossStars\nイベント開始予定\n2026/11/29(日) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みかつチェックイン済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\n◼︎イベント概要\n\n　11/29(日)13:30〜受付開始\n\n　※当日枠は空きがあれば参加可能\n\n\n\n\n　※チェックインまでに以下リンクでデッキ登録をお願いします。(デッキ登録の際、プレイヤー名＋使用リーダー名を記載)\n\n　https://x.gd/src7C\n\n\n\n\n◼︎開催場所\n\n　越谷コミュニティセンター第2会議室\n\n　〒343-0845 埼玉県越谷市南越谷１丁目２８７６−１\n\n\n\n\n◼︎参加費\n\n　500円(現金決済　当日支払い)\n\n　※できるだけお釣りが出ないようお願いします。\n\n\n\n\n◼︎定員\n\n　32人(先着順)\n\n\n\n\n◼︎大会内容\n\n　フルマッチ形式　1試合35分\n\n　スイスドロー　最大5回戦\n\n　・デッキ構築について\n\n　　基本的にはフルマッチのデッキ構築を適用。\n\n　以下、今回の特別ルール\n\n　・単一リーダー構築\n\n　・リーダー専用カードは32枚まで(アタックカード16枚・メモリアカード16枚)\n\n\n\n\n◼︎タイムスケジュール\n\n　13:30〜13:59　受付\n\n　14:00〜14:10　マッチング\n\n　14:10〜14:45　1回戦\n\n　15:00〜15:35　2回戦\n\n　15:50〜16:25　3回戦\n\n　16:40〜17:15　4回戦\n\n　17:30〜18:05　5回戦\n\n　18:40〜19:00　表彰 & 景品授与\n\n\n\n\n◼︎持ち物\n\n　デッキ　ダメカン　PP(プレイポイント)　プレイマット\n\n\n\n\n◼︎賞品\n\n　1位🥇　第5弾『Ignition Vortex』　1BOX\n\n　2位🥈　第5弾『Ignition Vortex』　7パック\n\n　3位🥉　第5弾『Ignition Vortex』　4パック\n\n　4位🏅　第5弾『Ignition Vortex』　1パック\n\n\n\n\n■注意事項\n\n・遅刻する場合は、お早めにご連絡をお願いいたします。\n\n・開催中写真の撮影にご協力ください。X等で写真の投稿を行います。顔などはモザイク処理し投稿を行います。\n\n・入賞者はデッキリストをXにて公開予定です。ご協力お願いいたします。\n\n・キャップ付きの飲み物のみ持ち込み可\n\n続きを読む\n開催場所\n越谷コミュニティセンター第2会議室\n〒343-0845 埼玉県越谷市南越谷１丁目２８７６−１\n連絡先\n@kakakuhos\nシェア\nイベントID\nNKVjm\n\nイベントに参加\n\nエントリー\n募集人数\n1/32人\n支払い済み人数\n0/32人\nエントリー料\n¥ 500\n募集人数の上限を超えた場合\nエントリー先着順\nエントリー期間\n2026/11/08(日) 19:00 〜\n2026/11/29(日) 13:59\n\nエントリー\n\nあと17日\n\nチェックイン\nチェックイン期間\n2026/11/29(日) 13:30 〜\n2026/11/29(日) 14:00\n\nQRチェックイン\n\nあと17日で開始\n\nトーナメント表確定\n主催者のトーナメント表確定をお待ちください。\n\nトーナメント表\n\n確定までお待ちください\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\n狂",
+      "raw_json": {
+        "id": "NKVjm",
+        "title": "狂人杯　#04",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "@kakakuhos",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-12T03:36:59.481220+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "bYdMI": {
@@ -5167,7 +5257,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-29T20:27:31.649170+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "JPwj8": {
@@ -5196,17 +5286,14 @@
       "raw_json": {
         "id": "JPwj8",
         "title": "第36回︎🌟ぽたくCS個人戦",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-11-11T18:14:30.582484+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "ZPYpT": {
@@ -5242,7 +5329,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-08T03:40:33.629149+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -5314,7 +5401,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-02T22:22:47.801906+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -5350,7 +5437,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-11T18:14:30.582484+09:00",
+      "last_updated": "2026-11-12T03:36:59.481220+09:00",
       "seq": 2
     }
   }
