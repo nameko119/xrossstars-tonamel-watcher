@@ -2338,4 +2338,20 @@ LOCATION:シーガル仙台駅前店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-1T2ww@xrossstars-watcher
+DTSTAMP:20261113T182903Z
+SEQUENCE:0
+DTSTART:20270116T030000Z
+DTEND:20270116T070000Z
+SUMMARY:滝行杯　rebuild
+DESCRIPTION:会場: オフライン / 193 秋葉原店\n主催: 星屑デ
+ ビルバッツ\n参加費: ・6000円(チームで)\n定員: 36人\nエ
+ ントリー期間: 2026/11/13(金) 23:00 〜\n\nhttps://tonamel.com/compe
+ tition/1T2ww
+URL:https://tonamel.com/competition/1T2ww
+LOCATION:193 秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
