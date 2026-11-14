@@ -2,17 +2,17 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-11-14T09:51:18.953852+09:00",
-    "count": 150,
+    "last_run": "2026-11-14T17:54:20.875247+09:00",
+    "count": 153,
     "last_run_info": {
-      "list_count": 33,
-      "api_hit": 33,
-      "new": 0,
+      "list_count": 36,
+      "api_hit": 36,
+      "new": 3,
       "changed": 0,
       "notify": {
         "mode": "sent",
         "sent": 1,
-        "delivered_pending": true
+        "delivered_pending": false
       },
       "errors": []
     }
@@ -4186,14 +4186,14 @@
       "raw_json": {
         "id": "HGDp0",
         "title": "777杯",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-14T22:37:30.619900+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "IJ7el": {
@@ -4222,14 +4222,14 @@
       "raw_json": {
         "id": "IJ7el",
         "title": "ぽよクロ杯",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-02T17:24:09.092679+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "wbFvs": {
@@ -4258,15 +4258,56 @@
       "raw_json": {
         "id": "wbFvs",
         "title": "第3回　強奪の宴杯　カートン争奪",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 2
+    },
+    "uTy6C": {
+      "id": "uTy6C",
+      "url": "https://tonamel.com/competition/uTy6C",
+      "title": "サイドイベント",
+      "start_at": "2026-11-14T17:20:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-14",
+      "format": "オフライン",
+      "venue": "",
+      "address": "",
+      "organizer": "星屑デビルバッツ",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/xWKrs/6b30671a01d2c6ec0a9c69c44922522a5c566f65a30423a964208b9253e16a74.png",
+      "prefecture": "",
+      "region": "",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "サイドイベント\n主催：\n星屑デビルバッツ\nXrossStars\nイベント開始予定\n2026/11/14(土) 17:20 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n開催形式\nオフライン\nイベント詳細\n\n\n\n\n連絡先\n@abi_nzna\nシェア\nイベントID\nuTy6C\n\nイベントに参加\n\n受付は締め切りました\n\nイベントにエントリーした方は、ログインしてイベントに参加してください。\n\nログイン\n\nイベント\n\n参加者\n\nトーナメント表\n\nアナウンス\n\n新規登録\nログイン\nイベントをさがす\nXrossStars\n日本\nサイドイベント\n人気のゲーム\nポケモンカードゲーム \nONE PIECEカードゲーム \nデュエル・マスターズ \nPokémon Trading Card Game Pocket \n遊戯王マスターデュエル \nストリートファイター6 \n遊戯王OCG \n蟲神器 \nGUILTY GEAR -STRIVE- \n大乱闘スマッシュブラザーズSPECIAL \n#コンパス 【戦闘摂理解析システム】 \nウルトラマン カードゲーム \nデジモンカードゲーム \nユニオンアリーナ \nポケットモンスター スカーレット・バイオレット \nDUEL MASTERS PLAY’S\n© KAYAC Inc. All Rights Reserved.\n機能と特徴\nイベントをさがす\n使い方\n導入事例\n利用規約\nプライバシーポリシー\n特定商取引法に基づく表示\n謝辞\nお問い合わせ\n公式ツイッター",
+      "raw_json": {
+        "id": "uTy6C",
+        "title": "サイドイベント",
+        "description": "<p></p>",
+        "region": "JP",
+        "useDetailEntryMenu": true,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "contact": "@abi_nzna",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-14T17:54:19.685878+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
+      "seq": 0
     },
     "RXsBE": {
       "id": "RXsBE",
@@ -4301,7 +4342,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-27T16:41:48.983039+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 1
     },
     "zU6ZN": {
@@ -4337,7 +4378,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T17:22:54.060823+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "qfYdV": {
@@ -4373,7 +4414,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-10T17:24:42.111639+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 1
     },
     "PzAvv": {
@@ -4409,7 +4450,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-30T01:53:03.449973+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "U8iQS": {
@@ -4445,7 +4486,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-03T07:43:06.215165+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "AAxnk": {
@@ -4481,7 +4522,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-06T21:06:38.906414+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "TWIiw": {
@@ -4517,7 +4558,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-06T21:52:46.819052+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "rtMw2": {
@@ -4553,7 +4594,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-05T05:45:41.406372+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
+      "seq": 0
+    },
+    "jcEWk": {
+      "id": "jcEWk",
+      "url": "https://tonamel.com/competition/jcEWk",
+      "title": "MINT OKINAWA CUP #2",
+      "start_at": "2026-11-21T18:30:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-21",
+      "format": "オフライン",
+      "venue": "ミント沖縄店",
+      "address": "イオンモールライカム　4F",
+      "organizer": "ミント沖縄店",
+      "entry_fee": "",
+      "capacity": "16人",
+      "entry_period": "2026/11/15(日) 09:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/6lc4I/89c74dd85fa6097eb253a3ddc9e0f4716e27062ed8dab8ea985e78de6fcb1943.png",
+      "prefecture": "沖縄県",
+      "region": "九州・沖縄",
+      "capacity_num": 16,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "MINT OKINAWA CUP #2\n主催：\nミント沖縄店\nXrossStars\nイベント開始予定\n2026/11/21(土) 18:30 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n16人\n参加枠の上限を超えた場合\nエントリー受付終了\n支払い済みになった順に参加が自動的に確定します。\nエントリー数が上限に達すると自動的にエントリー受付を終了します。\n開催形式\nオフライン\nイベント詳細\n\nこの度オーガナイザーイベントとなりリニューアルいたします！\n\n第2回景品は第5弾BOX！！\n\n\n\n\n【参加キャンセルについて】\n\nキャンセルは必ず大会開催10分前までに行って下さい。\n\n当日の無断キャンセルはご遠慮ください。\n\n\n\n\n……………………\n\n【ルール】\n\n※以下のカードを使用禁止いたします。\n\n【エナジーチャージャー】\n\n※ジャンボリーダーカードのみ、対戦卓の幅を考慮し使用不可とさせていただきます。\n\n\n\n\n裁定やフロアルール等は公式ルールを適用いたします。\n\n\n\n\n※不正行為や非紳士的行為は失格処分、また今後の非公認大会の参加をお断りさせていただくことがございます。\n\n\n\n\n………………………………………………………………\n\n◇　景品　◇\n\n\n\n\n優勝🏆\n\n第2弾【Ignition Vortex】5BOX\n\n　　　　プロモカードパック Vol.4 ×3\n\n　　　　プロモカードパック Vol.5 ×3\n\n　　　　プロモカードパック Vol.6 ×3\n\n　　　　プロモカードパック Vol.7 ×3\n\n\n\n\n順位賞　オーガナイザーイベント限定ダイス\n\n　　　　1位～4位　それぞれおひとつ\n\n\n\n\n参加賞　プロモカードパック Vol.4 ×3\n\n　　　　プロモカードパック Vol.5 ×3\n\n　　　　プロモカードパック Vol.6 ×3\n\n　　　　プロモカードパック Vol.7 ×3\n\n………………………………………………………………\n\n【大会概要】\n\n\n\n\n■参加費\n\n1人　　500円\n\n\n\n\n■会場\n\nミント沖縄店\n\nイオンモールライカム4F\n\n\n\n\n■大会形式\n\n最大4回戦スイスドロー形式\n\n\n\n\n■フォーマット\n\nフルマッチ\n\n\n\n\n■試合時間\n\n35分\n\n\n\n\n※制限時間終了後の処理\n\nタイムアウト時点で勝敗がついていない場合、両者敗北処理を行います。\n\n降参は制限時間内のみ可能となります。\n\n\n\n\n決勝卓のみ10分の延長時間を設け、それでも決着がつかなかった場合はその時点でのダウンしていないリーダーの体力の合計が多いほうの勝利となります。\n\n※ラウンドの勝利数が1－0の場合は、ラウンドをとっている方を勝者とします。\n\n\n\n\n■大会参加に必要な物\n\n・デッキ\n\n・ダメージカウンター、または代用となるダイスなど\n\n\n\n\n【諸注意】\n\n・大会中、使用デッキの変更はできません\n\n・デッキリストの提出はございません\n\n・スリーブは不透明のものを使用してください\n\n・優勝者にはデッキ撮影のご協力をお願いしております。\n\n\n\n\n---イベントページ使用ロゴ---\n\nhttps://xross-stars.com/other/media-kit?tag=1\n\n©G&CO. 2022\n\n続きを読む\n開催場所\nミント沖縄店\nイオンモールライカム　4F\nシェア\nイベントID\njcEWk\n\nイベントに参加\n\nエントリー\n募集人数\n0/16人\n支払い済み人数\n0/16人\nエントリー料\n¥ 500\n募集人数の上限を超えた場合\nエントリー受付終了\nエントリー期間\n2",
+      "raw_json": {
+        "id": "jcEWk",
+        "title": "MINT OKINAWA CUP #2",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-14T17:54:19.685878+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "ZNr8W": {
@@ -4590,7 +4670,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-17T21:08:39.321621+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "KkqyE": {
@@ -4626,7 +4706,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-06T21:52:46.819052+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "WCuE7": {
@@ -4662,7 +4742,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-03T03:00:46.370480+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "9GmtZ": {
@@ -4734,7 +4814,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-01T18:06:48.161873+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "nTEQd": {
@@ -4770,7 +4850,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-09-24T22:30:57.126716+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "Czfza": {
@@ -4806,7 +4886,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "VY2bi": {
@@ -4842,7 +4922,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-04T21:55:29.853997+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "iGTwL": {
@@ -4878,7 +4958,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-31T19:52:02.102089+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 1
     },
     "26HmF": {
@@ -4914,7 +4994,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-19T16:40:15.537175+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "xOdYF": {
@@ -4950,7 +5030,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-06T21:52:46.819052+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "i6ZDX": {
@@ -5023,7 +5103,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-20T22:31:45.805103+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "pYxW8": {
@@ -5059,7 +5139,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-18T21:35:02.093388+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "vREs4": {
@@ -5095,7 +5175,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-05T22:04:22.167529+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "ZwUh6": {
@@ -5131,7 +5211,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "Iwxo1": {
@@ -5167,7 +5247,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-12T03:36:59.481220+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
+      "seq": 0
+    },
+    "8uLZS": {
+      "id": "8uLZS",
+      "url": "https://tonamel.com/competition/8uLZS",
+      "title": "MINT OKINAWA CUP #3",
+      "start_at": "2026-11-28T18:30:00+09:00",
+      "end_at": null,
+      "start_date": "2026-11-28",
+      "format": "オフライン",
+      "venue": "ミント沖縄店",
+      "address": "イオンモールライカム　4F",
+      "organizer": "ミント沖縄店",
+      "entry_fee": "",
+      "capacity": "16人",
+      "entry_period": "2026/11/22(日) 09:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/6lc4I/cfeff8bcfb9d0dc4f11406e5fb20e16ff67737cffb33b847b3137eab611ccb0a.png",
+      "prefecture": "沖縄県",
+      "region": "九州・沖縄",
+      "capacity_num": 16,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "MINT OKINAWA CUP #3\n主催：\nミント沖縄店\nXrossStars\nイベント開始予定\n2026/11/28(土) 18:30 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n16人\n参加枠の上限を超えた場合\nエントリー受付終了\n支払い済みになった順に参加が自動的に確定します。\nエントリー数が上限に達すると自動的にエントリー受付を終了します。\n開催形式\nオフライン\nイベント詳細\n\nこの度オーガナイザーイベントとなりリニューアルいたします！\n\n第3回景品は第5弾BOX！！\n\n\n\n\n【参加キャンセルについて】\n\nキャンセルは必ず大会開催10分前までに行って下さい。\n\n当日の無断キャンセルはご遠慮ください。\n\n\n\n\n……………………\n\n【ルール】\n\n※以下のカードを使用禁止いたします。\n\n【エナジーチャージャー】\n\n※ジャンボリーダーカードのみ、対戦卓の幅を考慮し使用不可とさせていただきます。\n\n\n\n\n裁定やフロアルール等は公式ルールを適用いたします。\n\n\n\n\n※不正行為や非紳士的行為は失格処分、また今後の非公認大会の参加をお断りさせていただくことがございます。\n\n\n\n\n………………………………………………………………\n\n◇　景品　◇\n\n\n\n\n優勝🏆\n\n第5弾【Ignition Vortex】１BOX\n\n　　　　プロモカードパック Vol.4 ×3\n\n　　　　プロモカードパック Vol.5 ×3\n\n　　　　プロモカードパック Vol.6 ×3\n\n　　　　プロモカードパック Vol.7 ×3\n\n\n\n\n順位賞　オーガナイザーイベント限定ダイス\n\n　　　　1位～4位　それぞれおひとつ\n\n\n\n\n参加賞　プロモカードパック Vol.4 ×3\n\n　　　　プロモカードパック Vol.5 ×3\n\n　　　　プロモカードパック Vol.6 ×3\n\n　　　　プロモカードパック Vol.7 ×3\n\n………………………………………………………………\n\n【大会概要】\n\n\n\n\n■参加費\n\n1人　　500円\n\n\n\n\n■会場\n\nミント沖縄店\n\nイオンモールライカム4F\n\n\n\n\n■大会形式\n\n最大4回戦スイスドロー形式\n\n\n\n\n■フォーマット\n\nフルマッチ\n\n\n\n\n■試合時間\n\n35分\n\n\n\n\n※制限時間終了後の処理\n\nタイムアウト時点で勝敗がついていない場合、両者敗北処理を行います。\n\n降参は制限時間内のみ可能となります。\n\n\n\n\n決勝卓のみ10分の延長時間を設け、それでも決着がつかなかった場合はその時点でのダウンしていないリーダーの体力の合計が多いほうの勝利となります。\n\n※ラウンドの勝利数が1－0の場合は、ラウンドをとっている方を勝者とします。\n\n\n\n\n■大会参加に必要な物\n\n・デッキ\n\n・ダメージカウンター、または代用となるダイスなど\n\n\n\n\n【諸注意】\n\n・大会中、使用デッキの変更はできません\n\n・デッキリストの提出はございません\n\n・スリーブは不透明のものを使用してください\n\n・優勝者にはデッキ撮影のご協力をお願いしております。\n\n\n\n\n---イベントページ使用ロゴ---\n\nhttps://xross-stars.com/other/media-kit?tag=1\n\n©G&CO. 2022\n\n続きを読む\n開催場所\nミント沖縄店\nイオンモールライカム　4F\nシェア\nイベントID\n8uLZS\n\nイベントに参加\n\nエントリー\n募集人数\n0/16人\n支払い済み人数\n0/16人\nエントリー料\n¥ 500\n募集人数の上限を超えた場合\nエントリー受付終了\nエントリー期間\n2",
+      "raw_json": {
+        "id": "8uLZS",
+        "title": "MINT OKINAWA CUP #3",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-14T17:54:19.685878+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "NKVjm": {
@@ -5203,7 +5322,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-12T03:36:59.481220+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "bYdMI": {
@@ -5239,7 +5358,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-29T20:27:31.649170+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "JPwj8": {
@@ -5275,7 +5394,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-11T18:14:30.582484+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "ZPYpT": {
@@ -5311,7 +5430,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-08T03:40:33.629149+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -5383,7 +5502,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-02T22:22:47.801906+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -5419,7 +5538,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 2
     },
     "1T2ww": {
@@ -5455,7 +5574,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-14T03:29:03.243195+09:00",
-      "last_updated": "2026-11-14T09:51:17.806702+09:00",
+      "last_updated": "2026-11-14T17:54:19.685878+09:00",
       "seq": 0
     }
   }

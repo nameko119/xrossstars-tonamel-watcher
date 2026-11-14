@@ -1837,6 +1837,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-uTy6C@xrossstars-watcher
+DTSTAMP:20261114T085419Z
+SEQUENCE:0
+DTSTART:20261114T082000Z
+DTEND:20261114T122000Z
+SUMMARY:サイドイベント
+DESCRIPTION:会場: オフライン\n主催: 星屑デビルバッツ\n定
+ 員: 32人\n\nhttps://tonamel.com/competition/uTy6C
+URL:https://tonamel.com/competition/uTy6C
+LOCATION:オフライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-RXsBE@xrossstars-watcher
 DTSTAMP:20261027T074148Z
 SEQUENCE:1
@@ -1959,6 +1973,21 @@ DESCRIPTION:会場: オフライン / SuperKaBoS+ゲオ二の宮本店\n主
  :00 〜\n\nhttps://tonamel.com/competition/rtMw2
 URL:https://tonamel.com/competition/rtMw2
 LOCATION:SuperKaBoS+ゲオ二の宮本店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-jcEWk@xrossstars-watcher
+DTSTAMP:20261114T085419Z
+SEQUENCE:0
+DTSTART:20261121T093000Z
+DTEND:20261121T133000Z
+SUMMARY:MINT OKINAWA CUP #2
+DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
+ 沖縄店\n定員: 16人\nエントリー期間: 2026/11/15(日) 09:00 〜
+ \n\nhttps://tonamel.com/competition/jcEWk
+URL:https://tonamel.com/competition/jcEWk
+LOCATION:ミント沖縄店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -2225,6 +2254,21 @@ DESCRIPTION:会場: オフライン / flat-工房池袋店\n主催: flat-
  00 〜\n\nhttps://tonamel.com/competition/Iwxo1
 URL:https://tonamel.com/competition/Iwxo1
 LOCATION:flat-工房池袋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-8uLZS@xrossstars-watcher
+DTSTAMP:20261114T085419Z
+SEQUENCE:0
+DTSTART:20261128T093000Z
+DTEND:20261128T133000Z
+SUMMARY:MINT OKINAWA CUP #3
+DESCRIPTION:会場: オフライン / ミント沖縄店\n主催: ミント
+ 沖縄店\n定員: 16人\nエントリー期間: 2026/11/22(日) 09:00 〜
+ \n\nhttps://tonamel.com/competition/8uLZS
+URL:https://tonamel.com/competition/8uLZS
+LOCATION:ミント沖縄店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
