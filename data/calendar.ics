@@ -2383,6 +2383,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-UmmZh@xrossstars-watcher
+DTSTAMP:20261115T123929Z
+SEQUENCE:0
+DTSTART:20261227T050000Z
+DTEND:20261227T090000Z
+SUMMARY:第1回　花束CS
+DESCRIPTION:会場: オフライン\n主催: Japan TCG Center吉祥寺駅
+ 北口店\n定員: 32人\nエントリー期間: 2026/12/01(火) 14:00 〜
+ \n\nhttps://tonamel.com/competition/UmmZh
+URL:https://tonamel.com/competition/UmmZh
+LOCATION:オフライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-1T2ww@xrossstars-watcher
 DTSTAMP:20261113T182903Z
 SEQUENCE:0
@@ -2395,6 +2410,21 @@ DESCRIPTION:会場: オフライン / 193 秋葉原店\n主催: 星屑デ
  tition/1T2ww
 URL:https://tonamel.com/competition/1T2ww
 LOCATION:193 秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-zGrd4@xrossstars-watcher
+DTSTAMP:20261115T123929Z
+SEQUENCE:0
+DTSTART:20270124T050000Z
+DTEND:20270124T090000Z
+SUMMARY:第2回　花束CS
+DESCRIPTION:会場: オフライン\n主催: Japan TCG Center吉祥寺駅
+ 北口店\n定員: 32人\nエントリー期間: 2027/01/01(金) 14:00 〜
+ \n\nhttps://tonamel.com/competition/zGrd4
+URL:https://tonamel.com/competition/zGrd4
+LOCATION:オフライン
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
