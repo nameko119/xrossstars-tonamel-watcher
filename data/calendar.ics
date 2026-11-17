@@ -2349,6 +2349,36 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Y4lin@xrossstars-watcher
+DTSTAMP:20261117T141650Z
+SEQUENCE:0
+DTSTART:20261212T030000Z
+DTEND:20261212T070000Z
+SUMMARY:第11回クロスタコギナゴカップ
+DESCRIPTION:会場: オフライン / コーギーアール名古屋店\n
+ 主催: コーギーアール名古屋店\n定員: 32人\nエントリー
+ 期間: 2026/11/17(火) 19:00 〜\n\nhttps://tonamel.com/competition/Y4lin
+URL:https://tonamel.com/competition/Y4lin
+LOCATION:コーギーアール名古屋店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-R1nzg@xrossstars-watcher
+DTSTAMP:20261117T141650Z
+SEQUENCE:0
+DTSTART:20261212T040000Z
+DTEND:20261212T080000Z
+SUMMARY:クロスタ竜星杯＃2
+DESCRIPTION:会場: オフライン / 竜星のPAO立川店\n主催: カー
+ ドショップ竜星のPAO立川店\n定員: 32人\nエントリー期間
+ : 2026/11/17(火) 17:00 〜\n\nhttps://tonamel.com/competition/R1nzg
+URL:https://tonamel.com/competition/R1nzg
+LOCATION:竜星のPAO立川店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082254Z
 SEQUENCE:0
