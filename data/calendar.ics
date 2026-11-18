@@ -2057,10 +2057,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:tonamel-WjScP@xrossstars-watcher
 DTSTAMP:20261101T090648Z
-SEQUENCE:0
+SEQUENCE:1
 DTSTART:20261122T030000Z
 DTEND:20261122T070000Z
-SUMMARY:第8回　Xross Stars Showdown!!
+SUMMARY:第8回　Xross Stars Showdown!! 【公認オーガナイザーイ
+ ベント】
 DESCRIPTION:会場: オフライン / ウィングプラザ パティ　2F
  デュエルスペース\n主催: クロスタ\n定員: 48人\nエント
  リー期間: 2026/11/01(日) 19:00 〜\n\nhttps://tonamel.com/competition
