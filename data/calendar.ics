@@ -2395,6 +2395,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-LJnrB@xrossstars-watcher
+DTSTAMP:20261119T101027Z
+SEQUENCE:0
+DTSTART:20261213T030000Z
+DTEND:20261213T070000Z
+SUMMARY:第4.5回　fam　CUP (仮)
+DESCRIPTION:会場: オフライン / トレカプラザ名古屋駅前店\
+ n主催: トレカプラザ名古屋駅前店\n定員: 96人\nエントリ
+ ー期間: 2026/11/19(木) 16:00 〜\n\nhttps://tonamel.com/competition/LJ
+ nrB
+URL:https://tonamel.com/competition/LJnrB
+LOCATION:トレカプラザ名古屋駅前店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082254Z
 SEQUENCE:0
