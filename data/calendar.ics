@@ -2164,6 +2164,20 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-MVZ0H@xrossstars-watcher
+DTSTAMP:20261122T094044Z
+SEQUENCE:0
+DTSTART:20261122T080000Z
+DTEND:20261122T120000Z
+SUMMARY:第8回 サブイベント
+DESCRIPTION:会場: オフライン\n主催: クロスタ\n定員: 16人\n\
+ nhttps://tonamel.com/competition/MVZ0H
+URL:https://tonamel.com/competition/MVZ0H
+LOCATION:オフライン
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-i6ZDX@xrossstars-watcher
 DTSTAMP:20261017T120839Z
 SEQUENCE:0
@@ -2421,6 +2435,22 @@ DESCRIPTION:会場: オフライン / 竜星のPAO立川店\n主催: カー
  : 2026/11/17(火) 17:00 〜\n\nhttps://tonamel.com/competition/R1nzg
 URL:https://tonamel.com/competition/R1nzg
 LOCATION:竜星のPAO立川店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-oykgt@xrossstars-watcher
+DTSTAMP:20261122T094044Z
+SEQUENCE:0
+DTSTART:20261212T045000Z
+DTEND:20261212T085000Z
+SUMMARY:第3回 未明杯
+DESCRIPTION:会場: オフライン / レプトントレカ海田店\n主
+ 催: うつしみのつどい\n参加費: 500円\n定員: 20人\nエント
+ リー期間: 2026/11/07(土) 17:00 〜\n\nhttps://tonamel.com/competition
+ /oykgt
+URL:https://tonamel.com/competition/oykgt
+LOCATION:レプトントレカ海田店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
