@@ -2471,6 +2471,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-sDLCW@xrossstars-watcher
+DTSTAMP:20261122T182554Z
+SEQUENCE:0
+DTSTART:20261213T040000Z
+DTEND:20261213T080000Z
+SUMMARY:第4回チロカップ
+DESCRIPTION:会場: オフライン / トイコンプ梅田（大阪駅前
+ 第三ビル店）\n主催: チロカップ\n参加費: 1000円\n定員: 3
+ 2人\nエントリー期間: 2026/11/23(月) 21:00 〜\n\nhttps://tonamel.
+ com/competition/sDLCW
+URL:https://tonamel.com/competition/sDLCW
+LOCATION:トイコンプ梅田（大阪駅前第三ビル店）
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Avj2H@xrossstars-watcher
 DTSTAMP:20260930T082254Z
 SEQUENCE:0
@@ -2516,6 +2532,38 @@ DESCRIPTION:会場: オフライン / カードショップおうち\n主
  20(金) 19:00 〜\n\nhttps://tonamel.com/competition/Pogvt
 URL:https://tonamel.com/competition/Pogvt
 LOCATION:カードショップおうち
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-rkrv8@xrossstars-watcher
+DTSTAMP:20261122T182554Z
+SEQUENCE:0
+DTSTART:20261218T031000Z
+DTEND:20261218T071000Z
+SUMMARY:1部:第4回 るなっつ杯@東京
+DESCRIPTION:会場: オフライン / トレーディングカードショ
+ ップ193 秋葉原店\n主催: るなっつ杯\n定員: 32人\nエント
+ リー期間: 2026/11/22(日) 21:00 〜\n\nhttps://tonamel.com/competition
+ /rkrv8
+URL:https://tonamel.com/competition/rkrv8
+LOCATION:トレーディングカードショップ193 秋葉原店
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tonamel-5wRQR@xrossstars-watcher
+DTSTAMP:20261122T182554Z
+SEQUENCE:0
+DTSTART:20261218T072000Z
+DTEND:20261218T112000Z
+SUMMARY:2部:第4回 るなっつ杯@東京
+DESCRIPTION:会場: オフライン / トレーディングカードショ
+ ップ193 秋葉原店\n主催: るなっつ杯\n定員: 32人\nエント
+ リー期間: 2026/11/22(日) 21:00 〜\n\nhttps://tonamel.com/competition
+ /5wRQR
+URL:https://tonamel.com/competition/5wRQR
+LOCATION:トレーディングカードショップ193 秋葉原店
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
