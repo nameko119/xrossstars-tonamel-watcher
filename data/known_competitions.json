@@ -2,31 +2,19 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-11-23T03:25:54.969596+09:00",
+    "last_run": "2026-11-23T09:46:04.729854+09:00",
     "count": 168,
     "last_run_info": {
       "list_count": 27,
       "api_hit": 27,
-      "new": 3,
+      "new": 0,
       "changed": 0,
       "notify": {
-        "mode": "deferred",
-        "pending": {
-          "seed": null,
-          "new": 3,
-          "changed": 0
-        }
+        "mode": "sent",
+        "sent": 1,
+        "delivered_pending": true
       },
       "errors": []
-    },
-    "pending": {
-      "seed": null,
-      "new": [
-        "sDLCW",
-        "rkrv8",
-        "5wRQR"
-      ],
-      "changed": []
     }
   },
   "competitions": {
@@ -5152,7 +5140,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-20T22:31:45.805103+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "pYxW8": {
@@ -5188,7 +5176,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-18T21:35:02.093388+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "vREs4": {
@@ -5224,7 +5212,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-05T22:04:22.167529+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "ZwUh6": {
@@ -5260,7 +5248,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "ykKKw": {
@@ -5296,7 +5284,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-19T04:22:11.083324+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "Iwxo1": {
@@ -5332,7 +5320,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-12T03:36:59.481220+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "Fm85A": {
@@ -5368,7 +5356,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-16T18:27:43.891692+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "8uLZS": {
@@ -5404,7 +5392,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-14T17:54:19.685878+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "NKVjm": {
@@ -5440,7 +5428,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-12T03:36:59.481220+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "bYdMI": {
@@ -5476,7 +5464,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-29T20:27:31.649170+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "EkjyW": {
@@ -5512,7 +5500,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-20T04:27:50.368180+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "JPwj8": {
@@ -5548,7 +5536,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-11T18:14:30.582484+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "LKMvQ": {
@@ -5584,7 +5572,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-20T18:56:37.190232+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "ZPYpT": {
@@ -5620,7 +5608,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-08T03:40:33.629149+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "Y4lin": {
@@ -5656,7 +5644,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-17T23:16:50.279777+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "R1nzg": {
@@ -5692,7 +5680,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-17T23:16:50.279777+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "oykgt": {
@@ -5728,7 +5716,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-22T18:40:44.135247+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "LJnrB": {
@@ -5764,7 +5752,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-19T19:10:27.210966+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "sDLCW": {
@@ -5793,17 +5781,14 @@
       "raw_json": {
         "id": "sDLCW",
         "title": "第4回チロカップ",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-11-23T03:25:54.881742+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -5875,7 +5860,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-02T22:22:47.801906+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "Pogvt": {
@@ -5911,7 +5896,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-20T04:27:50.368180+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "rkrv8": {
@@ -5940,18 +5925,14 @@
       "raw_json": {
         "id": "rkrv8",
         "title": "1部:第4回 るなっつ杯@東京",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "contact": "https://x.com/ninomy_tcg?s=11",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-11-23T03:25:54.881742+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "5wRQR": {
@@ -5980,18 +5961,14 @@
       "raw_json": {
         "id": "5wRQR",
         "title": "2部:第4回 るなっつ杯@東京",
-        "region": "JP",
-        "useDetailEntryMenu": false,
+        "status": "OPENED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
-        "contact": "https://x.com/ninomy_tcg?s=11",
-        "status": "OPENED",
-        "useExternalSiteForEntry": false,
-        "advertisementDisabled": false,
+        "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-11-23T03:25:54.881742+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -6027,7 +6004,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 2
     },
     "UmmZh": {
@@ -6063,7 +6040,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-15T21:39:29.967632+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "1T2ww": {
@@ -6099,7 +6076,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-14T03:29:03.243195+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     },
     "zGrd4": {
@@ -6135,7 +6112,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-15T21:39:29.967632+09:00",
-      "last_updated": "2026-11-23T03:25:54.881742+09:00",
+      "last_updated": "2026-11-23T09:46:03.549860+09:00",
       "seq": 0
     }
   }
