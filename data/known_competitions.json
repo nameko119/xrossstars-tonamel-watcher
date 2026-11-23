@@ -2,17 +2,17 @@
   "meta": {
     "schema_version": 1,
     "note": "初回実行時にTonamel掲載中の大会がここへ書き込まれます。空のままにしておいてください。",
-    "last_run": "2026-11-23T09:46:04.729854+09:00",
-    "count": 168,
+    "last_run": "2026-11-23T19:40:08.955783+09:00",
+    "count": 172,
     "last_run_info": {
-      "list_count": 27,
-      "api_hit": 27,
-      "new": 0,
+      "list_count": 31,
+      "api_hit": 31,
+      "new": 4,
       "changed": 0,
       "notify": {
         "mode": "sent",
         "sent": 1,
-        "delivered_pending": true
+        "delivered_pending": false
       },
       "errors": []
     }
@@ -5133,14 +5133,14 @@
       "raw_json": {
         "id": "XuX01",
         "title": "【クロスギルド主催】第15回 GUILD CUP ",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-20T22:31:45.805103+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "pYxW8": {
@@ -5169,14 +5169,14 @@
       "raw_json": {
         "id": "pYxW8",
         "title": "-第2回-つな友杯",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-18T21:35:02.093388+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "vREs4": {
@@ -5205,14 +5205,14 @@
       "raw_json": {
         "id": "vREs4",
         "title": "第4回　SODA CUP × XrossStars【3on3】",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-11-05T22:04:22.167529+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "ZwUh6": {
@@ -5241,14 +5241,14 @@
       "raw_json": {
         "id": "ZwUh6",
         "title": "11月非公認大会『Ignition Vortex』BOX争奪戦③",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-10-24T16:12:11.074514+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "ykKKw": {
@@ -5277,14 +5277,14 @@
       "raw_json": {
         "id": "ykKKw",
         "title": "XrossStars トイコンプCS 〜1on1〜inトイコンプ岸和田",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-11-19T04:22:11.083324+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "Iwxo1": {
@@ -5313,14 +5313,14 @@
       "raw_json": {
         "id": "Iwxo1",
         "title": "【11/23開催】『Ignition Vortex』争奪戦【flat-工房池袋店】",
-        "status": "OPENED",
+        "status": "CLOSED",
         "useMultiPhaseTournament": false,
         "publicStatus": "PUBLIC",
         "region": "JP",
         "__typename": "Competition"
       },
       "first_seen": "2026-11-12T03:36:59.481220+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "Fm85A": {
@@ -5356,7 +5356,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-16T18:27:43.891692+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "8uLZS": {
@@ -5392,7 +5392,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-14T17:54:19.685878+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "NKVjm": {
@@ -5428,7 +5428,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-12T03:36:59.481220+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "bYdMI": {
@@ -5464,7 +5464,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-10-29T20:27:31.649170+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "EkjyW": {
@@ -5500,7 +5500,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-20T04:27:50.368180+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "JPwj8": {
@@ -5536,7 +5536,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-11T18:14:30.582484+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "LKMvQ": {
@@ -5572,7 +5572,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-20T18:56:37.190232+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "ZPYpT": {
@@ -5608,7 +5608,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-08T03:40:33.629149+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
+      "seq": 0
+    },
+    "2UwTA": {
+      "id": "2UwTA",
+      "url": "https://tonamel.com/competition/2UwTA",
+      "title": "第4回　Xross Cheers杯",
+      "start_at": "2026-12-06T14:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-12-06",
+      "format": "オフライン",
+      "venue": "フルコンプ福岡天神店",
+      "address": "及び対戦中の写真を運営で撮影し、後日Xにアップする場合があります。またベスト4以上入賞の方はデッキリストの写真を撮影し、後日Xにてアップさせていただきます。個人が特定出来ないように加工して載せますのでご了承の程、お願い致します。",
+      "organizer": "しん",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/11/23(月) 12:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/WFFMG/9618401176e1521a4604cb0a77dfcf5131e4472eb6a1660f43ea5972039e0c7a.jpg",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第4回　Xross Cheers杯\n主催：\nしん\nXrossStars\nイベント開始予定\n2026/12/06(日) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\nCheers杯主催のしんです！\n\nこの大会は競技性に特化した大会を目的としています。\n\n内容としては、ルールは公式大会と同じで緊張感をもって試合をしていただきます。\n\n公式大会へ遠征をしている方はプレ練習として\n\n県内で楽しくやっている方は公式大会の雰囲気やプレイ感を楽しんでいただけたらと思っています！\n\n毎回サブイベントの開催もしているのでわいわいやりたい方はサブイベントだけでも参加可能ですので、是非ご参加ください！\n\n以下詳細です。\n\n\n\n\n【禁止・規制カード】\n\n禁止カードは、デッキに1枚も入れてはいけないカードです\n\n規制カードは、デッキに1枚まで入れられるカードです\n\n制限カードは、デッキに指定枚数のみ入れられるカードです\n\n\n\n\n禁止:エナジーチャージャー\n\n規制:\n\n制限:\n\n\n\n\n\n\n\n\n\n\n【大会ルール】\n\n・フルマッチ（30分）\n\n・デッキの入れ替えなし\n\n・基本的に巻き戻し不可\n\n　巻き戻し扱いになるか曖昧になった場合ジャッジを呼んでください。\n\n・2本先取した方が結果登録お願いします\n\n　負けた側が登録してしまうと負け表示なっていても勝ち点が付与されることがあります。\n\n　間違えて登録してしまった場合次の試合が始まるまでに声をかけて頂ければ修正可能です\n\n・時間切れの場合\n\n　タイマーが鳴った時点でまだ試合が終わっていなかった場合、手を止めて両者手を挙げてくださいジャッジが状況を伺い判断いたします。\n\n・デッキ不備\n\n　予選終了後、本選に上がったプレイヤーはデッキ提出をお願いします。\n\n　登録したデッキリストと使用デッキが一致しない場合失格となり繰り上げ当選が\n\n\n\n\n【当日持ち物】\n\n・登録デッキ\n\n・タクティクスデッキ\n\n・ダメカン\n\n・参加費　1000円\n\n・スマホ（マッチングの確認など）\n\n\n\n\n【大会スケジュール】\n\n12:00〜14:00 受付開始\n\n14:00〜14:15 開会式\n\n14:30〜15:00  予選1回戦\n\n15:05〜15:35 予選2回戦\n\n15:40〜16:10 予選3回戦\n\n16:15〜16:45 予選4回戦\n\n16:50〜17:20 予選5回戦\n\n17:20〜17:30 休憩\n\n17:30〜18:00 トナメ1回戦\n\n18:05〜18:35 トナメ2回戦\n\n18:40〜 1位決定戦　制限時間なし\n\n\n\n\n・当日の参加人数や進行具合によって前後する可能性があります。\n\n・休憩時間は本戦上がった方達と話し合い前後します\n\n\n\n\n【景品】\n\n5人以下\n\n1位　女性LRP\n\n\n\n\n8人以下\n\n1位　女性LRP\n\n2位　SRP\n\n\n\n\n10人以下\n\n1位　女性LRP\n\n2位　SRPor公式プレイマット\n\n3位　男性LRPorサプライ\n\n4位　SRorサプライ\n\n\n\n\n【カウンティング】\n\nクロスタのゲームにおいてある程度のカウンティングが必要だと思っているので取り入れました\n\n試合が終わりましたら結果登録後手を挙げてください\n\n・競技勢の方はデッキのカードをランダムに指定して試合終了時にデッキに残っている枚数を当ててもらいます\n\n・カジュアル勢の方はデッキに入っているACE１種類指",
+      "raw_json": {
+        "id": "2UwTA",
+        "title": "第4回　Xross Cheers杯",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-23T19:40:07.801332+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "Y4lin": {
@@ -5644,7 +5683,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-17T23:16:50.279777+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "R1nzg": {
@@ -5680,7 +5719,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-17T23:16:50.279777+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "oykgt": {
@@ -5716,7 +5755,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-22T18:40:44.135247+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
+      "seq": 0
+    },
+    "wtL9e": {
+      "id": "wtL9e",
+      "url": "https://tonamel.com/competition/wtL9e",
+      "title": "第5回　Xross Cheers杯",
+      "start_at": "2026-12-12T14:00:00+09:00",
+      "end_at": null,
+      "start_date": "2026-12-12",
+      "format": "オフライン",
+      "venue": "フルコンプ福岡天神店",
+      "address": "及び対戦中の写真を運営で撮影し、後日Xにアップする場合があります。またベスト4以上入賞の方はデッキリストの写真を撮影し、後日Xにてアップさせていただきます。個人が特定出来ないように加工して載せますのでご了承の程、お願い致します。",
+      "organizer": "しん",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/11/23(月) 12:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/WFFMG/9618401176e1521a4604cb0a77dfcf5131e4472eb6a1660f43ea5972039e0c7a.jpg",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第5回　Xross Cheers杯\n主催：\nしん\nXrossStars\nイベント開始予定\n2026/12/12(土) 14:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\nCheers杯主催のしんです！\n\nこの大会は競技性に特化した大会を目的としています。\n\n内容としては、ルールは公式大会と同じで緊張感をもって試合をしていただきます。\n\n公式大会へ遠征をしている方はプレ練習として\n\n県内で楽しくやっている方は公式大会の雰囲気やプレイ感を楽しんでいただけたらと思っています！\n\n毎回サブイベントの開催もしているのでわいわいやりたい方はサブイベントだけでも参加可能ですので、是非ご参加ください！\n\n以下詳細です。\n\n\n\n\n【禁止・規制カード】\n\n禁止カードは、デッキに1枚も入れてはいけないカードです\n\n規制カードは、デッキに1枚まで入れられるカードです\n\n制限カードは、デッキに指定枚数のみ入れられるカードです\n\n\n\n\n禁止:エナジーチャージャー\n\n規制:\n\n制限:\n\n\n\n\n\n\n\n\n\n\n【大会ルール】\n\n・フルマッチ（30分）\n\n・デッキの入れ替えなし\n\n・基本的に巻き戻し不可\n\n　巻き戻し扱いになるか曖昧になった場合ジャッジを呼んでください。\n\n・2本先取した方が結果登録お願いします\n\n　負けた側が登録してしまうと負け表示なっていても勝ち点が付与されることがあります。\n\n　間違えて登録してしまった場合次の試合が始まるまでに声をかけて頂ければ修正可能です\n\n・時間切れの場合\n\n　タイマーが鳴った時点でまだ試合が終わっていなかった場合、手を止めて両者手を挙げてくださいジャッジが状況を伺い判断いたします。\n\n・デッキ不備\n\n　予選終了後、本選に上がったプレイヤーはデッキ提出をお願いします。\n\n　登録したデッキリストと使用デッキが一致しない場合失格となり繰り上げ当選が\n\n\n\n\n【当日持ち物】\n\n・登録デッキ\n\n・タクティクスデッキ\n\n・ダメカン\n\n・参加費　1000円\n\n・スマホ（マッチングの確認など）\n\n\n\n\n【大会スケジュール】\n\n12:00〜14:00 受付開始\n\n14:00〜14:15 開会式\n\n14:30〜15:00  予選1回戦\n\n15:05〜15:35 予選2回戦\n\n15:40〜16:10 予選3回戦\n\n16:15〜16:45 予選4回戦\n\n16:50〜17:20 予選5回戦\n\n17:20〜17:30 休憩\n\n17:30〜18:00 トナメ1回戦\n\n18:05〜18:35 トナメ2回戦\n\n18:40〜 1位決定戦　制限時間なし\n\n\n\n\n・当日の参加人数や進行具合によって前後する可能性があります。\n\n・休憩時間は本戦上がった方達と話し合い前後します\n\n\n\n\n【景品】\n\n5人以下\n\n1位　女性LRP\n\n\n\n\n8人以下\n\n1位　女性LRP\n\n2位　SRP\n\n\n\n\n10人以下\n\n1位　女性LRP\n\n2位　SRPor公式プレイマット\n\n3位　男性LRPorサプライ\n\n4位　SRorサプライ\n\n\n\n\n【カウンティング】\n\nクロスタのゲームにおいてある程度のカウンティングが必要だと思っているので取り入れました\n\n試合が終わりましたら結果登録後手を挙げてください\n\n・競技勢の方はデッキのカードをランダムに指定して試合終了時にデッキに残っている枚数を当ててもらいます\n\n・カジュアル勢の方はデッキに入っているACE１種類指",
+      "raw_json": {
+        "id": "wtL9e",
+        "title": "第5回　Xross Cheers杯",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-23T19:40:07.801332+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "LJnrB": {
@@ -5752,7 +5830,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-19T19:10:27.210966+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "sDLCW": {
@@ -5788,7 +5866,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-23T03:25:54.881742+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "Avj2H": {
@@ -5860,7 +5938,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-02T22:22:47.801906+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "Pogvt": {
@@ -5896,7 +5974,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-20T04:27:50.368180+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "rkrv8": {
@@ -5932,7 +6010,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-23T03:25:54.881742+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "5wRQR": {
@@ -5968,7 +6046,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-23T03:25:54.881742+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "Q3g0B": {
@@ -6004,7 +6082,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-08-26T23:01:21.797504+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 2
     },
     "UmmZh": {
@@ -6040,7 +6118,7 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-15T21:39:29.967632+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "1T2ww": {
@@ -6076,7 +6154,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-14T03:29:03.243195+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
+      "seq": 0
+    },
+    "Fg4DL": {
+      "id": "Fg4DL",
+      "url": "https://tonamel.com/competition/Fg4DL",
+      "title": "第6回　Xross Cheers杯",
+      "start_at": "2027-01-17T15:00:00+09:00",
+      "end_at": null,
+      "start_date": "2027-01-17",
+      "format": "オフライン",
+      "venue": "フルコンプ福岡天神店",
+      "address": "及び対戦中の写真を運営で撮影し、後日Xにアップする場合があります。またベスト4以上入賞の方はデッキリストの写真を撮影し、後日Xにてアップさせていただきます。個人が特定出来ないように加工して載せますのでご了承の程、お願い致します。",
+      "organizer": "しん",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/11/23(月) 12:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/WFFMG/9618401176e1521a4604cb0a77dfcf5131e4472eb6a1660f43ea5972039e0c7a.jpg",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第6回　Xross Cheers杯\n主催：\nしん\nXrossStars\nイベント開始予定\n2027/01/17(日) 15:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\nCheers杯主催のしんです！\n\nこの大会は競技性に特化した大会を目的としています。\n\n内容としては、ルールは公式大会と同じで緊張感をもって試合をしていただきます。\n\n公式大会へ遠征をしている方はプレ練習として\n\n県内で楽しくやっている方は公式大会の雰囲気やプレイ感を楽しんでいただけたらと思っています！\n\n毎回サブイベントの開催もしているのでわいわいやりたい方はサブイベントだけでも参加可能ですので、是非ご参加ください！\n\n以下詳細です。\n\n\n\n\n【禁止・規制カード】\n\n禁止カードは、デッキに1枚も入れてはいけないカードです\n\n規制カードは、デッキに1枚まで入れられるカードです\n\n制限カードは、デッキに指定枚数のみ入れられるカードです\n\n\n\n\n禁止:エナジーチャージャー\n\n規制:\n\n制限:\n\n\n\n\n\n\n\n\n\n\n【大会ルール】\n\n・フルマッチ（30分）\n\n・デッキの入れ替えなし\n\n・基本的に巻き戻し不可\n\n　巻き戻し扱いになるか曖昧になった場合ジャッジを呼んでください。\n\n・2本先取した方が結果登録お願いします\n\n　負けた側が登録してしまうと負け表示なっていても勝ち点が付与されることがあります。\n\n　間違えて登録してしまった場合次の試合が始まるまでに声をかけて頂ければ修正可能です\n\n・時間切れの場合\n\n　タイマーが鳴った時点でまだ試合が終わっていなかった場合、手を止めて両者手を挙げてくださいジャッジが状況を伺い判断いたします。\n\n・デッキ不備\n\n　予選終了後、本選に上がったプレイヤーはデッキ提出をお願いします。\n\n　登録したデッキリストと使用デッキが一致しない場合失格となり繰り上げ当選が\n\n\n\n\n【当日持ち物】\n\n・登録デッキ\n\n・タクティクスデッキ\n\n・ダメカン\n\n・参加費　1000円\n\n・スマホ（マッチングの確認など）\n\n\n\n\n【大会スケジュール】\n\n14:00〜15:00 受付開始\n\n15:00〜15:15 開会式\n\n15:30〜16:00  予選1回戦\n\n16:05〜16:35 予選2回戦\n\n16:40〜17:10 予選3回戦\n\n17:15〜17:45 予選4回戦\n\n17:50〜18:20 予選5回戦\n\n18:20〜18:30 休憩\n\n18:30〜19:00 トナメ1回戦\n\n19:05〜19:35 トナメ2回戦\n\n19:40〜 1位決定戦　制限時間なし\n\n\n\n\n・当日の参加人数や進行具合によって前後する可能性があります。\n\n・休憩時間は本戦上がった方達と話し合い前後します\n\n\n\n\n【景品】\n\n5人以下\n\n1位　女性LRP\n\n\n\n\n8人以下\n\n1位　女性LRP\n\n2位　SRP\n\n\n\n\n10人以下\n\n1位　女性LRP\n\n2位　SRPor公式プレイマット\n\n3位　男性LRPorサプライ\n\n4位　SRorサプライ\n\n\n\n\n【カウンティング】\n\nクロスタのゲームにおいてある程度のカウンティングが必要だと思っているので取り入れました\n\n試合が終わりましたら結果登録後手を挙げてください\n\n・競技勢の方はデッキのカードをランダムに指定して試合終了時にデッキに残っている枚数を当ててもらいます\n\n・カジュアル勢の方はデッキに入っているACE１種類指",
+      "raw_json": {
+        "id": "Fg4DL",
+        "title": "第6回　Xross Cheers杯",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-23T19:40:07.801332+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     },
     "zGrd4": {
@@ -6112,7 +6229,46 @@
         "__typename": "Competition"
       },
       "first_seen": "2026-11-15T21:39:29.967632+09:00",
-      "last_updated": "2026-11-23T09:46:03.549860+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
+      "seq": 0
+    },
+    "QIt25": {
+      "id": "QIt25",
+      "url": "https://tonamel.com/competition/QIt25",
+      "title": "第7回　Xross Cheers杯",
+      "start_at": "2027-01-31T15:00:00+09:00",
+      "end_at": null,
+      "start_date": "2027-01-31",
+      "format": "オフライン",
+      "venue": "フルコンプ福岡天神店",
+      "address": "及び対戦中の写真を運営で撮影し、後日Xにアップする場合があります。またベスト4以上入賞の方はデッキリストの写真を撮影し、後日Xにてアップさせていただきます。個人が特定出来ないように加工して載せますのでご了承の程、お願い致します。",
+      "organizer": "しん",
+      "entry_fee": "",
+      "capacity": "32人",
+      "entry_period": "2026/11/23(月) 12:00 〜",
+      "image_url": "https://img.tonamel.com/c!/f=webp:auto,w=512,h=288,a=2/upload_images/organize_competition/WFFMG/9618401176e1521a4604cb0a77dfcf5131e4472eb6a1660f43ea5972039e0c7a.jpg",
+      "prefecture": "福岡県",
+      "region": "九州・沖縄",
+      "capacity_num": 32,
+      "fee_num": null,
+      "is_online": false,
+      "source": "detail",
+      "detail_version": 3,
+      "raw_text": "第7回　Xross Cheers杯\n主催：\nしん\nXrossStars\nイベント開始予定\n2027/01/31(日) 15:00 〜\nトーナメント形式\nスイスドロー\n参加枠の上限\n32人\n参加枠の上限を超えた場合\nエントリー先着順\n支払い済みになった順に参加が自動的に確定します。\n開催形式\nオフライン\nイベント詳細\n\nCheers杯主催のしんです！\n\nこの大会は競技性に特化した大会を目的としています。\n\n内容としては、ルールは公式大会と同じで緊張感をもって試合をしていただきます。\n\n公式大会へ遠征をしている方はプレ練習として\n\n県内で楽しくやっている方は公式大会の雰囲気やプレイ感を楽しんでいただけたらと思っています！\n\n毎回サブイベントの開催もしているのでわいわいやりたい方はサブイベントだけでも参加可能ですので、是非ご参加ください！\n\n以下詳細です。\n\n\n\n\n【禁止・規制カード】\n\n禁止カードは、デッキに1枚も入れてはいけないカードです\n\n規制カードは、デッキに1枚まで入れられるカードです\n\n制限カードは、デッキに指定枚数のみ入れられるカードです\n\n\n\n\n禁止:エナジーチャージャー\n\n規制:\n\n制限:\n\n\n\n\n\n\n\n\n\n\n【大会ルール】\n\n・フルマッチ（30分）\n\n・デッキの入れ替えなし\n\n・基本的に巻き戻し不可\n\n　巻き戻し扱いになるか曖昧になった場合ジャッジを呼んでください。\n\n・2本先取した方が結果登録お願いします\n\n　負けた側が登録してしまうと負け表示なっていても勝ち点が付与されることがあります。\n\n　間違えて登録してしまった場合次の試合が始まるまでに声をかけて頂ければ修正可能です\n\n・時間切れの場合\n\n　タイマーが鳴った時点でまだ試合が終わっていなかった場合、手を止めて両者手を挙げてくださいジャッジが状況を伺い判断いたします。\n\n・デッキ不備\n\n　予選終了後、本選に上がったプレイヤーはデッキ提出をお願いします。\n\n　登録したデッキリストと使用デッキが一致しない場合失格となり繰り上げ当選が\n\n\n\n\n【当日持ち物】\n\n・登録デッキ\n\n・タクティクスデッキ\n\n・ダメカン\n\n・参加費　1000円\n\n・スマホ（マッチングの確認など）\n\n\n\n\n【大会スケジュール】\n\n14:00〜15:00 受付開始\n\n15:00〜15:15 開会式\n\n15:30〜16:00  予選1回戦\n\n16:05〜16:35 予選2回戦\n\n16:40〜17:10 予選3回戦\n\n17:15〜17:45 予選4回戦\n\n17:50〜18:20 予選5回戦\n\n18:20〜18:30 休憩\n\n18:30〜19:00 トナメ1回戦\n\n19:05〜19:35 トナメ2回戦\n\n19:40〜 1位決定戦　制限時間なし\n\n\n\n\n・当日の参加人数や進行具合によって前後する可能性があります。\n\n・休憩時間は本戦上がった方達と話し合い前後します\n\n\n\n\n【景品】\n\n5人以下\n\n1位　女性LRP\n\n\n\n\n8人以下\n\n1位　女性LRP\n\n2位　SRP\n\n\n\n\n10人以下\n\n1位　女性LRP\n\n2位　SRPor公式プレイマット\n\n3位　男性LRPorサプライ\n\n4位　SRorサプライ\n\n\n\n\n【カウンティング】\n\nクロスタのゲームにおいてある程度のカウンティングが必要だと思っているので取り入れました\n\n試合が終わりましたら結果登録後手を挙げてください\n\n・競技勢の方はデッキのカードをランダムに指定して試合終了時にデッキに残っている枚数を当ててもらいます\n\n・カジュアル勢の方はデッキに入っているACE１種類指",
+      "raw_json": {
+        "id": "QIt25",
+        "title": "第7回　Xross Cheers杯",
+        "region": "JP",
+        "useDetailEntryMenu": false,
+        "useMultiPhaseTournament": false,
+        "publicStatus": "PUBLIC",
+        "status": "OPENED",
+        "useExternalSiteForEntry": false,
+        "advertisementDisabled": false,
+        "__typename": "Competition"
+      },
+      "first_seen": "2026-11-23T19:40:07.801332+09:00",
+      "last_updated": "2026-11-23T19:40:07.801332+09:00",
       "seq": 0
     }
   }
