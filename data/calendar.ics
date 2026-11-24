@@ -2551,6 +2551,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:tonamel-Nawxx@xrossstars-watcher
+DTSTAMP:20261124T065450Z
+SEQUENCE:0
+DTSTART:20261213T053000Z
+DTEND:20261213T093000Z
+SUMMARY:シズクロ#02
+DESCRIPTION:会場: オフライン / 静岡市南部生涯学習センタ
+ ー　第3集会室\n主催: 茶クロス\n定員: 32人\nエントリー
+ 期間: 2026/11/27(金) 10:00 〜\n\nhttps://tonamel.com/competition/Nawxx
+URL:https://tonamel.com/competition/Nawxx
+LOCATION:静岡市南部生涯学習センター　第3集会室
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:tonamel-Pogvt@xrossstars-watcher
 DTSTAMP:20261119T192750Z
 SEQUENCE:0
